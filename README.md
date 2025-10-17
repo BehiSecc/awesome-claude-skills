@@ -74,7 +74,7 @@
 - [file-manager](https://github.com/anthropics/skills/tree/main/file-manager) - List, read, write local or cloud files.  
 - [task-runner](https://github.com/anthropics/skills/tree/main/task-runner) - Chain multiple skills into automated workflows.  
 - [email-parser](https://github.com/anthropics/skills/tree/main/email-parser) - Parse email content into structured summaries or data.  
-- [skill-creator](https:// https://github.com/anthropics/skills/tree/main/skill-creator) - Template / helper to build new Claude skills.  
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skill-creator) - Template / helper to build new Claude skills.  
 - [template-skill](https://github.com/anthropics/skills/tree/main/template-skill) - Minimal skeleton for a new skill project structure.  
 
 ## 🤝 Contribution
