@@ -34,6 +34,7 @@
 - [csv-analysis](https://github.com/anthropics/skills/tree/main/data-skills/csv-analysis) - Summarize and visualize CSV data statistically.  
 - [json-parser](https://github.com/anthropics/skills/tree/main/data-skills/json-parser) - Parse and transform JSON into structured forms.  
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
+- [claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill) – Teach your Claude how to make pretty d3.js visualisations, woth a somewhat opinionated framework ofnhow to visualise what type of data.
 
 
 
