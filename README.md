@@ -4,6 +4,7 @@
 - [Document Skills](#-document-skills)  
 - [Development & Code Tools](#-development--code-tools)  
 - [Data & Analysis](#-data--analysis)  
+- [Scientific & Research Tools](#-scientific--research-tools)  
 - [Writing & Research](#-writing--research)  
 - [Learning & Knowledge](#-learning--knowledge)  
 - [Media & Content](#-media--content)  
@@ -33,6 +34,11 @@
 ## 📊 Data & Analysis  
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger 
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
+
+
+
+## 🔬 Scientific & Research Tools
+- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Comprehensive collection of 24 scientific databases (AlphaFold, ChEMBL, PubMed, UniProt, KEGG, etc.), 40 scientific packages (RDKit, Biopython, Scanpy, DeepChem, PyTorch Lightning, etc.), 6 scientific integrations (Benchling, DNAnexus, Opentrons, OMERO, etc.), and 9 scientific thinking workflows covering bioinformatics, cheminformatics, machine learning, materials science, and data analysis with 122 documented workflows
 
 
 
