@@ -27,7 +27,7 @@
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) - Guides completion of development work by presenting clear options and handling chosen workflow.
 - [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
-
+- [aws-skills](https://github.com/zxkane/aws-skills) - AWS development toolkit with CDK best practices, cost optimization and operations across 7 MCP servers, and serverless/event-driven architecture patterns based on Well-Architected Framework.
 
 
 ## 📊 Data & Analysis  
