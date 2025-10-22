@@ -28,6 +28,8 @@
 - [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) - Guides completion of development work by presenting clear options and handling chosen workflow.
 - [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development toolkit with CDK best practices, cost optimization and operations across 7 MCP servers, and serverless/event-driven architecture patterns based on Well-Architected Framework.
+- [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
+
 
 
 ## 📊 Data & Analysis  
@@ -41,6 +43,7 @@
 - [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section
 -  [internal-comms](https://github.com/anthropics/skills/tree/main/internal-comms) - Create internal communications	(status reports, leadership updates, etc)
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
+- [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 
 
 ## 📘 Learning & Knowledge  
