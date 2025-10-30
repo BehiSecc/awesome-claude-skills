@@ -38,7 +38,10 @@
 
 
 ## 🔬 Scientific & Research Tools
-- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Comprehensive collection of 24 scientific databases (AlphaFold, ChEMBL, PubMed, UniProt, KEGG, etc.), 40 scientific packages (RDKit, Biopython, Scanpy, DeepChem, PyTorch Lightning, etc.), 6 scientific integrations (Benchling, DNAnexus, Opentrons, OMERO, etc.), and 9 scientific thinking workflows covering bioinformatics, cheminformatics, machine learning, materials science, and data analysis with 122 documented workflows
+- [scientific-databases](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases) - Access to 26 scientific databases including PubMed, PubChem, UniProt, ChEMBL, and AlphaFold DB.
+- [scientific-integrations](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations) - Platform integrations for lab automation and workflow management (Benchling, DNAnexus, Opentrons, and more).
+- [scientific-packages](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages) - 58 specialized Python packages for bioinformatics, cheminformatics, machine learning, and data analysis.
+- [scientific-thinking](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking) - Analysis tools and document processing for scientific writing, visualization, and methodology.
 
 
 
