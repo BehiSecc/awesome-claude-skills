@@ -36,6 +36,7 @@
 ## 📊 Data & Analysis  
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger 
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
+- [claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill) – Teach your Claude how to make pretty d3.js visualisations, woth a somewhat opinionated framework ofnhow to visualise what type of data.
 
 
 
