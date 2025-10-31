@@ -4,6 +4,7 @@
 - [Document Skills](#-document-skills)  
 - [Development & Code Tools](#-development--code-tools)  
 - [Data & Analysis](#-data--analysis)  
+- [Scientific & Research Tools](#-scientific--research-tools)  
 - [Writing & Research](#-writing--research)  
 - [Learning & Knowledge](#-learning--knowledge)  
 - [Media & Content](#-media--content)  
@@ -35,6 +36,14 @@
 ## 📊 Data & Analysis  
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger 
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
+
+
+
+## 🔬 Scientific & Research Tools
+- [scientific-databases](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases) - Access to 26 scientific databases including PubMed, PubChem, UniProt, ChEMBL, and AlphaFold DB.
+- [scientific-integrations](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations) - Platform integrations for lab automation and workflow management (Benchling, DNAnexus, Opentrons, and more).
+- [scientific-packages](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages) - 58 specialized Python packages for bioinformatics, cheminformatics, machine learning, and data analysis.
+- [scientific-thinking](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking) - Analysis tools and document processing for scientific writing, visualization, and methodology.
 
 
 
