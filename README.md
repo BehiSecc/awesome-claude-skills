@@ -74,6 +74,7 @@
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.  
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
 - [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/meeting-insights-analyzer/) - Transforms your meeting transcripts into actionable insights about your communication patterns
+- [linear-cli-skill](https://github.com/Valian/linear-cli-skill) - A skill teaching claude how to use linear-CLI (provided alongside the skill), meant to replace linear MCP.
 
 
 ## 🛡 Security & Web Testing  
