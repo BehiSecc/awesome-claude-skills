@@ -91,7 +91,15 @@
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skill-creator) - Template / helper to build new Claude skills.  
-- [template-skill](https://github.com/anthropics/skills/tree/main/template-skill) - Minimal skeleton for a new skill project structure.  
+- [template-skill](https://github.com/anthropics/skills/tree/main/template-skill) - Minimal skeleton for a new skill project structure.
+
+
+
+## 🎬 Presentations
+- [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Anthropic's skill for generating PowerPoint presentations.
+- [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+
+
 
 ## 🤝 Contribution
 
