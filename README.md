@@ -95,8 +95,6 @@
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skill-creator) - Template / helper to build new Claude skills.  
 - [template-skill](https://github.com/anthropics/skills/tree/main/template-skill) - Minimal skeleton for a new skill project structure.
 
-
-
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
