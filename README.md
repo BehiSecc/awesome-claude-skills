@@ -1,16 +1,17 @@
 # Awesome Claude Skills
 
-## 📚 Table of Contents  
-- [Document Skills](#-document-skills)  
-- [Development & Code Tools](#-development--code-tools)  
-- [Data & Analysis](#-data--analysis)  
-- [Scientific & Research Tools](#-scientific--research-tools)  
-- [Writing & Research](#-writing--research)  
-- [Learning & Knowledge](#-learning--knowledge)  
-- [Media & Content](#-media--content)  
-- [Collaboration & Project Management](#-collaboration--project-management)  
-- [Security & Web Testing](#-security--web-testing)  
+## 📚 Table of Contents
+- [Document Skills](#-document-skills)
+- [Development & Code Tools](#-development--code-tools)
+- [Data & Analysis](#-data--analysis)
+- [Scientific & Research Tools](#-scientific--research-tools)
+- [Writing & Research](#-writing--research)
+- [Learning & Knowledge](#-learning--knowledge)
+- [Media & Content](#-media--content)
+- [Collaboration & Project Management](#-collaboration--project-management)
+- [Security & Web Testing](#-security--web-testing)
 - [Utility & Automation](#-utility--automation)
+- [Plugin Marketplace](#-plugin-marketplace)
 
 
 ## 📄 Document Skills  
@@ -90,8 +91,16 @@
 ## 🔧 Utility & Automation  
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
-- [skill-creator](https://github.com/anthropics/skills/tree/main/skill-creator) - Template / helper to build new Claude skills.  
-- [template-skill](https://github.com/anthropics/skills/tree/main/template-skill) - Minimal skeleton for a new skill project structure.  
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skill-creator) - Template / helper to build new Claude skills.
+- [template-skill](https://github.com/anthropics/skills/tree/main/template-skill) - Minimal skeleton for a new skill project structure.
+
+
+## 🏪 Plugin Marketplace
+
+Installable plugin collections for Claude Code that bundle multiple skills, commands, agents, and hooks.
+
+- [claude-night-market](https://github.com/athola/claude-night-market) - Modular plugin ecosystem with 12+ specialized plugins for Claude Code workflows. See [Capabilities Reference](https://github.com/athola/claude-night-market/blob/master/docs/capabilities-reference.md) for full list of skills, commands, agents, and hooks. Install: `/plugin marketplace add athola/claude-night-market`
+
 
 ## 🤝 Contribution
 
