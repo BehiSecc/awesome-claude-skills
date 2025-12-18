@@ -42,7 +42,7 @@
 
 
 ## 🔬 Scientific & Research Tools
-- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - 125+ ready-to-use scientific skills for Claude covering bioinformatics, cheminformatics, clinical research, machine learning, and more. Includes 26+ scientific databases, 54+ Python packages, 15+ platform integrations, and 20+ analysis tools.
+- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - 125+ scientific skills for bioinformatics, cheminformatics, clinical research, and machine learning.
 
 
 
