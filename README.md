@@ -98,7 +98,8 @@
 
 If you have suggestions, improvements, or new resources to add:
 
-1. Fork this repo
+1. Fork this repo- [salesably-marketplace](https://github.com/Salesably/salesably-marketplace) - Claude Code plugins for sales and marketing teams; turn Claude into a seasoned sales strategist and marketing expert.
+
 2. Make your changes
 3. Submit a Pull Request
 
