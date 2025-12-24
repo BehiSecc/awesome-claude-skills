@@ -72,19 +72,21 @@
 
 
 
-## 🤝 Collaboration & Project Management  
-- [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.  
-- [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.  
-- [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
-- [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/meeting-insights-analyzer/) - Transforms your meeting transcripts into actionable insights about your communication patterns
+## 🤝 Collaboration & Project Management
+- [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
+- [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks for reliable project tracking.
 - [linear-cli-skill](https://github.com/Valian/linear-cli-skill) - A skill teaching claude how to use linear-CLI (provided alongside the skill), meant to replace linear MCP.
+- [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/meeting-insights-analyzer/) - Transforms your meeting transcripts into actionable insights about your communication patterns
+- [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
+- [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
 
 
-## 🛡 Security & Web Testing  
-- [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
+## 🛡 Security & Web Testing
 - [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
-- [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
+- [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
 - [systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging) - Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+- [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
+- [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 
 
 
