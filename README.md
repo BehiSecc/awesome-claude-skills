@@ -36,6 +36,7 @@
 - [claude-starter](https://github.com/raintree-technology/claude-starter) - Production-ready Claude Code configuration template with 40 auto-activating skills across 8 domains, TOON format support for 30-60% token savings, and native Zig encoder/decoder.
 - [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
 - [claude-code-terminal-title](https://github.com/bluzername/claude-code-terminal-title) - Gives each Claud Code terminal window a dynamic title that describes the work being done so you don't lose track of what terminal window is doing what.
+- [plugin-authoring](https://github.com/ivan-magda/claude-code-plugin-template/tree/main/plugins/plugin-development/skills/plugin-authoring) - Ambient guidance for creating, modifying, and debugging Claude Code plugins with schemas, templates, validation workflows, and troubleshooting.
 
 
 
