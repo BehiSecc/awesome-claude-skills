@@ -86,6 +86,7 @@
 ## 🛡 Security & Web Testing
 - [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
 - [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
+- [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging) - Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 - [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
