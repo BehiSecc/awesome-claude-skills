@@ -10,6 +10,7 @@
   - [✍️ Writing \& Research](#️-writing--research)
   - [📘 Learning \& Knowledge](#-learning--knowledge)
   - [🎬 Media \& Content](#-media--content)
+  - [🏥 Health & Life Sciences](#-health--life-sciences)
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
   - [🛡 Security \& Web Testing](#-security--web-testing)
   - [🔧 Utility \& Automation](#-utility--automation)
@@ -73,6 +74,9 @@
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, and visual assets.
 - [claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Parse and analyze EPUB ebook contents for querying or summarizing.
 
+
+## 🏥 Health & Life Sciences
+- [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 
 
 ## 🤝 Collaboration & Project Management
