@@ -10,6 +10,7 @@
   - [✍️ Writing \& Research](#️-writing--research)
   - [📘 Learning \& Knowledge](#-learning--knowledge)
   - [🎬 Media \& Content](#-media--content)
+  - [🏥 Health & Life Sciences](#-health--life-sciences)
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
   - [🛡 Security \& Web Testing](#-security--web-testing)
   - [🔧 Utility \& Automation](#-utility--automation)
@@ -37,6 +38,7 @@
 - [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
 - [claude-code-terminal-title](https://github.com/bluzername/claude-code-terminal-title) - Gives each Claud Code terminal window a dynamic title that describes the work being done so you don't lose track of what terminal window is doing what.
 - [plugin-authoring](https://github.com/ivan-magda/claude-code-plugin-template/tree/main/plugins/plugin-development/skills/plugin-authoring) - Ambient guidance for creating, modifying, and debugging Claude Code plugins with schemas, templates, validation workflows, and troubleshooting.
+- [claude-skills](https://github.com/jeffallan/claude-skills) - 65 full-stack development skills with progressive disclosure, covering React, NestJS, Python, DevOps, and 30+ frameworks.
 
 
 
@@ -50,6 +52,7 @@
 ## 🔬 Scientific & Research Tools
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - 125+ scientific skills for bioinformatics, cheminformatics, clinical research, and machine learning.
 - [materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills) - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing.
+- [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews.
 
 
 ## ✍️ Writing & Research  
@@ -72,7 +75,11 @@
 - [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves the quality of images, especially screenshots.
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, and visual assets.
 - [claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Parse and analyze EPUB ebook contents for querying or summarizing.
+- [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
 
+
+## 🏥 Health & Life Sciences
+- [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 
 
 ## 🤝 Collaboration & Project Management
@@ -83,12 +90,15 @@
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
 - [plannotator](https://github.com/backnotprop/plannotator) - Interactive plan review UI for Claude Code with visual annotation, offline sharing, and Obsidian/Bear integration.
+- [claude-skills](https://github.com/jeffallan/claude-skills) - 9 project workflow commands (discovery, planning, execution, retrospectives) with Jira/Confluence integration.
+- [outline](https://github.com/sanjay3290/ai-skills/tree/main/skills/outline) - Search, read, create, and manage documents in Outline wiki instances (cloud or self-hosted).
 
 
 ## 🛡 Security & Web Testing
 - [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
 - [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
 - [systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging) - Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+- [Trail of Bits Security Skills](https://github.com/trailofbits/skills) - Security skills for static analysis with CodeQL/Semgrep, variant analysis, code auditing, and fix verification.
 - [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 
@@ -99,6 +109,11 @@
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.  
+
+### Deployment
+
+**[glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme)** - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
+
 
 ## 🤝 Contribution
 
