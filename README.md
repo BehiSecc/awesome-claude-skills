@@ -89,6 +89,7 @@
 - [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/meeting-insights-analyzer/) - Transforms your meeting transcripts into actionable insights about your communication patterns
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
+- [plannotator](https://github.com/backnotprop/plannotator) - Interactive plan review UI for Claude Code with visual annotation, offline sharing, and Obsidian/Bear integration.
 - [claude-skills](https://github.com/jeffallan/claude-skills) - 9 project workflow commands (discovery, planning, execution, retrospectives) with Jira/Confluence integration.
 - [outline](https://github.com/sanjay3290/ai-skills/tree/main/skills/outline) - Search, read, create, and manage documents in Outline wiki instances (cloud or self-hosted).
 
