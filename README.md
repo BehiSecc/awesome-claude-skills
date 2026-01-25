@@ -139,3 +139,11 @@ If you want to contact me, you can reach me on [X](https://x.com/Behi_Sec).
 
 ### Code Quality
 - [codex-review](https://github.com/BenedictKing/codex-review) - Professional code review with auto CHANGELOG generation, integrated with Codex AI
+
+## Development Tools
+
+- [context7-auto-research](./context7-auto-research/) - Auto-fetch latest library/framework documentation. Inspired by [BenedictKing](https://github.com/BenedictKing).
+- [tavily-web](./tavily-web/) - Web search, extraction, crawling. Inspired by [BenedictKing](https://github.com/BenedictKing).
+- [exa-search](./exa-search/) - Semantic search using Exa API. Inspired by [BenedictKing](https://github.com/BenedictKing).
+- [firecrawl-scraper](./firecrawl-scraper/) - Deep web scraping, screenshots, PDF parsing. Inspired by [BenedictKing](https://github.com/BenedictKing).
+- [codex-review](./codex-review/) - Professional code review with auto CHANGELOG. Inspired by [BenedictKing](https://github.com/BenedictKing).
