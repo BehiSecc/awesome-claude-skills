@@ -77,7 +77,8 @@
 - [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves the quality of images, especially screenshots.
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, and visual assets.
 - [claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Parse and analyze EPUB ebook contents for querying or summarizing.
-- [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
+- [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.)
+- [rodin3d-skill](https://github.com/DeemosTech/rodin3d-skills) - Generate 3D models from images or text using Hyper3D Rodin Gen-2 API with multiple output formats (GLB, USDZ, FBX, OBJ, STL).
 
 
 ## 🏥 Health & Life Sciences
