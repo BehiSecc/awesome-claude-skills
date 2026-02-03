@@ -18,6 +18,10 @@
   - [📬 Contact](#-contact)
 
 
+>[!Tip]
+>If you use Claude to build web applications, do yourself a favor and use [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) to avoid getting hacked.
+
+
 ## 📄 Document Skills  
 - [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.  
 - [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) - Extract text, tables, metadata, merge & annotate PDFs.  
