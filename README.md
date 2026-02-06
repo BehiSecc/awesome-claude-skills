@@ -14,6 +14,7 @@
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
   - [🛡 Security \& Web Testing](#-security--web-testing)
   - [🔧 Utility \& Automation](#-utility--automation)
+  - [🔌 SaaS App Automation (via Rube MCP)](#-saas-app-automation-via-rube-mcp)
   - [🤝 Contribution](#-contribution)
   - [📬 Contact](#-contact)
 
@@ -124,6 +125,28 @@
 ### Deployment
 
 **[glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme)** - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
+
+
+## 🔌 SaaS App Automation (via Rube MCP)
+
+78 automation skills for SaaS apps powered by [Rube MCP](https://rube.app/mcp) (Composio). Each skill covers workflow patterns, tool sequences, common pitfalls, and parameter guidance. Install all with `npx skills add ComposioHQ/awesome-claude-skills --all`. Source: [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills).
+
+**CRM:** salesforce, hubspot, pipedrive, zoho-crm, close
+**Project Management:** jira, asana, trello, clickup, monday, linear, wrike, basecamp, coda
+**Communication:** slack, discord, microsoft-teams, telegram, whatsapp
+**Email:** gmail, outlook, sendgrid, mailchimp, postmark, brevo, convertkit, activecampaign, klaviyo
+**Code & DevOps:** github, gitlab, bitbucket, vercel, render, sentry, datadog, pagerduty, circleci, posthog
+**Storage & Docs:** google-drive, dropbox, box, one-drive, notion, confluence, airtable
+**Spreadsheets:** googlesheets
+**Calendar:** google-calendar, outlook-calendar, calendly, cal-com
+**Social Media:** linkedin, twitter, reddit, instagram, tiktok, youtube
+**Support:** zendesk, freshdesk, freshservice, helpdesk, intercom
+**E-commerce & Payments:** shopify, stripe, square
+**Design:** figma, canva, miro
+**Analytics:** google-analytics, mixpanel, amplitude, segment
+**HR:** bamboohr
+**Automation:** make
+**Other:** supabase, webflow, todoist, docusign
 
 
 ## 🤝 Contribution
