@@ -14,6 +14,7 @@
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
   - [🛡 Security \& Web Testing](#-security--web-testing)
   - [🔧 Utility \& Automation](#-utility--automation)
+  - [🗂️ Collections](#-collections)
   - [🤝 Contribution](#-contribution)
   - [📬 Contact](#-contact)
 
@@ -120,11 +121,10 @@
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.  
-
-### Deployment
-
 **[glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme)** - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 
+
+## 🗂️ Collections
 
 ## 🤝 Contribution
 
