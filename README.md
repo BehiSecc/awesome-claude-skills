@@ -125,6 +125,7 @@
 
 
 ## 🗂️ Collections
+- [@clawfu/mcp-skills](https://github.com/guia-matthieu/clawfu-skills) - 169 expert-sourced marketing skills (Dunford, Schwartz, Ogilvy, Cialdini) as MCP server with brand memory.
 
 ## 🤝 Contribution
 
