@@ -47,6 +47,7 @@
 - [claude-skills](https://github.com/jeffallan/claude-skills) - 65 full-stack development skills with progressive disclosure, covering React, NestJS, Python, DevOps, and 30+ frameworks.
 - [jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules) - Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and feature implementation on GitHub repos.
 - [hashicorp-agent-skills](https://github.com/hashicorp/agent-skills) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation.
+- [agentsys](https://github.com/avifenesh/agentsys) - Agent runtime and orchestration system for Claude Code, OpenCode, and Codex CLI. 12 plugins, 41 agents, 27 skills covering workflow automation, code review, performance analysis, and more.
 
 
 
