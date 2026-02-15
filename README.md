@@ -125,9 +125,9 @@
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
-- [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.  
+- [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
+- [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - One skill to rule them all: A meta-skill that watches your work sessions, captures corrections and judgment calls, and turns them into improvements for your other skills. Also identifies new skill candidates from your work patterns.  
 **[glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme)** - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
-- [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - One skill to rule them all: A meta-skill that watches your work sessions, captures corrections and judgment calls, and turns them into improvements for your other skills. Also identifies new skill candidates from your work patterns.
 
 ## 📰 Articles & Blog Posts 
 
