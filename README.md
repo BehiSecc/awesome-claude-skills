@@ -127,6 +127,7 @@
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.  
 **[glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme)** - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
+- [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions.
 
 ## 📰 Articles & Blog Posts 
 
