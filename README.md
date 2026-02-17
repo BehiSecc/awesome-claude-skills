@@ -132,7 +132,7 @@
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
 - [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - A meta-skill that builds and improves all your skills, including itself.
-**[glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme)** - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
+- [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 
 ## 📰 Articles & Blog Posts 
 
