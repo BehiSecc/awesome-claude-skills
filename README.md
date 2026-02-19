@@ -112,6 +112,7 @@
 - [google-workspace-skills](https://github.com/sanjay3290/ai-skills/tree/main/skills) - Suite of Google Workspace integrations: Gmail, Google Calendar, Google Chat, Google Docs, Google Sheets, Google Slides, and Google Drive. Lightweight alternatives to full MCP servers with cross-platform OAuth.
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 product management skills across the Triple Diamond lifecycle with agentskills.io spec compliance, templates, and MCP server support.
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics.
+- [taskade](https://github.com/taskade/mcp) - Official [Taskade](https://taskade.com) MCP server (`npx @taskade/mcp-server`) with 50+ tools for managing workspaces, projects, tasks, custom AI agents, and workflow automations directly from Claude.
 
 
 ## 🛡 Security & Web Testing
