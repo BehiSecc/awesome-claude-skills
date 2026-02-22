@@ -29,6 +29,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [doc2md](https://github.com/orangefineblue/doc2md) - High-fidelity PDF/DOCX/PPTX to Markdown conversion pipeline with multi-stage QC, per-image classification using 8 heuristics, multi-extractor support (pymupdf, pdfplumber, MinerU), and Claude Code integration via PreToolUse hook and conversion skill.
 
 
 
