@@ -49,6 +49,7 @@
 - [jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules) - Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and feature implementation on GitHub repos.
 - [hashicorp-agent-skills](https://github.com/hashicorp/agent-skills) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation.
 - [agnix](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates SKILL.md, CLAUDE.md, hooks, MCP configs, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
+- [email-html-mjml](https://github.com/framix-team/skill-email-html-mjml) - Generate responsive HTML email templates using MJML 4.x — cross-client compatible HTML with compilation, validation, width math, and component architecture.
 
 
 
