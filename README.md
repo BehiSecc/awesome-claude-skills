@@ -142,8 +142,9 @@
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
 - [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - A meta-skill that builds and improves all your skills, including itself.
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
+- [silicon-friendly](https://github.com/unlikefraction/silicon-friendly) - MCP server to search and rate websites on AI-agent friendliness. Uses 30 criteria across L0-L5 levels to check llms.txt, structured data, API availability, and more.
 
-## 📰 Articles & Blog Posts 
+## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
 
