@@ -50,6 +50,7 @@
 - [jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules) - Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and feature implementation on GitHub repos.
 - [hashicorp-agent-skills](https://github.com/hashicorp/agent-skills) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation.
 - [agnix](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates SKILL.md, CLAUDE.md, hooks, MCP configs, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
+- [tidy](https://github.com/Jacknelson6/tidy) - Audit and clean up codebase structure for Claude Code. Detects god files, junk drawer roots, deep nesting, barrel export mazes, and bloated CLAUDE.md files. Estimates token waste per issue, shows a dry-run of planned fixes, and reports savings after cleanup. One command: `/tidy`.
 
 
 
