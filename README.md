@@ -100,6 +100,7 @@
 - [find-scene](https://github.com/uriva/find-scene-skill) - Search and download movie/TV show scenes by dialog, time, or visual description using the FindScene API.
 - [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: generate images (Flux), text-to-speech, transcribe YouTube/audio, OCR, video generation, upscale, and remove backgrounds via deAPI. Works with Cursor, Windsurf & Continue.dev.
 - [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — AI-native video production workspace for Claude Code with Remotion, ElevenLabs, FFmpeg, and Playwright skills.
+- [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director with 20+ ideation methodologies (SIT, TRIZ, Bisociation, SCAMPER, Synectics), Cannes/D&AD-calibrated scoring, recursive refinement, and 6 storytelling frameworks.
 
 
 ## 🏥 Health & Life Sciences
