@@ -52,6 +52,7 @@
 - [hashicorp-agent-skills](https://github.com/hashicorp/agent-skills) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation.
 - [agnix](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates SKILL.md, CLAUDE.md, hooks, MCP configs, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 - [email-html-mjml](https://github.com/framix-team/skill-email-html-mjml) - Generate responsive HTML email templates using MJML 4.x — cross-client compatible HTML with compilation, validation, width math, and component architecture.
+- [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ structured Playwright testing skill for AI agents — covers end-to-end tests, page object models, CI/CD setup, Cypress/Selenium migration, and CLI automation.
 
 
 
