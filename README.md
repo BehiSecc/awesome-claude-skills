@@ -68,11 +68,11 @@
 
 
 ## 🔬 Scientific & Research Tools
-- [bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers via remote MCP server. Returns structured experimental data from full-text studies: methods, results, sample sizes, quality scores, and 25+ fields per paper. Free tier (50 searches), no API key needed.
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - 125+ scientific skills for bioinformatics, cheminformatics, clinical research, and machine learning.
 - [materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills) - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing.
 - [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews.
 - [manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus) - Delegate complex tasks to Manus AI agent for deep research, market analysis, product comparisons, stock analysis, and comprehensive report generation with parallel processing.
+- [bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and retrieve structured experimental data from full-text studies via remote MCP server.
 
 
 ## ✍️ Writing & Research  
