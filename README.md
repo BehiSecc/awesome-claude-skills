@@ -52,6 +52,7 @@
 - [hashicorp-agent-skills](https://github.com/hashicorp/agent-skills) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation.
 - [agnix](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates SKILL.md, CLAUDE.md, hooks, MCP configs, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 - [email-html-mjml](https://github.com/framix-team/skill-email-html-mjml) - Generate responsive HTML email templates using MJML 4.x — cross-client compatible HTML with compilation, validation, width math, and component architecture.
+- [agentic-react-template](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - Agent-testable SaaS starter with Next.js 16, shadcn/ui, and Tailwind CSS. Accessibility-first components with semantic HTML optimized for AI agent testing.
 
 
 
@@ -146,8 +147,11 @@
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
 - [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - A meta-skill that builds and improves all your skills, including itself.
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
+- [domain-finder](https://github.com/iscale-llc/domain-finder-claude-code) - Domain brainstorming with Claude Code. Generates creative domain name ideas and checks availability via the Namecheap API.
+- [everflow-offer-sync](https://github.com/iscale-llc/claude-code-everflow-sync) - Affiliate offer sync powered by Claude Code. Pulls offers from Everflow, diffs against local state, and applies changes with AI-driven field mapping.
+- [facebook-ad-builder](https://github.com/iscale-llc/iscale-facebook-ad-builder) - AI-powered Facebook ad automation. Scrapes competitor ads, generates creative with Claude, and pushes campaigns to the Facebook Ads API.
 
-## 📰 Articles & Blog Posts 
+## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
 
