@@ -151,6 +151,7 @@
 - [@clawfu/mcp-skills](https://github.com/guia-matthieu/clawfu-skills) - 169 expert-sourced marketing skills (Dunford, Schwartz, Ogilvy, Cialdini) as MCP server with brand memory.
 - [wondelai/skills](https://github.com/wondelai/skills) - 25 agent skills for UX design, marketing/CRO, sales, product strategy, and growth based on books by Norman, Cialdini, Ries, Hormozi, and others.
 - [find-skills](https://github.com/agentbay-ai/agentbay-skills) - Helps users discover, search and install agent skills from the marketplace.
+- [SkillBoss MCP Server](https://github.com/heeyo-life/skillboss-mcp) - One API key for 100+ AI services: Claude, GPT, Gemini, DeepSeek, image/video generation (DALL-E, Midjourney, Runway, Kling), voice (ElevenLabs), web scraping, and more. OpenAI-compatible. [Website](https://skillboss.co)
 
 ## 🤝 Contribution
 
