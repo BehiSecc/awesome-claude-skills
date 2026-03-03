@@ -64,7 +64,7 @@
 - [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - Query Octav's crypto portfolio API: wallet balances, transaction history, DeFi protocol positions, and token analytics across 20+ chains.
 - [elicitation](https://github.com/tasteray/skills/tree/main/elicitation) - Psychological profiling through natural conversation using narrative identity and Motivational Interviewing techniques.
 - [recommendations](https://github.com/tasteray/skills/tree/main/recommendations) - Personalized recommendations across movies, restaurants, products, travel, and jobs via the TasteRay API.
-- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X API & Twitter scraper skill for AI coding agents — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, account monitoring, and 19 extraction tools.
+- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics.
 
 
 
