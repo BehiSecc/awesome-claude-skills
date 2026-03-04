@@ -67,6 +67,7 @@
 - [elicitation](https://github.com/tasteray/skills/tree/main/elicitation) - Psychological profiling through natural conversation using narrative identity and Motivational Interviewing techniques.
 - [recommendations](https://github.com/tasteray/skills/tree/main/recommendations) - Personalized recommendations across movies, restaurants, products, travel, and jobs via the TasteRay API.
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics.
+- [newsmcp](https://github.com/pranciskus/newsmcp) - Real-time news MCP server for AI agents: news events clustered from hundreds of sources, classified by 12 topics and 30+ regions, with search and detail tools. Free, no API key needed.
 
 
 
