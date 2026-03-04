@@ -124,6 +124,7 @@
 - [google-workspace-skills](https://github.com/sanjay3290/ai-skills/tree/main/skills) - Suite of Google Workspace integrations: Gmail, Google Calendar, Google Chat, Google Docs, Google Sheets, Google Slides, and Google Drive. Lightweight alternatives to full MCP servers with cross-platform OAuth.
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 product management skills across the Triple Diamond lifecycle with agentskills.io spec compliance, templates, and MCP server support.
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics.
+- - [AI-HR Think Tank](https://github.com/Alexgailion/ai-hr-thinktank) - 7-expert AI panel for org & people decisions. Multilingual (EN/中文/日本語).
 
 
 ## 🛡 Security & Web Testing
