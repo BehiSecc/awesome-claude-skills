@@ -134,6 +134,7 @@
 - [systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging) - Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 - [Trail of Bits Security Skills](https://github.com/trailofbits/skills) - Security skills for static analysis with CodeQL/Semgrep, variant analysis, code auditing, and fix verification.
 - [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
+- [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 
 
