@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Awesome Claude Skills Catalog</title>
+<style>
+:root{--bg:#0f172a;--surface:#1e293b;--surface2:#334155;--border:#475569;--text:#e2e8f0;--text2:#94a3b8;--accent:#3b82f6;--accent2:#8b5cf6;--green:#22c55e;--yellow:#eab308;--red:#ef4444;--orange:#f97316}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+a{color:var(--accent);text-decoration:none}
+.app{display:flex;flex-direction:column;height:100vh}
+.stats-bar{background:var(--surface);border-bottom:1px solid var(--border);padding:12px 24px;display:flex;gap:24px;align-items:center;flex-wrap:wrap}
+.stats-bar h1{font-size:18px;font-weight:700;color:var(--text);margin-right:12px}
+.stat{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--text2)}
+.stat .num{font-weight:700;font-size:16px;color:var(--text)}
+.stat.green .num{color:var(--green)}.stat.yellow .num{color:var(--yellow)}.stat.blue .num{color:var(--accent)}
+.controls{background:var(--surface);padding:12px 24px;display:flex;gap:12px;flex-wrap:wrap;align-items:center;border-bottom:1px solid var(--border)}
+.search{flex:1;min-width:200px;padding:8px 14px;border-radius:8px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:14px;outline:none}
+.search:focus{border-color:var(--accent)}
+select{padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:13px;cursor:pointer}
+.btn{padding:6px 14px;border-radius:6px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:13px;cursor:pointer;transition:all .15s}
+.btn:hover{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.cat-tabs{display:flex;gap:6px;padding:10px 24px;background:var(--surface);border-bottom:1px solid var(--border);overflow-x:auto;flex-shrink:0}
+.cat-tab{padding:5px 12px;border-radius:16px;font-size:12px;cursor:pointer;background:var(--bg);border:1px solid var(--border);color:var(--text2);white-space:nowrap;transition:all .15s}
+.cat-tab:hover{border-color:var(--accent);color:var(--text)}
+.cat-tab.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.cat-tab .count{margin-left:4px;opacity:.7}
+.main{flex:1;overflow-y:auto;padding:20px 24px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px;cursor:pointer;transition:all .15s;position:relative}
+.card:hover{border-color:var(--accent);transform:translateY(-1px);box-shadow:0 4px 16px rgba(0,0,0,.3)}
+.card.selected{border-color:var(--accent2);box-shadow:0 0 0 2px var(--accent2)}
+.card-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:8px}
+.card-name{font-size:15px;font-weight:600;color:var(--text)}
+.card-cat{font-size:11px;padding:2px 8px;border-radius:10px;background:var(--bg);color:var(--text2);border:1px solid var(--border)}
+.card-desc{font-size:13px;color:var(--text2);line-height:1.5;margin-bottom:10px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-meta{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.dep-tag{font-size:10px;padding:2px 7px;border-radius:4px;background:var(--bg);color:var(--text2);border:1px solid var(--border)}
+.dep-tag.api{border-color:#ef444466;color:#fca5a5}
+.dep-tag.npm{border-color:#22c55e66;color:#86efac}
+.dep-tag.pip{border-color:#3b82f666;color:#93c5fd}
+.dep-tag.mcp{border-color:#8b5cf666;color:#c4b5fd}
+.dep-tag.bash{border-color:#eab30866;color:#fde68a}
+.card-footer{display:flex;justify-content:space-between;align-items:center}
+.quality{display:flex;align-items:center;gap:4px;font-size:12px;font-weight:600}
+.quality.high{color:var(--green)}.quality.med{color:var(--yellow)}.quality.low{color:var(--red)}
+.q-bar{width:60px;height:6px;background:var(--bg);border-radius:3px;overflow:hidden}
+.q-fill{height:100%;border-radius:3px;transition:width .3s}
+.q-fill.high{background:var(--green)}.q-fill.med{background:var(--yellow)}.q-fill.low{background:var(--red)}
+.card-size{font-size:11px;color:var(--text2)}
+.card-link{font-size:11px;color:var(--accent);text-decoration:none;display:inline-flex;align-items:center;gap:3px}
+.card-link:hover{text-decoration:underline}
+.compare-check{position:absolute;top:8px;right:8px;width:20px;height:20px;border-radius:4px;border:1px solid var(--border);background:var(--bg);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:12px;color:transparent;transition:all .15s}
+.compare-check.checked{background:var(--accent2);border-color:var(--accent2);color:#fff}
+.detail-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.6);z-index:100;display:none;align-items:center;justify-content:center}
+.detail-overlay.open{display:flex}
+.detail-panel{background:var(--surface);border-radius:12px;max-width:700px;width:95%;max-height:85vh;overflow-y:auto;padding:28px;position:relative}
+.detail-close{position:absolute;top:12px;right:16px;font-size:24px;cursor:pointer;color:var(--text2);background:none;border:none}
+.detail-close:hover{color:var(--text)}
+.detail-panel h2{font-size:22px;margin-bottom:4px}
+.detail-panel .cat-badge{display:inline-block;padding:3px 10px;border-radius:12px;font-size:12px;background:var(--accent);color:#fff;margin-bottom:12px}
+.detail-section{margin-top:16px;padding-top:14px;border-top:1px solid var(--border)}
+.detail-section h3{font-size:14px;font-weight:600;color:var(--text2);margin-bottom:8px;text-transform:uppercase;letter-spacing:.5px}
+.detail-row{display:flex;justify-content:space-between;padding:4px 0;font-size:13px}
+.detail-row .label{color:var(--text2)}.detail-row .value{color:var(--text);font-weight:500}
+.headings-list{font-size:13px;color:var(--text2);line-height:1.8}
+.headings-list span{display:inline-block;background:var(--bg);padding:1px 8px;border-radius:4px;margin:2px 4px 2px 0;border:1px solid var(--border)}
+.compare-bar{position:fixed;bottom:0;left:0;right:0;background:var(--surface);border-top:2px solid var(--accent2);padding:12px 24px;display:none;align-items:center;justify-content:space-between;z-index:50}
+.compare-bar.visible{display:flex}
+.compare-bar .names{font-size:14px;color:var(--text)}
+.no-results{text-align:center;padding:60px 20px;color:var(--text2)}
+.no-results h2{font-size:20px;margin-bottom:8px;color:var(--text)}
+.loading{text-align:center;padding:80px 20px}
+.loading h2{font-size:22px;margin-bottom:16px}
+.loading .bar{width:300px;height:8px;background:var(--surface2);border-radius:4px;margin:0 auto 12px;overflow:hidden}
+.loading .fill{height:100%;background:var(--accent);border-radius:4px;transition:width .3s}
+.loading .status{font-size:13px;color:var(--text2)}
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <div class="stats-bar">
+    <h1>Awesome Claude Skills</h1>
+    <div class="stat blue"><span class="num" id="totalCount">0</span> skills</div>
+    <div class="stat green"><span class="num" id="avgQuality">-</span> avg quality</div>
+    <div class="stat yellow"><span class="num" id="apiCount">-</span> need API keys</div>
+    <div class="stat"><span class="num" id="visibleCount">0</span> shown</div>
+  </div>
+  <div class="controls">
+    <input class="search" id="search" type="text" placeholder="Search skills by name, description, or keywords...">
+    <select id="sortBy">
+      <option value="quality">Sort: Quality</option>
+      <option value="name">Sort: Name</option>
+      <option value="size">Sort: Size</option>
+      <option value="deps">Sort: Dependencies</option>
+    </select>
+    <button class="btn" id="compareBtn" onclick="toggleCompareMode()">Compare Mode</button>
+  </div>
+  <div class="cat-tabs" id="catTabs"></div>
+  <div class="main" id="main">
+    <div class="loading" id="loading">
+      <h2>Loading Skills from GitHub...</h2>
+      <div class="bar"><div class="fill" id="progressFill" style="width:0%"></div></div>
+      <div class="status" id="progressStatus">Preparing to fetch 86 SKILL.md files...</div>
+    </div>
+    <div class="grid" id="grid" style="display:none"></div>
+    <div class="no-results" id="noResults" style="display:none">
+      <h2>No skills match your search</h2>
+      <p>Try different keywords or clear filters</p>
+    </div>
+  </div>
+  <div class="compare-bar" id="compareBar">
+    <div class="names" id="compareNames">Select skills to compare (click checkboxes)</div>
+    <div style="display:flex;gap:8px">
+      <button class="btn" onclick="showCompare()">Compare Selected</button>
+      <button class="btn" onclick="clearCompare()">Clear</button>
+    </div>
+  </div>
+</div>
+<div class="detail-overlay" id="detailOverlay" onclick="if(event.target===this)closeDetail()">
+  <div class="detail-panel" id="detailPanel"></div>
+</div>
+
+<script>
+// === SKILL URL MAP ===
+const BASE = "https://raw.githubusercontent.com";
+const SKILL_URLS = {
+"docx":"anthropics/skills/main/skills/docx/SKILL.md",
+"pdf":"anthropics/skills/main/skills/pdf/SKILL.md",
+"pptx":"anthropics/skills/main/skills/pptx/SKILL.md",
+"xlsx":"anthropics/skills/main/skills/xlsx/SKILL.md",
+"polaris-datainsight-doc-extract":"jacob-g-park/polaris-datainsight-doc-extract/main/skills/polaris-datainsight-doc-extract/SKILL.md",
+"revealjs-skill":"ryanbbrown/revealjs-skill/main/skills/revealjs/SKILL.md",
+"web-artifacts-builder":"anthropics/skills/main/skills/web-artifacts-builder/SKILL.md",
+"test-driven-development":"obra/superpowers/main/skills/test-driven-development/SKILL.md",
+"using-git-worktrees":"obra/superpowers/main/skills/using-git-worktrees/SKILL.md",
+"finishing-a-development-branch":"obra/superpowers/main/skills/finishing-a-development-branch/SKILL.md",
+"pypict-claude-skill":"omkamal/pypict-claude-skill/main/SKILL.md",
+"aws-skills":"zxkane/aws-skills/main/plugins/aws-common/skills/aws-mcp-setup/SKILL.md",
+"claude-starter":"raintree-technology/claude-starter/main/skills/whop/SKILL.md",
+"move-code-quality-skill":"1NickPappas/move-code-quality-skill/main/SKILL.md",
+"oiloil-ui-ux-guide":"oil-oil/oiloil-ui-ux-guide/main/skills/oiloil-ui-ux-guide/SKILL.md",
+"claude-code-terminal-title":"bluzername/claude-code-terminal-title/main/temp_extract/terminal-title/SKILL.md",
+"charles-proxy-extract":"wannabehero/charles-proxy-extract-skill/main/SKILL.md",
+"plugin-authoring":"ivan-magda/claude-code-plugin-template/main/plugins/plugin-development/skills/plugin-authoring/SKILL.md",
+"azure-devops":"sanjay3290/ai-skills/main/skills/azure-devops/SKILL.md",
+"claude-skills-jeffallan":"jeffallan/claude-skills/main/skills/cpp-pro/SKILL.md",
+"jules":"sanjay3290/ai-skills/main/skills/jules/SKILL.md",
+"hashicorp-agent-skills":"hashicorp/agent-skills/main/packer/hcp/skills/push-to-registry/SKILL.md",
+"agnix":"avifenesh/agnix/main/skills/agnix/SKILL.md",
+"email-html-mjml":"framix-team/skill-email-html-mjml/main/email-html-mjml/SKILL.md",
+"root-cause-tracing":"obra/superpowers/main/skills/brainstorming/SKILL.md",
+"csv-data-summarizer":"coffeefuelbump/csv-data-summarizer-claude-skill/main/SKILL.md",
+"notebooklm":"sanjay3290/ai-skills/main/skills/notebooklm/SKILL.md",
+"postgres":"sanjay3290/ai-skills/main/skills/postgres/SKILL.md",
+"mysql":"sanjay3290/ai-skills/main/skills/mysql/SKILL.md",
+"mssql":"sanjay3290/ai-skills/main/skills/mssql/SKILL.md",
+"kaggle-skill":"shepsci/kaggle-skill/main/skills/kaggle/SKILL.md",
+"octav-api-skill":"Octav-Labs/octav-api-skill/main/SKILL.md",
+"elicitation":"tasteray/skills/main/elicitation/SKILL.md",
+"recommendations":"tasteray/skills/main/recommendations/SKILL.md",
+"x-twitter-scraper":"Xquik-dev/x-twitter-scraper/main/skills/x-twitter-scraper/SKILL.md",
+"claude-scientific-skills":"K-Dense-AI/claude-scientific-skills/main/scientific-skills/esm/SKILL.md",
+"materials-simulation-skills":"HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-mapper/SKILL.md",
+"deep-research":"sanjay3290/ai-skills/main/skills/deep-research/SKILL.md",
+"manus":"sanjay3290/ai-skills/main/skills/manus/SKILL.md",
+"article-extractor":"michalparkola/tapestry-skills-for-claude-code/main/article-extractor/SKILL.md",
+"content-research-writer":"ComposioHQ/awesome-claude-skills/master/content-research-writer/SKILL.md",
+"internal-comms":"anthropics/skills/main/skills/internal-comms/SKILL.md",
+"brainstorming":"obra/superpowers/main/skills/brainstorming/SKILL.md",
+"family-history-research":"emaynard/claude-family-history-research-skill/main/SKILL.md",
+"tapestry":"michalparkola/tapestry-skills-for-claude-code/main/tapestry/SKILL.md",
+"ship-learn-next":"michalparkola/tapestry-skills-for-claude-code/main/ship-learn-next/SKILL.md",
+"youtube-transcript":"michalparkola/tapestry-skills-for-claude-code/main/youtube-transcript/SKILL.md",
+"video-downloader":"ComposioHQ/awesome-claude-skills/master/video-downloader/SKILL.md",
+"image-enhancer":"ComposioHQ/awesome-claude-skills/master/image-enhancer/SKILL.md",
+"imagen":"sanjay3290/ai-skills/main/skills/imagen/SKILL.md",
+"elevenlabs":"sanjay3290/ai-skills/main/skills/elevenlabs/SKILL.md",
+"google-tts":"sanjay3290/ai-skills/main/skills/google-tts/SKILL.md",
+"claude-epub-skill":"smerchek/claude-epub-skill/main/markdown-to-epub/SKILL.md",
+"video-prompting-skill":"Square-Zero-Labs/video-prompting-skill/main/video-prompting/SKILL.md",
+"find-scene":"uriva/find-scene-skill/main/SKILL.md",
+"deapi-claude-code-skills":"deapi-ai/claude-code-skills/main/deapi/SKILL.md",
+"claude-code-video-toolkit":"digitalsamba/claude-code-video-toolkit/main/.claude/skills/ffmpeg/SKILL.md",
+"moltdj":"polaroteam/moltdj-skill/main/SKILL.md",
+"claude-ally-health":"huifer/Claude-Ally-Health/main/skills/ai-analyzer/SKILL.md",
+"git-pushing":"mhattingpete/claude-skills-marketplace/main/engineering-workflow-plugin/skills/git-pushing/SKILL.md",
+"kanban-skill":"mattjoyce/kanban-skill/main/skills/kanban-ai/SKILL.md",
+"linear-claude-skill":"wrsmith108/linear-claude-skill/main/SKILL.md",
+"linear-cli-skill":"Valian/linear-cli-skill/main/linear/SKILL.md",
+"meeting-insights-analyzer":"ComposioHQ/awesome-claude-skills/master/meeting-insights-analyzer/SKILL.md",
+"review-implementing":"mhattingpete/claude-skills-marketplace/main/engineering-workflow-plugin/skills/review-implementing/SKILL.md",
+"test-fixing":"mhattingpete/claude-skills-marketplace/main/engineering-workflow-plugin/skills/test-fixing/SKILL.md",
+"outline":"sanjay3290/ai-skills/main/skills/outline/SKILL.md",
+"google-workspace-gmail":"sanjay3290/ai-skills/main/skills/gmail/SKILL.md",
+"pm-skills":"product-on-purpose/pm-skills/main/skills/deliver-prd/SKILL.md",
+"Product-Manager-Skills":"deanpeters/Product-Manager-Skills/main/skills/pol-probe/SKILL.md",
+"VibeSec-Skill":"BehiSecc/VibeSec-Skill/main/SKILL.md",
+"systematic-debugging":"obra/superpowers/main/skills/systematic-debugging/SKILL.md",
+"ffuf_claude_skill":"jthack/ffuf_claude_skill/main/ffuf-skill/SKILL.md",
+"owasp-security":"agamm/claude-code-owasp/main/.claude/skills/owasp-security/SKILL.md",
+"Trail-of-Bits-Security":"trailofbits/skills/main/plugins/fp-check/skills/fp-check/SKILL.md",
+"varlock-claude-skill":"wrsmith108/varlock-claude-skill/main/skills/varlock/SKILL.md",
+"webapp-testing":"anthropics/skills/main/skills/webapp-testing/SKILL.md",
+"file-organizer":"ComposioHQ/awesome-claude-skills/master/file-organizer/SKILL.md",
+"invoice-organizer":"ComposioHQ/awesome-claude-skills/master/invoice-organizer/SKILL.md",
+"skill-creator":"anthropics/skills/main/skills/skill-creator/SKILL.md",
+"template-skill":"anthropics/skills/main/template/SKILL.md",
+"task-observer":"rebelytics/one-skill-to-rule-them-all/main/SKILL.md",
+"pinme":"glitternetwork/skills/main/pinme/SKILL.md",
+"clawfu-mcp-skills":"guia-matthieu/clawfu-skills/main/skills/meta/rlm/SKILL.md",
+"wondelai-skills":"wondelai/skills/main/lean-ux/SKILL.md",
+"find-skills":"agentbay-ai/agentbay-skills/main/SKILL.md"
+};
+
+const CATEGORIES = {
+"docx":"Document","pdf":"Document","pptx":"Document","xlsx":"Document",
+"polaris-datainsight-doc-extract":"Document","revealjs-skill":"Document",
+"web-artifacts-builder":"Development","test-driven-development":"Development",
+"using-git-worktrees":"Development","finishing-a-development-branch":"Development",
+"pypict-claude-skill":"Development","aws-skills":"Development",
+"claude-starter":"Development","move-code-quality-skill":"Development",
+"oiloil-ui-ux-guide":"Development","claude-code-terminal-title":"Development",
+"charles-proxy-extract":"Development","plugin-authoring":"Development",
+"azure-devops":"Development","claude-skills-jeffallan":"Development",
+"jules":"Development","hashicorp-agent-skills":"Development",
+"agnix":"Development","email-html-mjml":"Development",
+"root-cause-tracing":"Data & Analysis","csv-data-summarizer":"Data & Analysis",
+"notebooklm":"Data & Analysis","postgres":"Data & Analysis",
+"mysql":"Data & Analysis","mssql":"Data & Analysis",
+"kaggle-skill":"Data & Analysis","octav-api-skill":"Data & Analysis",
+"elicitation":"Data & Analysis","recommendations":"Data & Analysis",
+"x-twitter-scraper":"Data & Analysis",
+"claude-scientific-skills":"Scientific","materials-simulation-skills":"Scientific",
+"deep-research":"Scientific","manus":"Scientific",
+"article-extractor":"Writing","content-research-writer":"Writing",
+"internal-comms":"Writing","brainstorming":"Writing",
+"family-history-research":"Writing",
+"tapestry":"Learning","ship-learn-next":"Learning",
+"youtube-transcript":"Media","video-downloader":"Media",
+"image-enhancer":"Media","imagen":"Media","elevenlabs":"Media",
+"google-tts":"Media","claude-epub-skill":"Media",
+"video-prompting-skill":"Media","find-scene":"Media",
+"deapi-claude-code-skills":"Media","claude-code-video-toolkit":"Media","moltdj":"Media",
+"claude-ally-health":"Health",
+"git-pushing":"Collaboration","kanban-skill":"Collaboration",
+"linear-claude-skill":"Collaboration","linear-cli-skill":"Collaboration",
+"meeting-insights-analyzer":"Collaboration","review-implementing":"Collaboration",
+"test-fixing":"Collaboration","outline":"Collaboration",
+"google-workspace-gmail":"Collaboration","pm-skills":"Collaboration",
+"Product-Manager-Skills":"Collaboration",
+"VibeSec-Skill":"Security","systematic-debugging":"Security",
+"ffuf_claude_skill":"Security","owasp-security":"Security",
+"Trail-of-Bits-Security":"Security","varlock-claude-skill":"Security",
+"webapp-testing":"Security",
+"file-organizer":"Utility","invoice-organizer":"Utility",
+"skill-creator":"Utility","template-skill":"Utility",
+"task-observer":"Utility","pinme":"Utility",
+"clawfu-mcp-skills":"Collections","wondelai-skills":"Collections",
+"find-skills":"Collections"
+};
+
+const CAT_COLORS = {
+'Document':'#3b82f6','Development':'#22c55e','Data & Analysis':'#eab308',
+'Scientific':'#8b5cf6','Writing':'#ec4899','Learning':'#06b6d4',
+'Media':'#f97316','Health':'#ef4444','Collaboration':'#14b8a6',
+'Security':'#dc2626','Utility':'#6366f1','Collections':'#a855f7'
+};
+
+let SKILLS = [];
+let activeCategory = 'All';
+let compareMode = false;
+let compareSet = new Set();
+let searchTerm = '';
+let sortBy = 'quality';
+
+// === SKILL PARSER ===
+function parseSkill(key, raw) {
+  const size = raw.length;
+  const words = raw.split(/\s+/).length;
+  const headings = [...raw.matchAll(/^#{1,4}\s+(.+)/gm)].map(m => m[1].trim());
+  const codeBlocks = Math.floor((raw.match(/```/g) || []).length / 2);
+  const lower = raw.toLowerCase();
+  let fm = {};
+  const fmMatch = raw.match(/^---\n([\s\S]*?)\n---/);
+  if (fmMatch) {
+    fmMatch[1].split('\n').forEach(line => {
+      const m = line.match(/^(\w[\w-]*):\s*(.+)/);
+      if (m) fm[m[1].trim()] = m[2].trim().replace(/^["']|["']$/g, '');
+    });
+  }
+  let desc = fm.description || '';
+  if (!desc) {
+    const firstPara = raw.replace(/^---[\s\S]*?---\n*/, '').replace(/^#[^\n]*\n+/, '').match(/^([^\n#].{20,})/m);
+    if (firstPara) desc = firstPara[1].substring(0, 200);
+  }
+  if (desc.length > 200) desc = desc.substring(0, 197) + '...';
+  let name = fm.name || key.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+  const deps = [];
+  if (/api[_\s-]?key|API_KEY|apikey|openai|anthropic[_\s-]?api|GOOGLE.*KEY/i.test(raw)) deps.push('API Key');
+  if (/npm install|require\(|import .* from/i.test(raw) && !/pip/.test(raw)) deps.push('npm');
+  if (/pip install|python -m|import \w+/i.test(raw) && /\.py|python/i.test(raw)) deps.push('pip');
+  if (/mcp|model context protocol|MCP_/i.test(raw)) deps.push('MCP');
+  if (/\bbash\b|\bshell\b|allowed.*tools.*Bash|#!/.test(raw)) deps.push('Bash');
+  let q = 0;
+  if (fmMatch) q += 0.5;
+  if (fm.name) q += 0.3;
+  if (fm.description && fm.description.length > 20) q += 0.5;
+  if (fm.license) q += 0.2;
+  if (words > 100) q += 0.3;
+  if (words > 300) q += 0.3;
+  if (words > 600) q += 0.3;
+  if (headings.length >= 3) q += 0.4;
+  if (headings.length >= 6) q += 0.3;
+  if (codeBlocks >= 1) q += 0.3;
+  if (codeBlocks >= 3) q += 0.3;
+  if (/example|usage|getting started/i.test(raw)) q += 0.4;
+  if (/allowed.*tools|allowed-tools/i.test(raw)) q += 0.3;
+  if (/trigger|when to use/i.test(raw)) q += 0.3;
+  q = Math.min(5, Math.round(q * 10) / 10);
+  return {
+    key, name, description: desc,
+    category: CATEGORIES[key] || 'Utility',
+    size, wordCount: words, headingCount: headings.length,
+    codeBlocks, headings: headings.slice(0, 12),
+    deps, quality: q, license: fm.license || ''
+  };
+}
+
+// === FETCH ALL SKILLS ===
+async function loadSkills() {
+  // Check localStorage cache first
+  const cacheKey = 'awesome-claude-skills-cache';
+  const cacheTimeKey = 'awesome-claude-skills-cache-time';
+  const cached = localStorage.getItem(cacheKey);
+  const cachedTime = localStorage.getItem(cacheTimeKey);
+  if (cached && cachedTime && (Date.now() - parseInt(cachedTime)) < 3600000) {
+    SKILLS = JSON.parse(cached);
+    finishLoad();
+    return;
+  }
+
+  const entries = Object.entries(SKILL_URLS);
+  const total = entries.length;
+  let done = 0;
+  const results = {};
+
+  async function fetchBatch(batch) {
+    return Promise.all(batch.map(async ([key, path]) => {
+      try {
+        const r = await fetch(`${BASE}/${path}`);
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        results[key] = await r.text();
+      } catch (e) {
+        results[key] = null;
+      }
+      done++;
+      const pct = Math.round(done / total * 100);
+      document.getElementById('progressFill').style.width = pct + '%';
+      document.getElementById('progressStatus').textContent = `Fetched ${done}/${total} skills...`;
+    }));
+  }
+
+  for (let i = 0; i < entries.length; i += 10) {
+    await fetchBatch(entries.slice(i, i + 10));
+  }
+
+  SKILLS = [];
+  for (const [key, raw] of Object.entries(results)) {
+    if (raw) {
+      SKILLS.push(parseSkill(key, raw));
+    } else {
+      SKILLS.push({
+        key, name: key.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+        description: 'Skill file could not be fetched (repo may have moved)',
+        category: CATEGORIES[key] || 'Utility', size: 0, wordCount: 0,
+        headingCount: 0, codeBlocks: 0, headings: [], deps: [], quality: 0, license: ''
+      });
+    }
+  }
+
+  // Cache the results
+  try {
+    localStorage.setItem(cacheKey, JSON.stringify(SKILLS));
+    localStorage.setItem(cacheTimeKey, String(Date.now()));
+  } catch(e) {}
+
+  finishLoad();
+}
+
+function finishLoad() {
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('grid').style.display = 'grid';
+  document.getElementById('totalCount').textContent = SKILLS.length;
+  const apiSkills = SKILLS.filter(s => s.deps.includes('API Key')).length;
+  const avgQ = (SKILLS.reduce((s, sk) => s + sk.quality, 0) / SKILLS.length).toFixed(1);
+  document.getElementById('avgQuality').textContent = avgQ;
+  document.getElementById('apiCount').textContent = apiSkills;
+  buildCatTabs();
+  render();
+}
+
+// === UI ===
+function buildCatTabs() {
+  const cats = {};
+  SKILLS.forEach(s => { cats[s.category] = (cats[s.category] || 0) + 1; });
+  const el = document.getElementById('catTabs');
+  let html = `<div class="cat-tab active" onclick="filterCat('All',this)">All <span class="count">${SKILLS.length}</span></div>`;
+  Object.entries(cats).sort((a, b) => b[1] - a[1]).forEach(([cat, count]) => {
+    html += `<div class="cat-tab" onclick="filterCat('${cat}',this)">${cat} <span class="count">${count}</span></div>`;
+  });
+  el.innerHTML = html;
+}
+
+function filterCat(cat, el) {
+  activeCategory = cat;
+  document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+  if (el) el.classList.add('active');
+  render();
+}
+
+function getQualityClass(q) { return q >= 4 ? 'high' : q >= 3 ? 'med' : 'low'; }
+function getQualityLabel(q) { return q >= 4.5 ? 'Excellent' : q >= 4 ? 'Good' : q >= 3 ? 'Fair' : 'Basic'; }
+
+function depClass(d) {
+  if (d.includes('API')) return 'api';
+  if (d.includes('npm')) return 'npm';
+  if (d.includes('pip') || d.includes('Python')) return 'pip';
+  if (d.includes('MCP')) return 'mcp';
+  if (d.includes('Bash') || d.includes('CLI')) return 'bash';
+  return '';
+}
+
+function esc(s) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+function getGitHubUrl(key) {
+  const path = SKILL_URLS[key];
+  if (!path) return '#';
+  return 'https://github.com/' + path.replace('/main/', '/blob/main/').replace('/master/', '/blob/master/');
+}
+
+function getRepoUrl(key) {
+  const path = SKILL_URLS[key];
+  if (!path) return '#';
+  return 'https://github.com/' + path.split('/').slice(0,2).join('/');
+}
+
+function renderCard(s) {
+  const qc = getQualityClass(s.quality);
+  return `<div class="card ${compareSet.has(s.key) ? 'selected' : ''}" onclick="openDetail('${esc(s.key)}')" data-key="${esc(s.key)}">
+    ${compareMode ? `<div class="compare-check ${compareSet.has(s.key) ? 'checked' : ''}" onclick="event.stopPropagation();toggleCompare('${esc(s.key)}')">&#10003;</div>` : ''}
+    <div class="card-header">
+      <div class="card-name">${esc(s.name)}</div>
+      <div class="card-cat" style="border-color:${CAT_COLORS[s.category] || '#666'}66;color:${CAT_COLORS[s.category] || '#999'}">${esc(s.category)}</div>
+    </div>
+    <div class="card-desc">${esc(s.description || 'No description available')}</div>
+    <div class="card-meta">${s.deps.map(d => `<span class="dep-tag ${depClass(d)}">${esc(d)}</span>`).join('')}</div>
+    <div class="card-footer">
+      <div class="quality ${qc}">
+        <div class="q-bar"><div class="q-fill ${qc}" style="width:${s.quality / 5 * 100}%"></div></div>
+        ${s.quality}/5 &middot; ${getQualityLabel(s.quality)}
+      </div>
+      <a class="card-link" href="${getGitHubUrl(s.key)}" target="_blank" onclick="event.stopPropagation()">GitHub &rarr;</a>
+    </div>
+  </div>`;
+}
+
+function getFiltered() {
+  let filtered = SKILLS;
+  if (activeCategory !== 'All') filtered = filtered.filter(s => s.category === activeCategory);
+  if (searchTerm) {
+    const terms = searchTerm.toLowerCase().split(/\s+/);
+    filtered = filtered.filter(s => {
+      const text = (s.name + ' ' + s.key + ' ' + s.description + ' ' + s.category + ' ' + s.deps.join(' ')).toLowerCase();
+      return terms.every(t => text.includes(t));
+    });
+  }
+  filtered.sort((a, b) => {
+    if (sortBy === 'quality') return b.quality - a.quality || a.name.localeCompare(b.name);
+    if (sortBy === 'name') return a.name.localeCompare(b.name);
+    if (sortBy === 'size') return b.size - a.size;
+    if (sortBy === 'deps') return b.deps.length - a.deps.length || b.quality - a.quality;
+    return 0;
+  });
+  return filtered;
+}
+
+function render() {
+  const filtered = getFiltered();
+  const grid = document.getElementById('grid');
+  const noResults = document.getElementById('noResults');
+  document.getElementById('visibleCount').textContent = filtered.length;
+  if (filtered.length === 0) {
+    grid.style.display = 'none';
+    noResults.style.display = 'block';
+  } else {
+    grid.style.display = 'grid';
+    noResults.style.display = 'none';
+    grid.innerHTML = filtered.map(renderCard).join('');
+  }
+}
+
+document.getElementById('search').addEventListener('input', e => { searchTerm = e.target.value; render(); });
+document.getElementById('sortBy').addEventListener('change', e => { sortBy = e.target.value; render(); });
+
+function toggleCompareMode() {
+  compareMode = !compareMode;
+  document.getElementById('compareBtn').classList.toggle('active', compareMode);
+  document.getElementById('compareBar').classList.toggle('visible', compareMode);
+  if (!compareMode) compareSet.clear();
+  render();
+}
+function toggleCompare(key) {
+  if (compareSet.has(key)) compareSet.delete(key);
+  else if (compareSet.size < 3) compareSet.add(key);
+  document.getElementById('compareNames').textContent = compareSet.size
+    ? `Selected: ${[...compareSet].map(k => SKILLS.find(s => s.key === k)?.name).join(', ')}`
+    : 'Select skills to compare (click checkboxes)';
+  render();
+}
+function clearCompare() { compareSet.clear(); render(); document.getElementById('compareNames').textContent = 'Select skills to compare'; }
+function showCompare() {
+  if (compareSet.size < 2) { alert('Select at least 2 skills to compare'); return; }
+  const selected = [...compareSet].map(k => SKILLS.find(s => s.key === k));
+  const cols = selected.map(s => {
+    const qc = getQualityClass(s.quality);
+    return `<div class="compare-col">
+      <h3>${esc(s.name)}</h3>
+      <div style="margin-bottom:10px"><span class="card-cat" style="border-color:${CAT_COLORS[s.category] || '#666'}66;color:${CAT_COLORS[s.category] || '#999'}">${esc(s.category)}</span></div>
+      <div class="detail-row"><span class="label">Quality</span><span class="value quality ${qc}">${s.quality}/5 &middot; ${getQualityLabel(s.quality)}</span></div>
+      <div class="detail-row"><span class="label">Words</span><span class="value">${s.wordCount.toLocaleString()}</span></div>
+      <div class="detail-row"><span class="label">Sections</span><span class="value">${s.headingCount}</span></div>
+      <div class="detail-row"><span class="label">Code Blocks</span><span class="value">${s.codeBlocks}</span></div>
+      <div class="detail-row"><span class="label">Dependencies</span><span class="value">${s.deps.length > 0 ? s.deps.map(d => `<span class="dep-tag ${depClass(d)}">${esc(d)}</span>`).join(' ') : 'None'}</span></div>
+      <div style="margin-top:10px;font-size:13px;color:var(--text2);line-height:1.5">${esc(s.description)}</div>
+    </div>`;
+  }).join('');
+  const panel = document.getElementById('detailPanel');
+  panel.innerHTML = `<button class="detail-close" onclick="closeDetail()">&times;</button>
+    <h2>Comparison</h2>
+    <div style="display:grid;grid-template-columns:repeat(${selected.length},1fr);gap:16px;margin-top:16px">${cols}</div>`;
+  document.getElementById('detailOverlay').classList.add('open');
+}
+
+function openDetail(key) {
+  if (compareMode) return;
+  const s = SKILLS.find(sk => sk.key === key);
+  if (!s) return;
+  const qc = getQualityClass(s.quality);
+  const panel = document.getElementById('detailPanel');
+  panel.innerHTML = `<button class="detail-close" onclick="closeDetail()">&times;</button>
+    <h2>${esc(s.name)}</h2>
+    <span class="cat-badge" style="background:${CAT_COLORS[s.category] || '#666'}">${esc(s.category)}</span>
+    ${s.license ? `<span style="margin-left:8px;font-size:12px;color:var(--text2)">License: ${esc(s.license)}</span>` : ''}
+    <p style="margin-top:12px;font-size:14px;line-height:1.6;color:var(--text2)">${esc(s.description || 'No description')}</p>
+    <div class="detail-section">
+      <h3>Quality Assessment</h3>
+      <div class="detail-row"><span class="label">Overall Score</span><span class="value quality ${qc}">${s.quality}/5 &middot; ${getQualityLabel(s.quality)}</span></div>
+      <div style="margin-top:8px"><div class="q-bar" style="width:100%;height:10px"><div class="q-fill ${qc}" style="width:${s.quality / 5 * 100}%"></div></div></div>
+      <div style="margin-top:8px;font-size:12px;color:var(--text2)">Based on: frontmatter completeness, documentation depth, code examples, usage guidance, and metadata config.</div>
+    </div>
+    <div class="detail-section">
+      <h3>Documentation Stats</h3>
+      <div class="detail-row"><span class="label">Total Size</span><span class="value">${(s.size / 1024).toFixed(1)} KB</span></div>
+      <div class="detail-row"><span class="label">Word Count</span><span class="value">${s.wordCount.toLocaleString()}</span></div>
+      <div class="detail-row"><span class="label">Sections (Headings)</span><span class="value">${s.headingCount}</span></div>
+      <div class="detail-row"><span class="label">Code Blocks</span><span class="value">${s.codeBlocks}</span></div>
+    </div>
+    <div class="detail-section">
+      <h3>Dependencies &amp; Setup</h3>
+      ${s.deps.length > 0
+        ? `<div class="card-meta" style="margin-top:4px">${s.deps.map(d => `<span class="dep-tag ${depClass(d)}">${esc(d)}</span>`).join('')}</div>`
+        : '<div style="font-size:13px;color:var(--green)">No external dependencies &mdash; works out of the box!</div>'}
+    </div>
+    ${s.headings.length > 0 ? `<div class="detail-section">
+      <h3>Document Structure</h3>
+      <div class="headings-list">${s.headings.map(h => `<span>${esc(h)}</span>`).join('')}</div>
+    </div>` : ''}
+    <div class="detail-section">
+      <h3>Source</h3>
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <a href="${getGitHubUrl(s.key)}" target="_blank" style="font-size:13px">View SKILL.md on GitHub &rarr;</a>
+        <a href="${getRepoUrl(s.key)}" target="_blank" style="font-size:13px;color:var(--text2)">View Repository &rarr;</a>
+      </div>
+    </div>`;
+  document.getElementById('detailOverlay').classList.add('open');
+}
+function closeDetail() { document.getElementById('detailOverlay').classList.remove('open'); }
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
+
+// === START ===
+loadSkills();
+</script>
+</body>
+</html>
