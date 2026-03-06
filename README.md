@@ -52,6 +52,9 @@
 - [hashicorp-agent-skills](https://github.com/hashicorp/agent-skills) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation.
 - [agnix](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates SKILL.md, CLAUDE.md, hooks, MCP configs, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 - [email-html-mjml](https://github.com/framix-team/skill-email-html-mjml) - Generate responsive HTML email templates using MJML 4.x — cross-client compatible HTML with compilation, validation, width math, and component architecture.
+- [lightning-factory-explainer](https://github.com/8144225309/superscalar-mcp/tree/master/skills/lightning-factory-explainer) - Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeout-signature trees, MuSig2, and Taproot.
+- [lightning-channel-factories](https://github.com/8144225309/superscalar-mcp/tree/master/skills/lightning-channel-factories) - Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks.
+- [lightning-architecture-review](https://github.com/8144225309/superscalar-mcp/tree/master/skills/lightning-architecture-review) - Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs.
 - [Playwright Skill](https://github.com/testdino-hq/playwright-skill) - AI agent-ready Playwright skill with structured SKILL.md, test automation workflows, and MCP-compatible setup for real-world testing pipelines.
 
 
