@@ -1,0 +1,1143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Awesome Claude Skills — Deep Analysis Report</title>
+<style>
+:root{--bg:#0f172a;--surface:#1e293b;--surface2:#334155;--border:#475569;--text:#e2e8f0;--text2:#94a3b8;--accent:#3b82f6}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+.container{max-width:1100px;margin:0 auto;padding:24px}
+h1{font-size:28px;margin-bottom:4px}
+h2{font-size:20px;margin:32px 0 16px;padding-bottom:8px;border-bottom:1px solid var(--border);color:var(--text)}
+h3{font-size:15px;color:var(--text2);margin:16px 0 8px;text-transform:uppercase;letter-spacing:.5px}
+.subtitle{color:var(--text2);font-size:14px;margin-bottom:24px}
+.kpi-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin-bottom:28px}
+.kpi{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px;text-align:center}
+.kpi .num{font-size:28px;font-weight:700;color:var(--accent)}
+.kpi .num.green{color:#22c55e}.kpi .num.yellow{color:#eab308}.kpi .num.red{color:#ef4444}.kpi .num.purple{color:#8b5cf6}
+.kpi .label{font-size:12px;color:var(--text2);margin-top:4px}
+.section{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:20px;margin-bottom:16px}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:768px){.two-col{grid-template-columns:1fr}}
+.chart-row{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.chart-label{width:140px;font-size:12px;color:var(--text2);text-align:right;flex-shrink:0}
+.chart-bar-wrap{flex:1;height:22px;background:var(--bg);border-radius:4px;overflow:hidden}
+.chart-bar{height:100%;border-radius:4px;display:flex;align-items:center;padding:0 8px;font-size:11px;font-weight:600;color:#fff;min-width:24px;transition:width .5s}
+.chart-meta{width:80px;font-size:11px;color:var(--text2);flex-shrink:0}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;padding:8px 10px;border-bottom:2px solid var(--border);color:var(--text2);font-size:12px;text-transform:uppercase}
+td{padding:6px 10px;border-bottom:1px solid var(--border)}
+tr:hover{background:var(--surface2)}
+.sub{font-size:11px;color:var(--text2)}
+.cat-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}
+.q-excellent{color:#22c55e;font-weight:700}.q-good{color:#3b82f6;font-weight:600}.q-fair{color:#eab308}.q-basic{color:#ef4444}
+.tag{display:inline-block;font-size:10px;padding:1px 6px;border-radius:3px;margin:1px 2px;border:1px solid var(--border);color:var(--text2)}
+.tag.apikey{border-color:#ef444466;color:#fca5a5}.tag.bash{border-color:#eab30866;color:#fde68a}
+.tag.pip{border-color:#3b82f666;color:#93c5fd}.tag.npm{border-color:#22c55e66;color:#86efac}
+.tag.mcp{border-color:#8b5cf666;color:#c4b5fd}.tag.docker{border-color:#06b6d466;color:#67e8f9}
+.tag.none{border-color:var(--border);color:var(--text2)}
+.risk-badge{display:inline-block;font-size:10px;padding:2px 6px;border-radius:4px;font-weight:600;text-transform:uppercase}
+.risk-minimal{background:#22c55e22;color:#86efac;border:1px solid #22c55e44}
+.risk-low{background:#3b82f622;color:#93c5fd;border:1px solid #3b82f644}
+.risk-moderate{background:#eab30822;color:#fde68a;border:1px solid #eab30844}
+.risk-high{background:#f9731622;color:#fdba74;border:1px solid #f9731644}
+.risk-veryhigh{background:#ef444422;color:#fca5a5;border:1px solid #ef444444}
+.type-tag{display:inline-block;font-size:10px;padding:1px 5px;border-radius:3px;background:var(--surface2);color:var(--text2);margin-left:4px}
+.github-stats{font-size:11px;color:var(--text2);text-decoration:none}
+.github-stats:hover{color:var(--accent);text-decoration:underline}
+.github-stats .star{color:#eab308}
+.skill-link{color:var(--text);text-decoration:none}
+.skill-link:hover{color:var(--accent);text-decoration:underline}
+.mini-stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:13px}
+.mini-stats div{padding:6px 0}
+.mini-stats strong{color:var(--accent)}
+.mini-row{display:flex;justify-content:space-between;align-items:center;padding:6px 0;border-bottom:1px solid var(--border)}
+.mini-row:last-child{border-bottom:none}
+.mini-name{font-weight:500;font-size:13px}
+.mini-stats-inline{font-size:11px;color:var(--text2)}
+.insight{padding:10px 14px;border-radius:8px;margin-bottom:8px;font-size:13px;display:flex;align-items:center;gap:10px}
+.insight.success{background:#22c55e15;border:1px solid #22c55e44;color:#86efac}
+.insight.warning{background:#eab30815;border:1px solid #eab30844;color:#fde68a}
+.insight.info{background:#3b82f615;border:1px solid #3b82f644;color:#93c5fd}
+.insight-icon{font-size:16px;flex-shrink:0}
+.footer{text-align:center;padding:24px;color:var(--text2);font-size:12px}
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>Awesome Claude Skills — Deep Analysis</h1>
+<p class="subtitle">Comprehensive analysis of 86 skills across 12 categories · Generated March 2026</p>
+
+<!-- KPI Dashboard -->
+<div class="kpi-grid">
+    <div class="kpi"><div class="num">86</div><div class="label">Total Skills</div></div>
+    <div class="kpi"><div class="num green">3.8</div><div class="label">Avg Quality (0-5)</div></div>
+    <div class="kpi"><div class="num yellow">3.5</div><div class="label">Avg Risk Score</div></div>
+    <div class="kpi"><div class="num purple">1,441,299</div><div class="label">Total GitHub Stars</div></div>
+    <div class="kpi"><div class="num">9</div><div class="label">Official Skills</div></div>
+    <div class="kpi"><div class="num green">79</div><div class="label">Active (&lt;90d)</div></div>
+    <div class="kpi"><div class="num red">36</div><div class="label">High Risk Skills</div></div>
+    <div class="kpi"><div class="num">18</div><div class="label">Simple Skills</div></div>
+</div>
+
+<!-- Key Insights -->
+<h2>Key Insights</h2>
+<div class="section">
+<div class="insight success"><span class="insight-icon">✓</span>85% of skills define trigger conditions — good for automated activation.</div>
+<div class="insight info"><span class="insight-icon">ℹ</span>24% require API keys — consider documenting setup requirements.</div>
+<div class="insight success"><span class="insight-icon">✓</span>21 skills (24%) have zero dependencies — ready to use out of the box.</div>
+<div class="insight success"><span class="insight-icon">✓</span>9 skills are from official <strong>anthropics/*</strong> repos — these have lower risk scores.</div>
+<div class="insight success"><span class="insight-icon">✓</span>92% of skills were updated in the last 90 days — ecosystem is actively maintained.</div>
+<div class="insight warning"><span class="insight-icon">⚠</span>36 skills rated High/Very High risk — review before deploying in production.</div>
+<div class="insight info"><span class="insight-icon">ℹ</span>Most common function type: <strong>Generator</strong> (66 skills) — 18 simple, 37 moderate, 31 complex.</div>
+<div class="insight info"><span class="insight-icon">ℹ</span>Most comprehensive: <strong>task-observer</strong> (6,749 words). Most concise: <strong>git-pushing</strong> (165 words).</div>
+<div class="insight warning"><span class="insight-icon">⚠</span>Possible duplicates (same structure): <strong>brainstorming, root-cause-tracing</strong></div>
+
+</div>
+
+<!-- GitHub & Risk Overview -->
+<div class="two-col">
+<div>
+<h2>GitHub Adoption</h2>
+<div class="section">
+<div class="mini-stats">
+    <div><strong>1,441,299</strong> total stars</div>
+    <div><strong>137,973</strong> total forks</div>
+    <div><strong>44</strong> licensed repos</div>
+    <div><strong>79</strong> active (updated &lt;90d)</div>
+</div>
+<h3 style="margin-top:16px">Top Starred Skills</h3>
+<div class="mini-row">
+            <a href="https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md" target="_blank" class="mini-name skill-link">docx</a>
+            <a href="https://github.com/anthropics/skills" target="_blank" class="mini-stats-inline github-stats">83293 stars · 8759 forks · active</a>
+        </div>
+<div class="mini-row">
+            <a href="https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md" target="_blank" class="mini-name skill-link">internal-comms</a>
+            <a href="https://github.com/anthropics/skills" target="_blank" class="mini-stats-inline github-stats">83293 stars · 8759 forks · active</a>
+        </div>
+<div class="mini-row">
+            <a href="https://github.com/anthropics/skills/blob/main/skills/pdf/SKILL.md" target="_blank" class="mini-name skill-link">pdf</a>
+            <a href="https://github.com/anthropics/skills" target="_blank" class="mini-stats-inline github-stats">83293 stars · 8759 forks · active</a>
+        </div>
+<div class="mini-row">
+            <a href="https://github.com/anthropics/skills/blob/main/skills/pptx/SKILL.md" target="_blank" class="mini-name skill-link">pptx</a>
+            <a href="https://github.com/anthropics/skills" target="_blank" class="mini-stats-inline github-stats">83293 stars · 8759 forks · active</a>
+        </div>
+<div class="mini-row">
+            <a href="https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md" target="_blank" class="mini-name skill-link">skill-creator</a>
+            <a href="https://github.com/anthropics/skills" target="_blank" class="mini-stats-inline github-stats">83293 stars · 8759 forks · active</a>
+        </div>
+
+</div>
+</div>
+<div>
+<h2>Risk Distribution</h2>
+<div class="section">
+<div class="chart-row">
+            <div class="chart-label">Minimal</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:38.46153846153847%;background:#22c55e">10</div></div>
+            <div class="chart-meta">12%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Low</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:53.84615384615385%;background:#3b82f6">14</div></div>
+            <div class="chart-meta">16%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Moderate</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:100.0%;background:#eab308">26</div></div>
+            <div class="chart-meta">30%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">High</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:42.30769230769231%;background:#f97316">11</div></div>
+            <div class="chart-meta">13%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Very High</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:96.15384615384616%;background:#ef4444">25</div></div>
+            <div class="chart-meta">29%</div>
+        </div>
+
+<div style="margin-top:12px;font-size:12px;color:var(--text2)">
+    36 skills rated High/Very High risk due to shell execution, external binaries, or Docker usage.
+</div>
+</div>
+</div>
+</div>
+
+<!-- Skill Types -->
+<div class="two-col">
+<div>
+<h2>Skill Function Types</h2>
+<div class="section">
+<div class="chart-row">
+            <div class="chart-label">Generator</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:100.0%;background:#22c55e">66</div></div>
+            <div class="chart-meta">77%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Analyzer</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:13.636363636363635%;background:#3b82f6">9</div></div>
+            <div class="chart-meta">10%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Workflow</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:6.0606060606060606%;background:#f97316">4</div></div>
+            <div class="chart-meta">5%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Integrator</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:6.0606060606060606%;background:#06b6d4">4</div></div>
+            <div class="chart-meta">5%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Guide</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:3.0303030303030303%;background:#ec4899">2</div></div>
+            <div class="chart-meta">2%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Transformer</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:1.5151515151515151%;background:#8b5cf6">1</div></div>
+            <div class="chart-meta">1%</div>
+        </div>
+
+</div>
+</div>
+<div>
+<h2>Complexity Distribution</h2>
+<div class="section">
+<div class="chart-row">
+            <div class="chart-label">Simple</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:48.64864864864865%;background:#22c55e">18</div></div>
+            <div class="chart-meta">21%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Moderate</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:100.0%;background:#eab308">37</div></div>
+            <div class="chart-meta">43%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Complex</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:83.78378378378379%;background:#ef4444">31</div></div>
+            <div class="chart-meta">36%</div>
+        </div>
+
+</div>
+</div>
+</div>
+
+<!-- Quality & Categories -->
+<div class="two-col">
+<div>
+<h2>Quality Distribution</h2>
+<div class="section">
+<div class="chart-row">
+            <div class="chart-label">Excellent (4.5-5.0)</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:14.285714285714285%;background:#22c55e">6</div></div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Good (4.0-4.4)</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:73.80952380952381%;background:#3b82f6">31</div></div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Fair (3.0-3.9)</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:100.0%;background:#eab308">42</div></div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Basic (< 3.0)</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:16.666666666666664%;background:#ef4444">7</div></div>
+        </div>
+
+</div>
+</div>
+<div>
+<h2>Skills by Category</h2>
+<div class="section">
+<div class="chart-row">
+            <div class="chart-label">Development</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:100.0%;background:#22c55e">18</div>
+            </div>
+            <div class="chart-meta">avg 3.9/5 · 964 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Media</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:66.66666666666666%;background:#f97316">12</div>
+            </div>
+            <div class="chart-meta">avg 3.6/5 · 968 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Collaboration</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:61.111111111111114%;background:#14b8a6">11</div>
+            </div>
+            <div class="chart-meta">avg 3.6/5 · 836 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Data & Analysis</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:61.111111111111114%;background:#eab308">11</div>
+            </div>
+            <div class="chart-meta">avg 3.7/5 · 1245 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Security</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:38.88888888888889%;background:#dc2626">7</div>
+            </div>
+            <div class="chart-meta">avg 4.0/5 · 1794 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Document</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:33.33333333333333%;background:#3b82f6">6</div>
+            </div>
+            <div class="chart-meta">avg 4.2/5 · 1735 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Utility</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:33.33333333333333%;background:#6366f1">6</div>
+            </div>
+            <div class="chart-meta">avg 3.6/5 · 2579 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Writing</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:27.77777777777778%;background:#ec4899">5</div>
+            </div>
+            <div class="chart-meta">avg 3.7/5 · 1286 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Scientific</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:22.22222222222222%;background:#8b5cf6">4</div>
+            </div>
+            <div class="chart-meta">avg 4.1/5 · 831 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Collections</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:16.666666666666664%;background:#a855f7">3</div>
+            </div>
+            <div class="chart-meta">avg 3.8/5 · 1436 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Learning</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:11.11111111111111%;background:#06b6d4">2</div>
+            </div>
+            <div class="chart-meta">avg 4.5/5 · 1617 words</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Health</div>
+            <div class="chart-bar-wrap">
+                <div class="chart-bar" style="width:5.555555555555555%;background:#ef4444">1</div>
+            </div>
+            <div class="chart-meta">avg 3.9/5 · 488 words</div>
+        </div>
+
+</div>
+</div>
+</div>
+
+<!-- Dependencies & Tools -->
+<div class="two-col">
+<div>
+<h2>Dependency Requirements</h2>
+<div class="section">
+<div class="chart-row">
+            <div class="chart-label">Bash</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:100.0%;background:#eab308">61</div></div>
+            <div class="chart-meta">71%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">API Key</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:34.42622950819672%;background:#ef4444">21</div></div>
+            <div class="chart-meta">24%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">pip</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:27.86885245901639%;background:#3b82f6">17</div></div>
+            <div class="chart-meta">20%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">MCP</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:16.39344262295082%;background:#8b5cf6">10</div></div>
+            <div class="chart-meta">12%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">npm</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:11.475409836065573%;background:#22c55e">7</div></div>
+            <div class="chart-meta">8%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Docker</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:6.557377049180328%;background:#06b6d4">4</div></div>
+            <div class="chart-meta">5%</div>
+        </div>
+
+<div style="margin-top:12px;font-size:12px;color:var(--text2)">
+    21 skills (24%) require no external dependencies.
+</div>
+</div>
+</div>
+<div>
+<h2>Tool Usage Patterns</h2>
+<div class="section">
+<div class="chart-row">
+                <div class="chart-label">Bash/Shell</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:100.0%;background:#14b8a6">64</div></div>
+                <div class="chart-meta">74%</div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">HTTP/Fetch</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:93.75%;background:#14b8a6">60</div></div>
+                <div class="chart-meta">70%</div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">Python</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:59.375%;background:#14b8a6">38</div></div>
+                <div class="chart-meta">44%</div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">Node.js</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:34.375%;background:#14b8a6">22</div></div>
+                <div class="chart-meta">26%</div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">Read</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:31.25%;background:#14b8a6">20</div></div>
+                <div class="chart-meta">23%</div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">Write</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:26.5625%;background:#14b8a6">17</div></div>
+                <div class="chart-meta">20%</div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">Browser</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:25.0%;background:#14b8a6">16</div></div>
+                <div class="chart-meta">19%</div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">Git</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:21.875%;background:#14b8a6">14</div></div>
+                <div class="chart-meta">16%</div>
+            </div>
+
+</div>
+</div>
+</div>
+
+<!-- Word Count vs Quality -->
+<h2>Word Count vs. Quality Correlation</h2>
+<div class="section">
+<div class="chart-row">
+            <div class="chart-label">< 200 words</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:39.0%;background:#3b82f6">2.0</div></div>
+            <div class="chart-meta">2 skills</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">200-500 words</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:67.76470588235294%;background:#3b82f6">3.4</div></div>
+            <div class="chart-meta">17 skills</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">500-1000 words</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:75.6%;background:#3b82f6">3.8</div></div>
+            <div class="chart-meta">25 skills</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">1000-2000 words</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:82.28571428571429%;background:#3b82f6">4.1</div></div>
+            <div class="chart-meta">28 skills</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">2000+ words</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:78.71428571428571%;background:#3b82f6">3.9</div></div>
+            <div class="chart-meta">14 skills</div>
+        </div>
+
+<div style="margin-top:12px;font-size:12px;color:var(--text2)">
+    Longer, more detailed skill files tend to score higher on quality metrics. 
+    Skills under 200 words often lack examples, triggers, and proper structure.
+</div>
+</div>
+
+<!-- Structure Completeness -->
+<div class="two-col">
+<div>
+<h2>Documentation Completeness</h2>
+<div class="section">
+<div class="chart-row">
+            <div class="chart-label">Has Trigger/When-to-use</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:84.88372093023256%;background:#22c55e">73</div></div>
+            <div class="chart-meta">85%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Has Examples/Usage</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:79.06976744186046%;background:#3b82f6">68</div></div>
+            <div class="chart-meta">79%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Has Frontmatter</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:98.83720930232558%;background:#8b5cf6">85</div></div>
+            <div class="chart-meta">99%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Has Error Handling</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:59.30232558139535%;background:#f97316">51</div></div>
+            <div class="chart-meta">59%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Has Instructions/Rules</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:55.81395348837209%;background:#06b6d4">48</div></div>
+            <div class="chart-meta">56%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Has Allowed Tools</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:15.11627906976744%;background:#eab308">13</div></div>
+            <div class="chart-meta">15%</div>
+        </div>
+<div class="chart-row">
+            <div class="chart-label">Has Output Format</div>
+            <div class="chart-bar-wrap"><div class="chart-bar" style="width:22.093023255813954%;background:#ec4899">19</div></div>
+            <div class="chart-meta">22%</div>
+        </div>
+
+</div>
+</div>
+<div>
+<h2>Code Block Languages</h2>
+<div class="section">
+<div class="chart-row">
+                <div class="chart-label">bash</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:100.0%;background:#6366f1">58</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">json</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:29.310344827586203%;background:#6366f1">17</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">markdown</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:18.96551724137931%;background:#6366f1">11</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">python</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:18.96551724137931%;background:#6366f1">11</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">javascript</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:13.793103448275861%;background:#6366f1">8</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">dot</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:5.172413793103448%;background:#6366f1">3</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">typescript</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:5.172413793103448%;background:#6366f1">3</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">yaml</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:5.172413793103448%;background:#6366f1">3</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">php</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:3.4482758620689653%;background:#6366f1">2</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">csharp</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:3.4482758620689653%;background:#6366f1">2</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">sql</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:3.4482758620689653%;background:#6366f1">2</div></div>
+            </div>
+<div class="chart-row">
+                <div class="chart-label">java</div>
+                <div class="chart-bar-wrap"><div class="chart-bar" style="width:3.4482758620689653%;background:#6366f1">2</div></div>
+            </div>
+
+</div>
+</div>
+</div>
+
+<!-- Heatmap: Category × Feature -->
+<h2>Feature Coverage Heatmap (by Category)</h2>
+<div class="section" style="overflow-x:auto">
+<table>
+<thead><tr><th></th><th>Frontmatter</th><th>Trigger</th><th>Examples</th><th>Allowed Tools</th><th>Error Handling</th></tr></thead>
+<tbody><tr><td><span class="cat-dot" style="background:#22c55e"></span>Development</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.8055555555555556);color:#fff;text-align:center">94%</td><td style="background:rgba(59,130,246,0.5833333333333333);color:#fff;text-align:center">67%</td><td style="background:rgba(59,130,246,0.2277777777777778);color:#fff;text-align:center">22%</td><td style="background:rgba(59,130,246,0.5833333333333333);color:#fff;text-align:center">67%</td></tr>
+<tr><td><span class="cat-dot" style="background:#f97316"></span>Media</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.7166666666666669);color:#fff;text-align:center">83%</td><td style="background:rgba(59,130,246,0.5833333333333333);color:#fff;text-align:center">67%</td><td style="background:rgba(59,130,246,0.11666666666666665);color:#fff;text-align:center">8%</td><td style="background:rgba(59,130,246,0.3833333333333334);color:#fff;text-align:center">42%</td></tr>
+<tr><td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td><td style="background:rgba(59,130,246,0.7772727272727273);color:#fff;text-align:center">91%</td><td style="background:rgba(59,130,246,0.7772727272727273);color:#fff;text-align:center">91%</td><td style="background:rgba(59,130,246,0.7772727272727273);color:#fff;text-align:center">91%</td><td style="background:rgba(59,130,246,0.12272727272727274);color:#fff;text-align:center">9%</td><td style="background:rgba(59,130,246,0.48636363636363633);color:#fff;text-align:center">55%</td></tr>
+<tr><td><span class="cat-dot" style="background:#eab308"></span>Data & Analysis</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.7045454545454547);color:#fff;text-align:center">82%</td><td style="background:rgba(59,130,246,0.631818181818182);color:#fff;text-align:center">73%</td><td style="background:rgba(59,130,246,0.12272727272727274);color:#fff;text-align:center">9%</td><td style="background:rgba(59,130,246,0.631818181818182);color:#fff;text-align:center">73%</td></tr>
+<tr><td><span class="cat-dot" style="background:#dc2626"></span>Security</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.6214285714285716);color:#fff;text-align:center">71%</td><td style="background:rgba(59,130,246,0.7357142857142858);color:#fff;text-align:center">86%</td><td style="background:rgba(59,130,246,0.16428571428571428);color:#fff;text-align:center">14%</td><td style="background:rgba(59,130,246,0.6214285714285716);color:#fff;text-align:center">71%</td></tr>
+<tr><td><span class="cat-dot" style="background:#3b82f6"></span>Document</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.7166666666666669);color:#fff;text-align:center">83%</td><td style="background:rgba(59,130,246,0.7166666666666669);color:#fff;text-align:center">83%</td><td style="background:rgba(59,130,246,0.05);color:#fff;text-align:center">0%</td><td style="background:rgba(59,130,246,0.45);color:#fff;text-align:center">50%</td></tr>
+<tr><td><span class="cat-dot" style="background:#6366f1"></span>Utility</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.7166666666666669);color:#fff;text-align:center">83%</td><td style="background:rgba(59,130,246,0.7166666666666669);color:#fff;text-align:center">83%</td><td style="background:rgba(59,130,246,0.05);color:#fff;text-align:center">0%</td><td style="background:rgba(59,130,246,0.5833333333333333);color:#fff;text-align:center">67%</td></tr>
+<tr><td><span class="cat-dot" style="background:#ec4899"></span>Writing</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.6900000000000002);color:#fff;text-align:center">80%</td><td style="background:rgba(59,130,246,0.6900000000000002);color:#fff;text-align:center">80%</td><td style="background:rgba(59,130,246,0.21000000000000002);color:#fff;text-align:center">20%</td><td style="background:rgba(59,130,246,0.53);color:#fff;text-align:center">60%</td></tr>
+<tr><td><span class="cat-dot" style="background:#8b5cf6"></span>Scientific</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.6500000000000001);color:#fff;text-align:center">75%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.25);color:#fff;text-align:center">25%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td></tr>
+<tr><td><span class="cat-dot" style="background:#a855f7"></span>Collections</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.05);color:#fff;text-align:center">0%</td><td style="background:rgba(59,130,246,0.05);color:#fff;text-align:center">0%</td></tr>
+<tr><td><span class="cat-dot" style="background:#06b6d4"></span>Learning</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.45);color:#fff;text-align:center">50%</td></tr>
+<tr><td><span class="cat-dot" style="background:#ef4444"></span>Health</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.05);color:#fff;text-align:center">0%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.8500000000000001);color:#fff;text-align:center">100%</td><td style="background:rgba(59,130,246,0.05);color:#fff;text-align:center">0%</td></tr>
+</tbody>
+</table>
+<div style="margin-top:10px;font-size:11px;color:var(--text2)">Percentage of skills in each category that include the given feature. Darker = higher coverage.</div>
+</div>
+
+<!-- Top 10 Skills -->
+<h2>Top 10 Skills (by Quality)</h2>
+<div class="section" style="overflow-x:auto">
+<table>
+<thead><tr><th>#</th><th>Skill</th><th>Category</th><th>Quality</th><th>Risk</th><th>GitHub</th><th>Dependencies</th></tr></thead>
+<tbody><tr>
+            <td>1</td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/article-extractor/SKILL.md" target="_blank" class="skill-link"><strong>article-extractor</strong></a><span class="type-tag">analyzer | moderate</span><br><span class="sub">article-extractor</span></td>
+            <td><span class="cat-dot" style="background:#ec4899"></span>Writing</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-veryhigh">Very High</span></td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code" target="_blank" class="github-stats"><span class="star">★</span> 264 · 43 forks</a></td>
+            <td><span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>2</td>
+            <td><a href="https://github.com/wannabehero/charles-proxy-extract-skill/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>charles-proxy-extract</strong></a><span class="type-tag">analyzer | moderate</span><br><span class="sub">charles-proxy-extract</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-high">High</span></td>
+            <td><a href="https://github.com/wannabehero/charles-proxy-extract-skill" target="_blank" class="github-stats"><span class="star">★</span> 5 · 1 forks</a></td>
+            <td><span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>3</td>
+            <td><a href="https://github.com/wrsmith108/linear-claude-skill/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>Linear</strong></a><span class="type-tag">integrator | complex</span><br><span class="sub">linear-claude-skill</span></td>
+            <td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-veryhigh">Very High</span></td>
+            <td><a href="https://github.com/wrsmith108/linear-claude-skill" target="_blank" class="github-stats"><span class="star">★</span> 60 · 7 forks</a></td>
+            <td><span class="tag apikey">API Key</span> <span class="tag mcp">MCP</span> <span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>4</td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/ship-learn-next/SKILL.md" target="_blank" class="skill-link"><strong>ship-learn-next</strong></a><span class="type-tag">generator | moderate</span><br><span class="sub">ship-learn-next</span></td>
+            <td><span class="cat-dot" style="background:#06b6d4"></span>Learning</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-moderate">Moderate</span></td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code" target="_blank" class="github-stats"><span class="star">★</span> 264 · 43 forks</a></td>
+            <td><span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>5</td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/tapestry/SKILL.md" target="_blank" class="skill-link"><strong>tapestry</strong></a><span class="type-tag">generator | complex</span><br><span class="sub">tapestry</span></td>
+            <td><span class="cat-dot" style="background:#06b6d4"></span>Learning</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-veryhigh">Very High</span></td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code" target="_blank" class="github-stats"><span class="star">★</span> 264 · 43 forks</a></td>
+            <td><span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>6</td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/youtube-transcript/SKILL.md" target="_blank" class="skill-link"><strong>youtube-transcript</strong></a><span class="type-tag">generator | complex</span><br><span class="sub">youtube-transcript</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-high">High</span></td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code" target="_blank" class="github-stats"><span class="star">★</span> 264 · 43 forks</a></td>
+            <td><span class="tag apikey">API Key</span> <span class="tag pip">pip</span> <span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>7</td>
+            <td><a href="https://github.com/K-Dense-AI/claude-scientific-skills/blob/main/scientific-skills/esm/SKILL.md" target="_blank" class="skill-link"><strong>esm</strong></a><span class="type-tag">generator | complex</span><br><span class="sub">claude-scientific-skills</span></td>
+            <td><span class="cat-dot" style="background:#8b5cf6"></span>Scientific</td>
+            <td class="q-good">4.4/5</td>
+            <td><span class="risk-badge risk-moderate">Moderate</span></td>
+            <td><a href="https://github.com/K-Dense-AI/claude-scientific-skills" target="_blank" class="github-stats"><span class="star">★</span> 12427 · 1344 forks</a></td>
+            <td><span class="tag pip">pip</span> <span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>8</td>
+            <td><a href="https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md" target="_blank" class="skill-link"><strong>docx</strong></a><span class="type-tag">generator | complex</span><br><span class="sub">docx</span></td>
+            <td><span class="cat-dot" style="background:#3b82f6"></span>Document</td>
+            <td class="q-good">4.4/5</td>
+            <td><span class="risk-badge risk-moderate">Moderate</span></td>
+            <td><a href="https://github.com/anthropics/skills" target="_blank" class="github-stats"><span class="star">★</span> 83293 · 8759 forks</a></td>
+            <td><span class="tag npm">npm</span> <span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>9</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/manus/SKILL.md" target="_blank" class="skill-link"><strong>manus</strong></a><span class="type-tag">analyzer | complex</span><br><span class="sub">manus</span></td>
+            <td><span class="cat-dot" style="background:#8b5cf6"></span>Scientific</td>
+            <td class="q-good">4.4/5</td>
+            <td><span class="risk-badge risk-veryhigh">Very High</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122 · 7 forks</a></td>
+            <td><span class="tag apikey">API Key</span> <span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>10</td>
+            <td><a href="https://github.com/jacob-g-park/polaris-datainsight-doc-extract/blob/main/skills/polaris-datainsight-doc-extract/SKILL.md" target="_blank" class="skill-link"><strong>polaris-datainsight-doc-extract</strong></a><span class="type-tag">workflow | complex</span><br><span class="sub">polaris-datainsight-doc-extract</span></td>
+            <td><span class="cat-dot" style="background:#3b82f6"></span>Document</td>
+            <td class="q-good">4.4/5</td>
+            <td><span class="risk-badge risk-veryhigh">Very High</span></td>
+            <td><a href="https://github.com/jacob-g-park/polaris-datainsight-doc-extract" target="_blank" class="github-stats">View repo</a></td>
+            <td><span class="tag apikey">API Key</span> <span class="tag pip">pip</span> <span class="tag bash">Bash</span></td>
+        </tr>
+</tbody>
+</table>
+</div>
+
+<!-- High Risk Skills -->
+<h2>High Risk Skills (Risk Score &ge; 3.5)</h2>
+<div class="section" style="overflow-x:auto">
+<table>
+<thead><tr><th>#</th><th>Skill</th><th>Category</th><th>Quality</th><th>Risk</th><th>GitHub</th><th>Risk Factors</th></tr></thead>
+<tbody><tr>
+            <td>1</td>
+            <td><a href="https://github.com/BehiSecc/VibeSec-Skill/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>VibeSec-Skill</strong></a><br><span class="sub">VibeSec-Skill</span></td>
+            <td><span class="cat-dot" style="background:#dc2626"></span>Security</td>
+            <td class="q-fair">3.9/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/BehiSecc/VibeSec-Skill" target="_blank" class="github-stats"><span class="star">★</span> 615</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>2</td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/article-extractor/SKILL.md" target="_blank" class="skill-link"><strong>article-extractor</strong></a><br><span class="sub">article-extractor</span></td>
+            <td><span class="cat-dot" style="background:#ec4899"></span>Writing</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code" target="_blank" class="github-stats"><span class="star">★</span> 264</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, External Binary, Network</td>
+        </tr>
+<tr>
+            <td>3</td>
+            <td><a href="https://github.com/zxkane/aws-skills/blob/main/plugins/aws-common/skills/aws-mcp-setup/SKILL.md" target="_blank" class="skill-link"><strong>aws-mcp-setup</strong></a><br><span class="sub">aws-skills</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-fair">3.5/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/zxkane/aws-skills" target="_blank" class="github-stats"><span class="star">★</span> 190</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>4</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/azure-devops/SKILL.md" target="_blank" class="skill-link"><strong>azure-devops</strong></a><br><span class="sub">azure-devops</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-fair">3.6/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>5</td>
+            <td><a href="https://github.com/raintree-technology/claude-starter/blob/main/skills/whop/SKILL.md" target="_blank" class="skill-link"><strong>whop</strong></a><br><span class="sub">claude-starter</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-good">4.3/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/raintree-technology/claude-starter" target="_blank" class="github-stats"><span class="star">★</span> 60</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>6</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/deep-research/SKILL.md" target="_blank" class="skill-link"><strong>deep-research</strong></a><br><span class="sub">deep-research</span></td>
+            <td><span class="cat-dot" style="background:#8b5cf6"></span>Scientific</td>
+            <td class="q-fair">3.8/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>7</td>
+            <td><a href="https://github.com/jthack/ffuf_claude_skill/blob/main/ffuf-skill/SKILL.md" target="_blank" class="skill-link"><strong>ffuf-web-fuzzing</strong></a><br><span class="sub">ffuf_claude_skill</span></td>
+            <td><span class="cat-dot" style="background:#dc2626"></span>Security</td>
+            <td class="q-good">4.2/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/jthack/ffuf_claude_skill" target="_blank" class="github-stats"><span class="star">★</span> 118</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, External Binary, API Key, Network</td>
+        </tr>
+<tr>
+            <td>8</td>
+            <td><a href="https://github.com/agentbay-ai/agentbay-skills/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>find-skills</strong></a><br><span class="sub">find-skills</span></td>
+            <td><span class="cat-dot" style="background:#a855f7"></span>Collections</td>
+            <td class="q-fair">3.7/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/agentbay-ai/agentbay-skills" target="_blank" class="github-stats"><span class="star">★</span> 16</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Docker, Network</td>
+        </tr>
+<tr>
+            <td>9</td>
+            <td><a href="https://github.com/shepsci/kaggle-skill/blob/main/skills/kaggle/SKILL.md" target="_blank" class="skill-link"><strong>kaggle</strong></a><br><span class="sub">kaggle-skill</span></td>
+            <td><span class="cat-dot" style="background:#eab308"></span>Data & Analysis</td>
+            <td class="q-good">4.0/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/shepsci/kaggle-skill" target="_blank" class="github-stats"><span class="star">★</span> 2</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>10</td>
+            <td><a href="https://github.com/mattjoyce/kanban-skill/blob/main/skills/kanban-ai/SKILL.md" target="_blank" class="skill-link"><strong>kanban-ai</strong></a><br><span class="sub">kanban-skill</span></td>
+            <td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td>
+            <td class="q-fair">3.9/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/mattjoyce/kanban-skill" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Credentials</td>
+        </tr>
+<tr>
+            <td>11</td>
+            <td><a href="https://github.com/wrsmith108/linear-claude-skill/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>Linear</strong></a><br><span class="sub">linear-claude-skill</span></td>
+            <td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/wrsmith108/linear-claude-skill" target="_blank" class="github-stats"><span class="star">★</span> 60</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>12</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/manus/SKILL.md" target="_blank" class="skill-link"><strong>manus</strong></a><br><span class="sub">manus</span></td>
+            <td><span class="cat-dot" style="background:#8b5cf6"></span>Scientific</td>
+            <td class="q-good">4.4/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, External Binary, API Key, Network</td>
+        </tr>
+<tr>
+            <td>13</td>
+            <td><a href="https://github.com/polaroteam/moltdj-skill/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>moltdj</strong></a><br><span class="sub">moltdj</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-good">4.2/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/polaroteam/moltdj-skill" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, External Binary, API Key, Network</td>
+        </tr>
+<tr>
+            <td>14</td>
+            <td><a href="https://github.com/Octav-Labs/octav-api-skill/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>octav-api</strong></a><br><span class="sub">octav-api-skill</span></td>
+            <td><span class="cat-dot" style="background:#eab308"></span>Data & Analysis</td>
+            <td class="q-fair">3.5/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/Octav-Labs/octav-api-skill" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, External Binary, API Key, Network</td>
+        </tr>
+<tr>
+            <td>15</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/outline/SKILL.md" target="_blank" class="skill-link"><strong>outline</strong></a><br><span class="sub">outline</span></td>
+            <td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td>
+            <td class="q-fair">3.8/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>16</td>
+            <td><a href="https://github.com/agamm/claude-code-owasp/blob/main/.claude/skills/owasp-security/SKILL.md" target="_blank" class="skill-link"><strong>owasp-security</strong></a><br><span class="sub">owasp-security</span></td>
+            <td><span class="cat-dot" style="background:#dc2626"></span>Security</td>
+            <td class="q-fair">3.9/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/agamm/claude-code-owasp" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>17</td>
+            <td><a href="https://github.com/glitternetwork/skills/blob/main/pinme/SKILL.md" target="_blank" class="skill-link"><strong>pinme</strong></a><br><span class="sub">pinme</span></td>
+            <td><span class="cat-dot" style="background:#6366f1"></span>Utility</td>
+            <td class="q-good">4.1/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/glitternetwork/skills" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>18</td>
+            <td><a href="https://github.com/jacob-g-park/polaris-datainsight-doc-extract/blob/main/skills/polaris-datainsight-doc-extract/SKILL.md" target="_blank" class="skill-link"><strong>polaris-datainsight-doc-extract</strong></a><br><span class="sub">polaris-datainsight-doc-extract</span></td>
+            <td><span class="cat-dot" style="background:#3b82f6"></span>Document</td>
+            <td class="q-good">4.4/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/jacob-g-park/polaris-datainsight-doc-extract" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, External Binary, API Key, Network</td>
+        </tr>
+<tr>
+            <td>19</td>
+            <td><a href="https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>pict-test-designer</strong></a><br><span class="sub">pypict-claude-skill</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-good">4.2/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/omkamal/pypict-claude-skill" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>20</td>
+            <td><a href="https://github.com/ryanbbrown/revealjs-skill/blob/main/skills/revealjs/SKILL.md" target="_blank" class="skill-link"><strong>revealjs</strong></a><br><span class="sub">revealjs-skill</span></td>
+            <td><span class="cat-dot" style="background:#3b82f6"></span>Document</td>
+            <td class="q-fair">3.9/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/ryanbbrown/revealjs-skill" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Docker, Network</td>
+        </tr>
+<tr>
+            <td>21</td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/tapestry/SKILL.md" target="_blank" class="skill-link"><strong>tapestry</strong></a><br><span class="sub">tapestry</span></td>
+            <td><span class="cat-dot" style="background:#06b6d4"></span>Learning</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code" target="_blank" class="github-stats"><span class="star">★</span> 264</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, External Binary, Network</td>
+        </tr>
+<tr>
+            <td>22</td>
+            <td><a href="https://github.com/rebelytics/one-skill-to-rule-them-all/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>task-observer</strong></a><br><span class="sub">task-observer</span></td>
+            <td><span class="cat-dot" style="background:#6366f1"></span>Utility</td>
+            <td class="q-fair">3.7/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/rebelytics/one-skill-to-rule-them-all" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Network</td>
+        </tr>
+<tr>
+            <td>23</td>
+            <td><a href="https://github.com/wrsmith108/varlock-claude-skill/blob/main/skills/varlock/SKILL.md" target="_blank" class="skill-link"><strong>varlock</strong></a><br><span class="sub">varlock-claude-skill</span></td>
+            <td><span class="cat-dot" style="background:#dc2626"></span>Security</td>
+            <td class="q-good">4.2/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/wrsmith108/varlock-claude-skill" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, External Binary, Docker, API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>24</td>
+            <td><a href="https://github.com/ComposioHQ/awesome-claude-skills/blob/master/video-downloader/SKILL.md" target="_blank" class="skill-link"><strong>youtube-downloader</strong></a><br><span class="sub">video-downloader</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-fair">3.6/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank" class="github-stats"><span class="star">★</span> 40522</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Docker, Network</td>
+        </tr>
+<tr>
+            <td>25</td>
+            <td><a href="https://github.com/Xquik-dev/x-twitter-scraper/blob/main/skills/x-twitter-scraper/SKILL.md" target="_blank" class="skill-link"><strong>x-twitter-scraper</strong></a><br><span class="sub">x-twitter-scraper</span></td>
+            <td><span class="cat-dot" style="background:#eab308"></span>Data & Analysis</td>
+            <td class="q-good">4.1/5</td>
+            <td><span class="risk-badge risk-veryhigh">5.0</span></td>
+            <td><a href="https://github.com/Xquik-dev/x-twitter-scraper" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">API Key, Network, Credentials</td>
+        </tr>
+<tr>
+            <td>26</td>
+            <td><a href="https://github.com/deapi-ai/claude-code-skills/blob/main/deapi/SKILL.md" target="_blank" class="skill-link"><strong>deapi</strong></a><br><span class="sub">deapi-claude-code-skills</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-basic">2.7/5</td>
+            <td><span class="risk-badge risk-high">4.5</span></td>
+            <td><a href="https://github.com/deapi-ai/claude-code-skills" target="_blank" class="github-stats"><span class="star">★</span> 11</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network</td>
+        </tr>
+<tr>
+            <td>27</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/google-tts/SKILL.md" target="_blank" class="skill-link"><strong>google-tts</strong></a><br><span class="sub">google-tts</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-fair">3.0/5</td>
+            <td><span class="risk-badge risk-high">4.5</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Network</td>
+        </tr>
+<tr>
+            <td>28</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/gmail/SKILL.md" target="_blank" class="skill-link"><strong>gmail</strong></a><br><span class="sub">google-workspace-gmail</span></td>
+            <td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td>
+            <td class="q-fair">3.6/5</td>
+            <td><span class="risk-badge risk-high">4.5</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key, Credentials</td>
+        </tr>
+<tr>
+            <td>29</td>
+            <td><a href="https://github.com/wannabehero/charles-proxy-extract-skill/blob/main/SKILL.md" target="_blank" class="skill-link"><strong>charles-proxy-extract</strong></a><br><span class="sub">charles-proxy-extract</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-high">4.0</span></td>
+            <td><a href="https://github.com/wannabehero/charles-proxy-extract-skill" target="_blank" class="github-stats"><span class="star">★</span> 5</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Network</td>
+        </tr>
+<tr>
+            <td>30</td>
+            <td><a href="https://github.com/digitalsamba/claude-code-video-toolkit/blob/main/.claude/skills/ffmpeg/SKILL.md" target="_blank" class="skill-link"><strong>ffmpeg</strong></a><br><span class="sub">claude-code-video-toolkit</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-fair">3.8/5</td>
+            <td><span class="risk-badge risk-high">4.0</span></td>
+            <td><a href="https://github.com/digitalsamba/claude-code-video-toolkit" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash</td>
+        </tr>
+<tr>
+            <td>31</td>
+            <td><a href="https://github.com/guia-matthieu/clawfu-skills/blob/main/skills/meta/rlm/SKILL.md" target="_blank" class="skill-link"><strong>rlm</strong></a><br><span class="sub">clawfu-mcp-skills</span></td>
+            <td><span class="cat-dot" style="background:#a855f7"></span>Collections</td>
+            <td class="q-good">4.1/5</td>
+            <td><span class="risk-badge risk-high">4.0</span></td>
+            <td><a href="https://github.com/guia-matthieu/clawfu-skills" target="_blank" class="github-stats">View</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash</td>
+        </tr>
+<tr>
+            <td>32</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/elevenlabs/SKILL.md" target="_blank" class="skill-link"><strong>elevenlabs</strong></a><br><span class="sub">elevenlabs</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-fair">3.6/5</td>
+            <td><span class="risk-badge risk-high">4.0</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key</td>
+        </tr>
+<tr>
+            <td>33</td>
+            <td><a href="https://github.com/framix-team/skill-email-html-mjml/blob/main/email-html-mjml/SKILL.md" target="_blank" class="skill-link"><strong>email-html-mjml</strong></a><br><span class="sub">email-html-mjml</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-good">4.1/5</td>
+            <td><span class="risk-badge risk-high">4.0</span></td>
+            <td><a href="https://github.com/framix-team/skill-email-html-mjml" target="_blank" class="github-stats"><span class="star">★</span> 9</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Network</td>
+        </tr>
+<tr>
+            <td>34</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/imagen/SKILL.md" target="_blank" class="skill-link"><strong>imagen</strong></a><br><span class="sub">imagen</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-fair">3.6/5</td>
+            <td><span class="risk-badge risk-high">4.0</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key</td>
+        </tr>
+<tr>
+            <td>35</td>
+            <td><a href="https://github.com/Valian/linear-cli-skill/blob/main/linear/SKILL.md" target="_blank" class="skill-link"><strong>linear</strong></a><br><span class="sub">linear-cli-skill</span></td>
+            <td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td>
+            <td class="q-fair">3.6/5</td>
+            <td><span class="risk-badge risk-high">4.0</span></td>
+            <td><a href="https://github.com/Valian/linear-cli-skill" target="_blank" class="github-stats"><span class="star">★</span> 12</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, API Key</td>
+        </tr>
+<tr>
+            <td>36</td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/youtube-transcript/SKILL.md" target="_blank" class="skill-link"><strong>youtube-transcript</strong></a><br><span class="sub">youtube-transcript</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-excellent">4.5/5</td>
+            <td><span class="risk-badge risk-high">4.0</span></td>
+            <td><a href="https://github.com/michalparkola/tapestry-skills-for-claude-code" target="_blank" class="github-stats"><span class="star">★</span> 264</a></td>
+            <td style="font-size:11px;color:var(--text2)">Bash, Network</td>
+        </tr>
+</tbody>
+</table>
+<div style="margin-top:10px;font-size:11px;color:var(--text2)">These skills use bash execution, external binaries, or Docker. Review carefully before use.</div>
+</div>
+
+<!-- Bottom 10 Skills -->
+<h2>Bottom 10 Skills (Needs Improvement)</h2>
+<div class="section" style="overflow-x:auto">
+<table>
+<thead><tr><th>#</th><th>Skill</th><th>Category</th><th>Quality</th><th>Risk</th><th>GitHub</th><th>Dependencies</th></tr></thead>
+<tbody><tr>
+            <td>1</td>
+            <td><a href="https://github.com/anthropics/skills/blob/main/template/SKILL.md" target="_blank" class="skill-link"><strong>template-skill</strong></a><span class="type-tag">guide | simple</span><br><span class="sub">template-skill</span></td>
+            <td><span class="cat-dot" style="background:#6366f1"></span>Utility</td>
+            <td class="q-basic">1.3/5</td>
+            <td><span class="risk-badge risk-minimal">Minimal</span></td>
+            <td><a href="https://github.com/anthropics/skills" target="_blank" class="github-stats"><span class="star">★</span> 83293 · 8759 forks</a></td>
+            <td><span class="tag none">None</span></td>
+        </tr>
+<tr>
+            <td>2</td>
+            <td><a href="https://github.com/product-on-purpose/pm-skills/blob/main/skills/deliver-prd/SKILL.md" target="_blank" class="skill-link"><strong>Pm Skills</strong></a><span class="type-tag">generator | simple</span><br><span class="sub">pm-skills</span></td>
+            <td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td>
+            <td class="q-basic">2.0/5</td>
+            <td><span class="risk-badge risk-moderate">Moderate</span></td>
+            <td><a href="https://github.com/product-on-purpose/pm-skills" target="_blank" class="github-stats">View repo</a></td>
+            <td><span class="tag none">None</span></td>
+        </tr>
+<tr>
+            <td>3</td>
+            <td><a href="https://github.com/mhattingpete/claude-skills-marketplace/blob/main/engineering-workflow-plugin/skills/git-pushing/SKILL.md" target="_blank" class="skill-link"><strong>git-pushing</strong></a><span class="type-tag">generator | moderate</span><br><span class="sub">git-pushing</span></td>
+            <td><span class="cat-dot" style="background:#14b8a6"></span>Collaboration</td>
+            <td class="q-basic">2.6/5</td>
+            <td><span class="risk-badge risk-low">Low</span></td>
+            <td><a href="https://github.com/mhattingpete/claude-skills-marketplace" target="_blank" class="github-stats"><span class="star">★</span> 430 · 50 forks</a></td>
+            <td><span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>4</td>
+            <td><a href="https://github.com/Square-Zero-Labs/video-prompting-skill/blob/main/video-prompting/SKILL.md" target="_blank" class="skill-link"><strong>video-prompting</strong></a><span class="type-tag">generator | simple</span><br><span class="sub">video-prompting-skill</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-basic">2.6/5</td>
+            <td><span class="risk-badge risk-low">Low</span></td>
+            <td><a href="https://github.com/Square-Zero-Labs/video-prompting-skill" target="_blank" class="github-stats">View repo</a></td>
+            <td><span class="tag none">None</span></td>
+        </tr>
+<tr>
+            <td>5</td>
+            <td><a href="https://github.com/deapi-ai/claude-code-skills/blob/main/deapi/SKILL.md" target="_blank" class="skill-link"><strong>deapi</strong></a><span class="type-tag">integrator | moderate</span><br><span class="sub">deapi-claude-code-skills</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-basic">2.7/5</td>
+            <td><span class="risk-badge risk-high">High</span></td>
+            <td><a href="https://github.com/deapi-ai/claude-code-skills" target="_blank" class="github-stats"><span class="star">★</span> 11 · 0 forks</a></td>
+            <td><span class="tag apikey">API Key</span> <span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>6</td>
+            <td><a href="https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md" target="_blank" class="skill-link"><strong>internal-comms</strong></a><span class="type-tag">generator | simple</span><br><span class="sub">internal-comms</span></td>
+            <td><span class="cat-dot" style="background:#ec4899"></span>Writing</td>
+            <td class="q-basic">2.9/5</td>
+            <td><span class="risk-badge risk-minimal">Minimal</span></td>
+            <td><a href="https://github.com/anthropics/skills" target="_blank" class="github-stats"><span class="star">★</span> 83293 · 8759 forks</a></td>
+            <td><span class="tag none">None</span></td>
+        </tr>
+<tr>
+            <td>7</td>
+            <td><a href="https://github.com/oil-oil/oiloil-ui-ux-guide/blob/main/skills/oiloil-ui-ux-guide/SKILL.md" target="_blank" class="skill-link"><strong>oiloil-ui-ux-guide</strong></a><span class="type-tag">generator | simple</span><br><span class="sub">oiloil-ui-ux-guide</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-basic">2.9/5</td>
+            <td><span class="risk-badge risk-low">Low</span></td>
+            <td><a href="https://github.com/oil-oil/oiloil-ui-ux-guide" target="_blank" class="github-stats">View repo</a></td>
+            <td><span class="tag none">None</span></td>
+        </tr>
+<tr>
+            <td>8</td>
+            <td><a href="https://github.com/sanjay3290/ai-skills/blob/main/skills/google-tts/SKILL.md" target="_blank" class="skill-link"><strong>google-tts</strong></a><span class="type-tag">generator | complex</span><br><span class="sub">google-tts</span></td>
+            <td><span class="cat-dot" style="background:#f97316"></span>Media</td>
+            <td class="q-fair">3.0/5</td>
+            <td><span class="risk-badge risk-high">High</span></td>
+            <td><a href="https://github.com/sanjay3290/ai-skills" target="_blank" class="github-stats"><span class="star">★</span> 122 · 7 forks</a></td>
+            <td><span class="tag apikey">API Key</span> <span class="tag pip">pip</span> <span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>9</td>
+            <td><a href="https://github.com/anthropics/skills/blob/main/skills/web-artifacts-builder/SKILL.md" target="_blank" class="skill-link"><strong>web-artifacts-builder</strong></a><span class="type-tag">generator | moderate</span><br><span class="sub">web-artifacts-builder</span></td>
+            <td><span class="cat-dot" style="background:#22c55e"></span>Development</td>
+            <td class="q-fair">3.1/5</td>
+            <td><span class="risk-badge risk-moderate">Moderate</span></td>
+            <td><a href="https://github.com/anthropics/skills" target="_blank" class="github-stats"><span class="star">★</span> 83293 · 8759 forks</a></td>
+            <td><span class="tag bash">Bash</span></td>
+        </tr>
+<tr>
+            <td>10</td>
+            <td><a href="https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md" target="_blank" class="skill-link"><strong>brainstorming</strong></a><span class="type-tag">generator | simple</span><br><span class="sub">brainstorming</span></td>
+            <td><span class="cat-dot" style="background:#ec4899"></span>Writing</td>
+            <td class="q-fair">3.2/5</td>
+            <td><span class="risk-badge risk-minimal">Minimal</span></td>
+            <td><a href="https://github.com/obra/superpowers" target="_blank" class="github-stats"><span class="star">★</span> 70166 · 5397 forks</a></td>
+            <td><span class="tag mcp">MCP</span></td>
+        </tr>
+</tbody>
+</table>
+</div>
+
+<!-- Recommendations -->
+<h2>Recommendations</h2>
+<div class="section">
+<div class="insight info"><span class="insight-icon">1</span><strong>Add YAML frontmatter</strong> — Only 99% of skills have it. Adding name, description, and version fields dramatically improves discoverability.</div>
+<div class="insight info"><span class="insight-icon">2</span><strong>Define trigger conditions</strong> — 13 skills lack "when to use" guidance. This is critical for Claude Code to know when to activate a skill.</div>
+<div class="insight info"><span class="insight-icon">3</span><strong>Include code examples</strong> — Skills with ≥3 code blocks average 3.9/5 quality. Concrete examples make skills actionable.</div>
+<div class="insight info"><span class="insight-icon">4</span><strong>Specify allowed tools</strong> — Only 15% define which tools the skill can use. This constrains behavior and improves reliability.</div>
+<div class="insight info"><span class="insight-icon">5</span><strong>Add error handling guidance</strong> — 35 skills don't address edge cases or failures. Robust skills anticipate problems.</div>
+</div>
+
+<div class="footer">
+    Awesome Claude Skills Deep Analysis · 86 skills · 12 categories · 108,114 total words<br>
+    Generated from locally downloaded SKILL.md files
+</div>
+
+</div>
+</body>
+</html>
