@@ -144,6 +144,7 @@
 - [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
 - [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
+- [sentinel-ai](https://github.com/MaxwellCalkin/sentinel-ai) - Real-time AI safety guardrails SDK with prompt injection detection, PII redaction, harmful content filtering, code vulnerability scanning, and obfuscation detection. Features sub-millisecond latency, MCP safety proxy, and zero heavy dependencies.
 
 
 
