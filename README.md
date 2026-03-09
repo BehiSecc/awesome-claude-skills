@@ -104,6 +104,7 @@
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, and visual assets.
 - [elevenlabs](https://github.com/sanjay3290/ai-skills/tree/main/skills/elevenlabs) - Text-to-speech narration and two-host podcast generation from documents using ElevenLabs API.
 - [google-tts](https://github.com/sanjay3290/ai-skills/tree/main/skills/google-tts) - Text-to-speech narration and podcast generation using Google Cloud TTS.
+- [NoizAI/skills](https://github.com/NoizAI/skills) - Human-like TTS workflows with local/cloud backends, style presets, and app delivery scripts.
 - [claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Convert markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to Kindle.
 - [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
 - [find-scene](https://github.com/uriva/find-scene-skill) - Search and download movie/TV show scenes by dialog, time, or visual description using the FindScene API.
