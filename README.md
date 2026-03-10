@@ -110,6 +110,7 @@
 - [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: generate images (Flux), text-to-speech, transcribe YouTube/audio, OCR, video generation, upscale, and remove backgrounds via deAPI. Works with Cursor, Windsurf & Continue.dev.
 - [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — AI-native video production workspace for Claude Code with Remotion, ElevenLabs, FFmpeg, and Playwright skills.
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
+- [bulkgen](https://github.com/oil-oil/bulkgen-skill) - Bulk AI image generation skill — generate 9 AI images for the cost of 1. Creates one grid image via the BulkGen API and splits it into separate assets, cutting generation costs by ~89%.
 
 
 ## 🏥 Health & Life Sciences
