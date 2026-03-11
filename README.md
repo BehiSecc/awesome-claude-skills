@@ -147,7 +147,8 @@
 
 
 
-## 🔧 Utility & Automation  
+## 🔧 Utility & Automation
+- [ai-md](https://github.com/sstklen/ai-md) - Convert human-written CLAUDE.md into AI-native structured-label format. Battle-tested with 4 models: same rules, 53% smaller, compliance raised from 6/8 to 8/8.
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
