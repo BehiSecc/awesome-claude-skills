@@ -111,6 +111,7 @@
 - [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — AI-native video production workspace for Claude Code with Remotion, ElevenLabs, FFmpeg, and Playwright skills.
 - [VideoDB Skills](https://github.com/video-db/skills) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB.
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
+- [bulkgen](https://github.com/oil-oil/bulkgen-skill) - Bulk AI image generation skill — generate 9 AI images for the cost of 1. Creates one grid image via the BulkGen API and splits it into separate assets, cutting generation costs by ~89%.
 
 
 ## 🏥 Health & Life Sciences
