@@ -72,6 +72,7 @@
 - [elicitation](https://github.com/tasteray/skills/tree/main/elicitation) - Psychological profiling through natural conversation using narrative identity and Motivational Interviewing techniques.
 - [recommendations](https://github.com/tasteray/skills/tree/main/recommendations) - Personalized recommendations across movies, restaurants, products, travel, and jobs via the TasteRay API.
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics.
+- [claude-ecom](https://github.com/takechanman1228/claude-ecom) - Converts ecommerce order/sales CSV into a business review with 8 KPI trees, 30/90/365-day multi-horizon analysis, prioritized findings, and an action plan.
 
 
 
