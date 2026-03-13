@@ -168,6 +168,7 @@
 - [devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) - 33 skills for developer marketing — HN strategy, technical tutorials, docs-as-marketing, Reddit engagement, developer onboarding, newsletters, and SEO for devtools.
 - [find-skills](https://github.com/agentbay-ai/agentbay-skills) - Helps users discover, search and install agent skills from the marketplace.
 - [OpenPaw](https://github.com/daxaur/openpaw) - 38-skill bundle that turns Claude Code into a personal assistant. Includes git, Telegram, Discord, Obsidian, daily briefing, and more. Run via `npx pawmode`.
+- [agentskill.sh](https://agentskill.sh) - Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed, and 20+ AI tools.
 
 ## 🤝 Contribution
 
