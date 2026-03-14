@@ -151,6 +151,7 @@
 ## 🔧 Utility & Automation  
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
+- [pua](https://github.com/tanweai/pua) - Forces AI agents to exhaust all solutions before giving up, using culturally authentic corporate motivation in three editions: Chinese PUA (Alibaba 361), English PIP (Amazon/Google calibration), Japanese 詰め (Toyota 改善/Dentsu 鬼十則). Cross-platform: Claude Code, Codex, Gemini CLI, Cursor, Windsurf.
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
