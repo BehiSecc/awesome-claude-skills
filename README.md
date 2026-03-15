@@ -60,6 +60,7 @@
 - [Playwright Skill](https://github.com/testdino-hq/playwright-skill) - AI agent-ready Playwright skill with structured SKILL.md, test automation workflows, and MCP-compatible setup for real-world testing pipelines.
 
 
+- [widemem-ai](https://github.com/remete618/widemem-ai) - Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization.
 ## 📊 Data & Analysis
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
