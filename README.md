@@ -80,9 +80,10 @@
 - [materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills) - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing.
 - [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews.
 - [manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus) - Delegate complex tasks to Manus AI agent for deep research, market analysis, product comparisons, stock analysis, and comprehensive report generation with parallel processing.
+- [paper-search](https://github.com/ykdojo/paper-search) - Search academic papers via OpenAlex (250M+ works, free, no API key needed). Find papers by keyword, look up details by DOI, with sorting and pagination.
 
 
-## ✍️ Writing & Research  
+## ✍️ Writing & Research
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
 - [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Create internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc)
