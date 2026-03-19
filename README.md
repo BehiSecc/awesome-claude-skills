@@ -120,6 +120,7 @@
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
+- [healthcare-agents](https://github.com/ajhcs/healthcare-agents) - 51 specialized healthcare administration AI agents with MHA-level expertise across 10 divisions (revenue cycle, compliance, quality, clinical ops, payer relations, health IT, and more) for Claude Code.
 
 
 ## 🤝 Collaboration & Project Management
