@@ -95,6 +95,7 @@
 
 
 ## 📘 Learning & Knowledge  
+- [claude-learn](https://github.com/OutcomeFocusAi/claude-learn) - Self-improving behavioral rules for Claude Code. Closed feedback loop with scored rules, automated decay, and collective intelligence via community playbook sharing.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 
