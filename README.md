@@ -59,6 +59,8 @@
 - [lightning-architecture-review](https://github.com/8144225309/superscalar-mcp/tree/master/skills/lightning-architecture-review) - Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs.
 - [Playwright Skill](https://github.com/testdino-hq/playwright-skill) - AI agent-ready Playwright skill with structured SKILL.md, test automation workflows, and MCP-compatible setup for real-world testing pipelines.
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
+- [claude-learn](https://github.com/OutcomeFocusAi/claude-learn) - Self-improving behavioral playbook plugin for Claude Code. Captures corrections, failures, and discoveries as scored rules that strengthen or decay over sessions — a closed feedback loop for continuous improvement.
+- [session-coherence](https://github.com/OutcomeFocusAi/session-coherence) - Cross-tool session memory for AI coding assistants. One markdown chronicle shared by 9 tools (Claude Code, Cursor, Codex, Gemini CLI, Aider, and more). Zero dependencies, ~300 token fixed cost, 100% local.
 
 
 ## 📊 Data & Analysis
