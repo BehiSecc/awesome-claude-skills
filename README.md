@@ -174,6 +174,7 @@
 - [find-skills](https://github.com/agentbay-ai/agentbay-skills) - Helps users discover, search and install agent skills from the marketplace.
 - [OpenPaw](https://github.com/daxaur/openpaw) - 38-skill bundle that turns Claude Code into a personal assistant. Includes git, Telegram, Discord, Obsidian, daily briefing, and more. Run via `npx pawmode`.
 - [agentskill.sh](https://agentskill.sh) - Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed, and 20+ AI tools.
+- [saas-growth-marketing-skills](https://github.com/ekinciio/saas-growth-marketing-skills) - 15 specialized growth marketing skills + 3 orchestrator agents for Claude Code. Covers GEO/SEO, CRO, ASO, competitor intel, PLG funnels, retention, pricing, and more. Includes a full Notion.com case study with 12 audit reports.
 
 ## 🤝 Contribution
 
