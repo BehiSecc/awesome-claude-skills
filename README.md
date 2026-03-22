@@ -141,6 +141,8 @@
 
 
 ## 🛡 Security & Web Testing
+- [ClawSearch](https://github.com/clawsec/clawsearch) - AI agent skill discovery engine with Trust Score safety ratings and clawsearch-guard for pre-install security checks.
+- [ClawSec](https://github.com/clawsec/clawsec) - Automated security auditor for AI agent skills — static analysis, permissions review, and trust scoring.
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
 - [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
 - [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
