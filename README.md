@@ -47,6 +47,7 @@
 - [charles-proxy-extract](https://github.com/wannabehero/charles-proxy-extract-skill) - Claude is able to extract and analyze HTTP traffic from Charles Proxy session files.
 - [debug-skill](https://github.com/AlmogBaku/debug-skill) - Give your AI agent a real debugger — breakpoints, stepping, variable inspection, and stack traces via CLI.
 - [plugin-authoring](https://github.com/ivan-magda/claude-code-plugin-template/tree/main/plugins/plugin-development/skills/plugin-authoring) - Ambient guidance for creating, modifying, and debugging Claude Code plugins with schemas, templates, validation workflows, and troubleshooting.
+- [ui-annotator-mcp](https://github.com/mcpware/ui-annotator-mcp) - MCP server that annotates web pages with hover labels for AI — zero extensions, any browser.
 - [azure-devops](https://github.com/sanjay3290/ai-skills/tree/main/skills/azure-devops) - Manage Azure DevOps projects, repos, PRs, pipelines, and work items via REST API.
 - [claude-skills](https://github.com/jeffallan/claude-skills) - 65 full-stack development skills with progressive disclosure, covering React, NestJS, Python, DevOps, and 30+ frameworks.
 - [jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules) - Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and feature implementation on GitHub repos.
@@ -110,6 +111,8 @@
 - [google-tts](https://github.com/sanjay3290/ai-skills/tree/main/skills/google-tts) - Text-to-speech narration and podcast generation using Google Cloud TTS.
 - [NoizAI/skills](https://github.com/NoizAI/skills) - Human-like TTS workflows with local/cloud backends, style presets, and app delivery scripts.
 - [claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Convert markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to Kindle.
+- [logoloom](https://github.com/mcpware/logoloom) - MCP server for AI logo design — text to SVG path, optimize SVG, export brand kit.
+- [pagecast](https://github.com/mcpware/pagecast) - MCP server that records browser sessions as GIF/video — powered by Playwright and ffmpeg.
 - [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
 - [find-scene](https://github.com/uriva/find-scene-skill) - Search and download movie/TV show scenes by dialog, time, or visual description using the FindScene API.
 - [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: generate images (Flux), text-to-speech, transcribe YouTube/audio, OCR, video generation, upscale, and remove backgrounds via deAPI. Works with Cursor, Windsurf & Continue.dev.
@@ -162,6 +165,7 @@
 - [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - A meta-skill that builds and improves all your skills, including itself.
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 - [linkedin](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via Linked API — fetch profiles, search people/companies, send messages, manage connections, create posts. Supports Sales Navigator.
+- [claude-code-organizer](https://github.com/mcpware/claude-code-organizer) - MCP server to organize Claude Code memories, skills, MCP servers, and hooks — scan inventory, move between scopes, delete items.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 
 ## 📰 Articles & Blog Posts
