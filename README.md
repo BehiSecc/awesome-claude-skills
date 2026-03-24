@@ -155,6 +155,7 @@
 
 ## 🔧 Utility & Automation  
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
+[skills-janitor](https://github.com/khendzel/skills-janitor) - Audit, deduplicate, check, fix, and track usage of your Claude Code skills. 9 actions, zero dependencies.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
