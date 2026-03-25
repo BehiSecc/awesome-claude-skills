@@ -76,6 +76,7 @@
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics.
 - [claude-ecom](https://github.com/takechanman1228/claude-ecom) - Generate full ecommerce business reviews from order CSVs — KPIs, diagnostics, and action plans.
 - [chainaware-behavioral-prediction](https://github.com/ChainAware/behavioral-prediction-mcp) - ChainAware Skill for AI-powered tools to analyze wallet behaviour prediction,fraud detection and rug pull prediction.
+- [adhx](https://github.com/itsmemeworks/adhx) - Fetch any X/Twitter post as clean LLM-friendly JSON via the ADHX API. No scraping, works with tweets and full X Articles. Install: `/plugin marketplace add itsmemeworks/adhx`
 
 
 ## 🔬 Scientific & Research Tools
