@@ -179,7 +179,7 @@
 - [OpenPaw](https://github.com/daxaur/openpaw) - 38-skill bundle that turns Claude Code into a personal assistant. Includes git, Telegram, Discord, Obsidian, daily briefing, and more. Run via `npx pawmode`.
 - [agentskill.sh](https://agentskill.sh) - Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed, and 20+ AI tools.
 - [Agent Almanac](https://github.com/pjt222/agent-almanac) - 317 skills, 65 agents, and 14 teams for Claude Code following the Agent Skills open standard across 50+ domains.
-- [claude-curated](https://github.com/nardovibecoding/claude-curated) - 9 original Claude Code skills — security scanning, adversarial review, memory lifecycle, adaptive summarization, CLAUDE.md optimization, and more.
+- [claude-curated](https://github.com/nardovibecoding/claude-curated) - 8 production-tested Claude Code skills — adversarial review, security scanning, memory lifecycle, adaptive summarization, CLAUDE.md optimization.
 
 ## 🤝 Contribution
 
