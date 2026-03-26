@@ -164,8 +164,8 @@
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 - [linkedin](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via Linked API — fetch profiles, search people/companies, send messages, manage connections, create posts. Supports Sales Navigator.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
-- [memorykeeper](https://github.com/nardovibecoding/memorykeeper) - Automated memory lifecycle — mine sessions, detect stale entries, promote patterns to enforced rules, capacity monitoring with scoring matrix.
-- [claudemd-trim](https://github.com/nardovibecoding/claudemd-trim) - Audit and optimize CLAUDE.md rules — classify as internalized/custom/historical/redundant, trim bloat, save context window tokens.
+- [memorykeeper](https://github.com/nardovibecoding/claude-skillbox/tree/main/memorykeeper) - Automated memory lifecycle — mine sessions, detect stale entries, promote patterns to enforced rules, capacity monitoring with scoring matrix.
+- [claudemd-trim](https://github.com/nardovibecoding/claude-skillbox/tree/main/claudemd-trim) - Audit and optimize CLAUDE.md rules — classify as internalized/custom/historical/redundant, trim bloat, save context window tokens.
 
 ## 📰 Articles & Blog Posts
 
