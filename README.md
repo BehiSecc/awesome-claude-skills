@@ -147,7 +147,7 @@
 - [owasp-security](https://github.com/agamm/claude-code-owasp) - OWASP Top 10:2025, ASVS 5.0, and Agentic AI security (2026) with code review checklists, secure patterns, and language-specific quirks for 20+ languages.
 - [systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging) - Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 - [Trail of Bits Security Skills](https://github.com/trailofbits/skills) - Security skills for static analysis with CodeQL/Semgrep, variant analysis, code auditing, and fix verification.
-- [skillguard](https://github.com/nardovibecoding/skillguard) - Scan Claude Code skills for malicious code, prompt injection, and exfiltration before installation. 60 detection patterns, 14 threat categories, PASS/WARN/FAIL verdicts, auto-rescan with fswatch.
+- [skill-guard](https://github.com/nardovibecoding/claude-curated/tree/main/skill-guard) - Scan Claude Code skills for malicious code, prompt injection, and exfiltration before installation. 60 detection patterns, 14 threat categories, PASS/WARN/FAIL verdicts.
 - [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
 - [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
@@ -164,8 +164,8 @@
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 - [linkedin](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via Linked API — fetch profiles, search people/companies, send messages, manage connections, create posts. Supports Sales Navigator.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
-- [memorykeeper](https://github.com/nardovibecoding/claude-skillbox/tree/main/memorykeeper) - Automated memory lifecycle — mine sessions, detect stale entries, promote patterns to enforced rules, capacity monitoring with scoring matrix.
-- [claudemd-trim](https://github.com/nardovibecoding/claude-skillbox/tree/main/claudemd-trim) - Audit and optimize CLAUDE.md rules — classify as internalized/custom/historical/redundant, trim bloat, save context window tokens.
+- [memory-keeper](https://github.com/nardovibecoding/claude-curated/tree/main/memory-keeper) - Automated memory lifecycle — mine sessions, detect stale entries, promote patterns to enforced rules, capacity monitoring with scoring matrix.
+- [claude-md-trim](https://github.com/nardovibecoding/claude-curated/tree/main/claude-md-trim) - Audit and optimize CLAUDE.md rules — classify as internalized/custom/historical/redundant, trim bloat, save context window tokens.
 
 ## 📰 Articles & Blog Posts
 
@@ -179,7 +179,7 @@
 - [OpenPaw](https://github.com/daxaur/openpaw) - 38-skill bundle that turns Claude Code into a personal assistant. Includes git, Telegram, Discord, Obsidian, daily briefing, and more. Run via `npx pawmode`.
 - [agentskill.sh](https://agentskill.sh) - Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed, and 20+ AI tools.
 - [Agent Almanac](https://github.com/pjt222/agent-almanac) - 317 skills, 65 agents, and 14 teams for Claude Code following the Agent Skills open standard across 50+ domains.
-- [claude-skillbox](https://github.com/nardovibecoding/claude-skillbox) - 8 battle-tested skills — adversarial code review (critic), refactoring safety (dependency-tracker), adaptive summarization, skill ecosystem management, and more.
+- [claude-curated](https://github.com/nardovibecoding/claude-curated) - 9 original Claude Code skills — security scanning, adversarial review, memory lifecycle, adaptive summarization, CLAUDE.md optimization, and more.
 
 ## 🤝 Contribution
 
