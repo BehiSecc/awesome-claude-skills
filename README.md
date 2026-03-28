@@ -96,6 +96,7 @@
 
 
 ## 📘 Learning & Knowledge  
+- [claude-code-cheat-sheet](https://cc.storyfox.cz/) - Complete one-page printable reference with all Claude Code shortcuts, commands, CLI flags, MCP config, memory, skills, and agents. Auto-updated daily from official docs. Available in EN, ZH, JA, KO.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 
