@@ -62,6 +62,8 @@
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 
 
+- [caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and auto-generates AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md, skills). Scores config quality and keeps docs in sync as code evolves. Supports Claude Code, Cursor, GitHub Copilot, and OpenAI Codex.
+
 ## 📊 Data & Analysis
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
