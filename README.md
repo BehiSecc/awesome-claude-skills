@@ -18,6 +18,7 @@
   - [🗂️ Collections](#️-collections)
   - [🤝 Contribution](#-contribution)
   - [📬 Contact](#-contact)
+  - [ECC Skills Explorer](https://github.com/Hayder-IRAQ/claude-code-skills-explorer) - Browse 136+ Everything Claude Code skills with a modern bilingual UI (AR/EN). Static HTML + Live Python server.
 
 
 >[!Tip]
