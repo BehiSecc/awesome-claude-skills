@@ -195,6 +195,7 @@
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
+- [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers — 150+ tools on demand with one account. Competitor research, video production, web search, image generation, security scanning, and more. `npx -y toolrouter-mcp`
 
 
 ## 🤝 Contribution
