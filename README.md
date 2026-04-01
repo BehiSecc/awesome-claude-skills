@@ -177,6 +177,8 @@
 - [moodtrip-hotel-search](https://github.com/adiny/moodtrip-hotel-search) - Hotel search, comparison, reviews, pricing, and booking handoff via MoodTrip.ai MCP server. 12 tools including semantic search, room matching, and price intelligence.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
+- [overloop-cli](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+- [signals-cli](https://github.com/sortlist/signals-cli) - Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
 
 ## 📰 Articles & Blog Posts
 
