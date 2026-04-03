@@ -178,6 +178,7 @@
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
+- [vibe-spark](https://github.com/HengYu2022/vibe-spark) - Passive pattern detection + inspiration engine for vibe coders. Hook detects repetitive work patterns, generates personalized project ideas from git history, auto weekly reports. Chinese + English.
 
 ## 📰 Articles & Blog Posts
 
