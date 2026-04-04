@@ -47,6 +47,7 @@
 - [claude-code-terminal-title](https://github.com/bluzername/claude-code-terminal-title) - Gives each Claud Code terminal window a dynamic title that describes the work being done so you don't lose track of what terminal window is doing what.
 - [charles-proxy-extract](https://github.com/wannabehero/charles-proxy-extract-skill) - Claude is able to extract and analyze HTTP traffic from Charles Proxy session files.
 - [debug-skill](https://github.com/AlmogBaku/debug-skill) - Give your AI agent a real debugger — breakpoints, stepping, variable inspection, and stack traces via CLI.
+- [qdrant-skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java.
 - [plugin-authoring](https://github.com/ivan-magda/claude-code-plugin-template/tree/main/plugins/plugin-development/skills/plugin-authoring) - Ambient guidance for creating, modifying, and debugging Claude Code plugins with schemas, templates, validation workflows, and troubleshooting.
 - [azure-devops](https://github.com/sanjay3290/ai-skills/tree/main/skills/azure-devops) - Manage Azure DevOps projects, repos, PRs, pipelines, and work items via REST API.
 - [claude-skills](https://github.com/jeffallan/claude-skills) - 65 full-stack development skills with progressive disclosure, covering React, NestJS, Python, DevOps, and 30+ frameworks.
