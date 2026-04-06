@@ -1,5 +1,6 @@
 # Awesome Claude Skills
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 specialized agent system prompts for Claude Code including orchestration, security auditing, code review, trading analysis, and quality gate verification.
 ## 📚 Table of Contents  
 - [Awesome Claude Skills](#awesome-claude-skills)
   - [📚 Table of Contents](#-table-of-contents)
