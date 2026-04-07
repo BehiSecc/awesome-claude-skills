@@ -102,9 +102,10 @@
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
 
 
-## 📘 Learning & Knowledge  
-- [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
+## 📘 Learning & Knowledge
+- [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
+- [president-skill](https://github.com/realteamprinz/president-skill) - Activatable thinking operating systems of US Presidents — mental models, decision patterns, and expression DNA of Trump, Lincoln, and 43 more rolling out through Easter Week 2026. Team of Rivals, Art of the Deal, first-person role-play, 7-language READMEs.
 
 
 
