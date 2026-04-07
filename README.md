@@ -198,6 +198,7 @@
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
 
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell community-built agent capabilities.
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
