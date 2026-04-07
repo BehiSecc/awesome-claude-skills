@@ -211,3 +211,8 @@ You can also open an **Issue** 🐛 if you spot something that needs fixing.
 ## 📬 Contact
 
 If you want to contact me, you can reach me on [X](https://x.com/Behi_Sec).
+
+
+## Knowledge Management
+
+- [Vaultweaver](https://github.com/Apexlify/vaultweaver) - LLM Knowledge Base compiler. Drop files, get an interconnected Obsidian-compatible wiki with auto-ingest, BM25 search, and drift detection.
