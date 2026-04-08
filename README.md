@@ -185,6 +185,7 @@
 
 ## 🗂️ Collections
 
+- [claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - AI-powered marketing skills for Claude Code, Cursor, and Windsurf — SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, and Lead Qualification. Free, no account required.
 - [@clawfu/mcp-skills](https://github.com/guia-matthieu/clawfu-skills) - 169 expert-sourced marketing skills (Dunford, Schwartz, Ogilvy, Cialdini) as MCP server with brand memory.
 - [wondelai/skills](https://github.com/wondelai/skills) - 25 agent skills for UX design, marketing/CRO, sales, product strategy, and growth based on books by Norman, Cialdini, Ries, Hormozi, and others.
 - [devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) - 33 skills for developer marketing — HN strategy, technical tutorials, docs-as-marketing, Reddit engagement, developer onboarding, newsletters, and SEO for devtools.
