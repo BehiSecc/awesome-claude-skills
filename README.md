@@ -1,6 +1,7 @@
 # Awesome Claude Skills
 
 ## 📚 Table of Contents  
+- [Ruleskill](https://ruleskill.com) - We want to verify your code for the RuleSkill Protocol. Claim your badge.
 - [Awesome Claude Skills](#awesome-claude-skills)
   - [📚 Table of Contents](#-table-of-contents)
   - [📄 Document Skills](#-document-skills)
