@@ -63,6 +63,10 @@
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
+- [simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement using investigation-first judge panels.
+- [test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel implementation exploration with test-driven winner selection.
+- [fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Pre-commit sanity check that catches bugs before merge.
+- [review-squad](https://github.com/2389-research/review-squad) - Multi-perspective code review via specialized subagent panels.
 
 
 ## 📊 Data & Analysis
@@ -196,6 +200,7 @@
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
+- [claude-plugins](https://github.com/2389-research/claude-plugins) - 30 open-source Claude Code plugins and MCP servers for parallel exploration, iterative refinement, and structured decisions.
 
 
 ## 🤝 Contribution
