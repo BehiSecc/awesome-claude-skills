@@ -196,6 +196,7 @@
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
+- [Product Org OS](https://github.com/yohayetsion/product-org-os) - Claude Code plugin that models a full product organization: 150+ skills for PRDs, roadmaps, business cases, GTM, pricing, and strategy frameworks, 12 role-based agents (CPO, VP Product, PM, PMM, BizOps, Competitive Intelligence, and more), plus two gateways — `/product` auto-routes to the right role and `/plt` convenes a multi-stakeholder leadership meeting. Built on the Vision to Value 6-phase methodology. MIT licensed.
 
 
 ## 🤝 Contribution
