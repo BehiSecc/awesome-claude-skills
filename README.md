@@ -124,6 +124,7 @@
 - [VideoDB Skills](https://github.com/video-db/skills) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB.
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [fabbo-ai-generator](https://github.com/fabbo-ai/fabbo-ai-generator) - Generate AI videos and images on [fabbo.ai](https://fabbo.ai) by driving a real Playwright browser. Supports text-to-video, image-to-video, text-to-image, reference-to-video, and image editing modes.
 
 
 ## 🏥 Health & Life Sciences
