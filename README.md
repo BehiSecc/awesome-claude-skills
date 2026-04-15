@@ -105,6 +105,7 @@
 ## 📘 Learning & Knowledge  
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
+- [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base in any project (Karpathy's LLM Wiki pattern). Skill + 5 `/wiki:*` commands with sharded indexes, BM25 search, and a structural lint script — designed to scale to thousands of pages.
 
 
 
