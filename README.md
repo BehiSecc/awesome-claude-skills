@@ -63,6 +63,8 @@
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
+- [not-human-search](https://nothumansearch.ai) - Agent-first search engine for discovering MCP servers, AI tools, and APIs. MCP endpoint at `nothumansearch.ai/mcp` with `search`, `check`, `verify_mcp`, and `submit` tools. Free, no API key.
+- [ai-dev-jobs](https://aidevboard.com) - Search 5,400+ AI and ML developer jobs with salary data, company info, and remote filters. MCP endpoint at `aidevboard.com/mcp` with `search_jobs`, `get_job`, `list_companies`, and `get_stats` tools. Free, no API key.
 
 
 ## 📊 Data & Analysis
