@@ -166,6 +166,7 @@
 
 
 ## 🔧 Utility & Automation  
+- [liepin-cli](https://github.com/liepin-tech-2026/liepin-cil) - Search jobs on Liepin (猎聘), apply to positions, view and edit resumes. Local CLI tool for Liepin job search & resume management.
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
