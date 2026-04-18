@@ -63,6 +63,8 @@
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
+- [swe-skills](https://github.com/ckorhonen/swe-skills) - 15 strategic engineering skills for Claude Code: PR risk review, test gap hunting, performance profiling, ownership mapping, architectural auditing.
+- [hone-skills](https://github.com/ckorhonen/hone-skills) - 8 scheduled code-hygiene skills that run on cron: method brevity, naming clarity, duplication detection, broken-windows hunt, automation opportunities.
 
 
 ## 📊 Data & Analysis
@@ -196,6 +198,7 @@
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
+- [ckorhonen/claude-skills](https://github.com/ckorhonen/claude-skills) - Broader collection of 45+ Claude Code skills across engineering, hygiene, design, and workflows. Hub at cdd.dev/skills with pack pages and install blocks.
 
 
 ## 🤝 Contribution
