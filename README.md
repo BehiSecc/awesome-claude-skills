@@ -196,6 +196,7 @@
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
+- [Claude Skills](https://github.com/borghei/Claude-Skills) - 245 production AI skills across 14 domains covering engineering, compliance (18 frameworks incl. ISO 13485, MDR, FDA, EU AI Act, NIS2, DORA, SOC 2, GDPR), C-suite advisory, marketing, legal and finance. Works across 11 AI assistants via `npx @borghei/claude-skills`.
 
 
 ## 🤝 Contribution
