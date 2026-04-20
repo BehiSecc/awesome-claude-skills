@@ -9,6 +9,7 @@
   - [🔬 Scientific \& Research Tools](#-scientific--research-tools)
   - [✍️ Writing \& Research](#️-writing--research)
   - [📘 Learning \& Knowledge](#-learning--knowledge)
+  - [🧠 Memory & Context](#-memory--context)
   - [🎬 Media \& Content](#-media--content)
   - [🏥 Health \& Life Sciences](#-health--life-sciences)
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
@@ -107,6 +108,9 @@
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 
 
+## 🧠 Memory & Context
+- [bro](https://github.com/balaka/bro) — Session continuity memory. Captures mood, vocabulary, decisions, and rules so context survives `/compact` resets. One folder per work thread, weekly auto-update check.
+- 
 
 ## 🎬 Media & Content
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
