@@ -63,6 +63,7 @@
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - AI-powered background code analysis agent with 60+ cognitive modules, infinite memory, and self-evolving intelligence. ([npm](https://www.npmjs.com/package/@theihtisham/agent-shadow-brain))
 
 
 ## 📊 Data & Analysis
@@ -178,6 +179,7 @@
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - Universal skill/slash-command manager for AI coding assistants. Install, manage, and share custom skills across Claude Code, Cursor, Windsurf, and more. ([npm](https://www.npmjs.com/package/omni-skills-forge))
 
 ## 📰 Articles & Blog Posts
 
