@@ -100,6 +100,7 @@
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
+- [obsidian-theme-designer](https://github.com/XiangyuSu611/obsidian-theme-designer) - Design custom Obsidian themes through a visual, preference-driven workflow. Renders style, color, and typography mockups in a local browser preview, then generates a CSS snippet ready to import into the vault. Bilingual docs (EN/CN), auto font installation on Windows.
 
 
 ## 📘 Learning & Knowledge  
