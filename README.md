@@ -101,6 +101,7 @@
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
 
+- [buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) - Structured B2B vendor evaluation that interrogates vendor AI agents, cross-references claims against independent sources, and scores across 7 weighted dimensions. MIT licensed.
 
 ## 📘 Learning & Knowledge  
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
