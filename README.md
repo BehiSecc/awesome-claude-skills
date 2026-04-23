@@ -174,6 +174,7 @@
 - [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - A meta-skill that builds and improves all your skills, including itself.
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 - [linkedin](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via Linked API — fetch profiles, search people/companies, send messages, manage connections, create posts. Supports Sales Navigator.
+- [blogburst](https://github.com/shensi8312/blogburst-claude-skill) - Autonomous social media manager on Twitter, Bluesky, Telegram, and Discord — writes, posts, replies, and learns what works. Replaces a $500-1,500/mo freelance SMM for $29-99/mo. Public API endpoints let Claude demo content before signup.
 - [moodtrip-hotel-search](https://github.com/adiny/moodtrip-hotel-search) - Hotel search, comparison, reviews, pricing, and booking handoff via MoodTrip.ai MCP server. 12 tools including semantic search, room matching, and price intelligence.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
