@@ -99,6 +99,7 @@
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - MCP server and CLI that removes named AI writing patterns from text: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocab. Lint-only audit mode and five intensity levels.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
 
 
@@ -120,6 +121,7 @@
 - [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
 - [find-scene](https://github.com/uriva/find-scene-skill) - Search and download movie/TV show scenes by dialog, time, or visual description using the FindScene API.
 - [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: generate images (Flux), text-to-speech, transcribe YouTube/audio, OCR, video generation, upscale, and remove backgrounds via deAPI. Works with Cursor, Windsurf & Continue.dev.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server and CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing requests across 30+ image generation models. Zero API key for first run via Pollinations, Stable Horde, and HuggingFace free tiers.
 - [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — AI-native video production workspace for Claude Code with Remotion, ElevenLabs, FFmpeg, and Playwright skills.
 - [VideoDB Skills](https://github.com/video-db/skills) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB.
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
