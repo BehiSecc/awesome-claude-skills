@@ -196,6 +196,7 @@
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
+- [great_cto](https://github.com/avelikiy/great_cto) - Full SDLC pipeline as a Claude Code plugin. 7 specialised subagents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor), 16 commands, 11 archetypes, 13 compliance frameworks. Self-improving via `/crystallize` — incident learnings promote to a pattern library that surfaces in every agent's Step 0 across all projects (verified MTTR ↓ 94% on second occurrence). Files only, no SaaS. Install: `npx great-cto init`.
 
 
 ## 🤝 Contribution
