@@ -211,3 +211,4 @@ You can also open an **Issue** 🐛 if you spot something that needs fixing.
 ## 📬 Contact
 
 If you want to contact me, you can reach me on [X](https://x.com/Behi_Sec).
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
