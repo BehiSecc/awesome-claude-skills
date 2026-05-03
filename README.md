@@ -162,6 +162,7 @@
 - [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
+- [production-audit](https://github.com/commitshow/production-audit) - Audit a shipped repo for the production-readiness gaps that ~70% of AI-coded projects miss (RLS, webhook idempotency, Stripe API idempotency, column GRANT mismatches, secret-in-bundle, etc.). Companion to VibeSec/owasp-security — scans the deployed product post-merge, not the editor buffer.
 
 
 
