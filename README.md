@@ -172,6 +172,7 @@
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
 - [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - A meta-skill that builds and improves all your skills, including itself.
+- [master-skill](https://github.com/voidborne-d/master-skill) - Input an industry, output a runnable `{industry}-master.skill` directory. Runs 6 parallel research tracks (practitioners, tools, workflows, canonical knowledge, sources, terminology) over 5 phases + 3 review gates, then ships the skill with an Agentic Protocol so a loaded agent reasons like a senior in that field.
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 - [linkedin](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via Linked API — fetch profiles, search people/companies, send messages, manage connections, create posts. Supports Sales Navigator.
 - [moodtrip-hotel-search](https://github.com/adiny/moodtrip-hotel-search) - Hotel search, comparison, reviews, pricing, and booking handoff via MoodTrip.ai MCP server. 12 tools including semantic search, room matching, and price intelligence.
