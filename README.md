@@ -63,6 +63,8 @@
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
+- [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Self-hosted multi-agent runtime that delegates to Claude Code, Codex, Gemini CLI, OpenCode, and other coding CLIs. The skill teaches the agent when and how to drive a running SwarmClaw instance with org chart view, schedules, runtime skills, and persistent memory.
+- [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) - Local-first RAG knowledge vault with bundled MCP server. Compiles raw sources into a durable markdown wiki with knowledge graph and hybrid SQLite FTS plus embeddings. Cuts agent token usage by serving compact wiki summaries instead of repeated full-file reads.
 
 
 ## 📊 Data & Analysis
