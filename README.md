@@ -82,6 +82,7 @@
 - [coinpaprika-api](https://github.com/coinpaprika/skills/tree/main/coinpaprika-api) - Crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
 - [dexpaprika-api](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) - Free DEX data across 34 chains: 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 - [gh-star-history](https://github.com/ykdojo/gh-star-history) - Visualize and compare GitHub star history as interactive charts, with regional breakdown of stargazers.
+- [honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins) - 11 skills + MCP server for building and querying a governed semantic layer over Snowflake, Databricks, and BigQuery from coding agents (Claude Code, Codex, Cursor, Copilot CLI, Gemini CLI). Same trusted model serves BI tools and AI agents. Plugins are Apache 2.0.
 
 
 ## 🔬 Scientific & Research Tools
