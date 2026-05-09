@@ -82,6 +82,7 @@
 - [coinpaprika-api](https://github.com/coinpaprika/skills/tree/main/coinpaprika-api) - Crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
 - [dexpaprika-api](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) - Free DEX data across 34 chains: 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 - [gh-star-history](https://github.com/ykdojo/gh-star-history) - Visualize and compare GitHub star history as interactive charts, with regional breakdown of stargazers.
+- [guanyuan-majia](https://github.com/maojiebc/guanyuan-majia) - 观远 BI (Guandata) full-stack skill: data query/card creation, ETL governance & rewrite (incl. SmartETL full-chain rewrite + ExecPlan), custom chart HTML/JS injection. 60+ ETL operations battle-tested. Compatible with Claude Code, OpenClaw, Codex, Hermes.
 
 
 ## 🔬 Scientific & Research Tools
