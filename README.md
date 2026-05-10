@@ -63,6 +63,7 @@
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
+- [readme-demo-recorder](https://github.com/cjcsecurity/readme-demo-recorder) - Scripted-flow browser demo recorder for README hero assets. YAML demo-script in, polished MP4 + GIF out with visible fake cursor + click pulse, three cursor styles (pulse/minimal/crosshair), timed caption overlays, and automatic GIF size-cap auto-fit so output lands under GitHub's 10 MB cap.
 
 
 ## 📊 Data & Analysis
