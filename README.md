@@ -162,6 +162,7 @@
 - [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
+- [skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) - Static security scanner for AI agent skills, MCP servers, and plugins. Detects 68 attack patterns across 4 severity levels (CRITICAL/HIGH/MEDIUM/LOW) — credential exfiltration, prompt injection, code execution, seed-phrase harvesting, auth bypass, path traversal. Zero deps, SARIF output, also a GitHub Action (`uses: eltociear/skill-audit-mcp@v1`).
 
 
 
