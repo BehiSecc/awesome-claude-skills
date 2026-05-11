@@ -100,6 +100,9 @@
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
+- [hormozi-offer-audit](https://github.com/johnericforte/claude-skill-hormozi-offer-audit) - Audit sales offers (landing pages, pricing tiers, lead magnets) using Alex Hormozi's frameworks from $100M Offers and $100M Leads. Scores Value Equation (4 levers, 0-25 each) + Grand Slam checklist. Returns Top 3 Fixes with before/after.
+- [cialdini-influence-audit](https://github.com/johnericforte/claude-skill-cialdini-influence-audit) - Audit persuasive copy (landing pages, emails, sales sequences) for missing influence principles using Robert Cialdini's seven principles + Pre-Suasion. Scores each principle PRESENT/WEAK/MISSING with anti-overstacking check.
+- [claude-blog-assistant](https://github.com/johnericforte/claude-skill-blog-assistant) - Dual-mode blog publishing assistant. Ship new posts via 8-step lifecycle (brief → write → humanize → SEO → schema → analyze → repurpose) OR retroactively audit existing posts and return prioritized retrofit list. Wraps AgriciDaniel/claude-blog.
 
 
 ## 📘 Learning & Knowledge  
