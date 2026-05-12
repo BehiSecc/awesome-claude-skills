@@ -178,6 +178,7 @@
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
+- [buy-me-a-car](https://github.com/DaizeDong/buy-me-a-car) - End-to-end used-car pre-purchase workflow for Claude Code — multi-site research, mass dealer outreach, Gmail cron monitoring, OTD negotiation with market-data anchors, CARFAX analysis, and dossier PDF generation. Covers all 50 US states + DC. Bilingual English + Chinese.
 
 ## 📰 Articles & Blog Posts
 
