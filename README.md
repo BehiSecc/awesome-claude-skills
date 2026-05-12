@@ -35,6 +35,7 @@
 
 
 ## 🛠 Development & Code Tools
+- [agent-lsp](https://github.com/blackwell-systems/agent-lsp) - Language server protocol bridge providing 24 code intelligence skills across 30 languages: `/lsp-refactor` for safe refactors with impact analysis, `/lsp-rename` for workspace-wide renames, `/lsp-impact` for blast-radius analysis before changes, `/lsp-verify` for post-edit validation. Enables semantic code understanding vs text-based tools.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
