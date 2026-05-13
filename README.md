@@ -92,6 +92,8 @@
 - [paper-search](https://github.com/ykdojo/paper-search) - Search academic papers via OpenAlex (250M+ works, free, no API key needed). Find papers by keyword, look up details by DOI, with sorting and pagination.
 
 
+- [Suppr Skills](https://github.com/WildDataX/suppr-skills) - Claude Code skills for Suppr academic literature search and document translation APIs, supporting research-reading and document workflows.
+
 ## ✍️ Writing & Research
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
 - [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section
