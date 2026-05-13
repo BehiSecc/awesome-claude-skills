@@ -97,6 +97,7 @@
 - [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Create internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc)
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
+- [diasporic-intelligence](https://github.com/MinistaJazz/diasporic-intelligence) - Source-credit framework for consent-governed lineage AI with attribution, provenance, revocation, and non-impersonation boundaries.
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
