@@ -178,6 +178,7 @@
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
+- [cn-calendar-skill](https://github.com/demo112/cn-calendar-skill) - China calendar full-stack skill — official PRC public holidays (2004-2026, includes State Council make-up workdays), Gregorian/lunar conversion, 24 solar terms, workday math, and bridge-leave planning. Self-contained, zero external API.
 
 ## 📰 Articles & Blog Posts
 
