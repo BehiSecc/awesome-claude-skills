@@ -82,6 +82,7 @@
 - [coinpaprika-api](https://github.com/coinpaprika/skills/tree/main/coinpaprika-api) - Crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
 - [dexpaprika-api](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) - Free DEX data across 34 chains: 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 - [gh-star-history](https://github.com/ykdojo/gh-star-history) - Visualize and compare GitHub star history as interactive charts, with regional breakdown of stargazers.
+- [ai-investment-skills](https://github.com/tellmefrankie/ai-investment-skills) - Six investment analysis skills: options flow scanner with real/lottery call filtering (caught XLI P/C 5.32 anomaly live), news sentiment analyzer (200+ articles to per-ticker score), EV cost calculator, stop-loss price monitor, sector rotation signal, and 9-wave investment briefing agent. TypeScript + Claude API.
 
 
 ## 🔬 Scientific & Research Tools
