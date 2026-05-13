@@ -124,6 +124,10 @@
 - [VideoDB Skills](https://github.com/video-db/skills) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB.
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [Xiaohongshu Content Strategist](https://github.com/demo112/yunqu-ai-skills/tree/main/skills/xiaohongshu-content-strategist) - AI-powered content strategy for Xiaohongshu (Little Red Book): trend analysis, title optimization, engagement tactics, and platform-specific content planning.
+- [WeChat Official Account Strategist](https://github.com/demo112/yunqu-ai-skills/tree/main/skills/wechat-official-account-strategist) - WeChat Official Account content strategy, audience growth, article optimization, and monetization planning.
+- [Chinese Market Content Engineer](https://github.com/demo112/yunqu-ai-skills/tree/main/skills/chinese-market-content-engineer) - Multi-platform Chinese content creation for WeChat, Xiaohongshu, Douyin, Zhihu, and Bilibili.
+- [MCP Tool Developer](https://github.com/demo112/yunqu-ai-skills/tree/main/skills/mcp-tool-developer) - Build Model Context Protocol (MCP) servers and tools with TypeScript/Python, testing, deployment, and registry publishing.
 
 
 ## 🏥 Health & Life Sciences
