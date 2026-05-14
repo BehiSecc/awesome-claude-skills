@@ -100,6 +100,7 @@
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
+- [restorative-repair](https://github.com/MinistaJazz/restorative-repair) - Response-layer repair skill for AI agents that names output errors, offers proportionate repair, routes crisis safely, and avoids apology loops.
 
 
 ## 📘 Learning & Knowledge  
