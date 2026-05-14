@@ -63,6 +63,7 @@
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
+- [blueprint](https://github.com/imbue-ai/blueprint) - Planning copilot for coding agents. Explores the codebase, asks clarifying questions, then generates a markdown plan any agent can execute in one shot.
 
 
 ## 📊 Data & Analysis
