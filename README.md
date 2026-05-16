@@ -61,6 +61,8 @@
 - [lightning-architecture-review](https://github.com/8144225309/superscalar-mcp/tree/master/skills/lightning-architecture-review) - Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs.
 - [Playwright Skill](https://github.com/testdino-hq/playwright-skill) - AI agent-ready Playwright skill with structured SKILL.md, test automation workflows, and MCP-compatible setup for real-world testing pipelines.
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
+- [aomi-transact](https://github.com/aomi-labs/skills/tree/main/aomi-transact) - Natural-language crypto agent: turns prompts like "swap 1 ETH for USDC" into fork-simulated, wallet-signed transactions across EVM chains (Ethereum, Base, Arbitrum, Optimism, Polygon, Linea). Non-custodial, account-abstraction first, 40+ DeFi/CEX/perps integrations (Uniswap, Aave, GMX, Polymarket, Hyperliquid).
+- [aomi-build](https://github.com/aomi-labs/skills/tree/main/aomi-build) - Scaffolds Aomi Rust SDK crates from OpenAPI/Swagger specs — generates `lib.rs`/`client.rs`/`tool.rs` plus tool schemas and host-interop flows for building new Aomi protocol integrations.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
 
