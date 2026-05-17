@@ -149,6 +149,7 @@
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics.
 - [product-manager-skills](https://github.com/Digidai/product-manager-skills) - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft.
 - [cup](https://github.com/krodak/clickup-cli) - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin.
+- [polis-protocol](https://github.com/yehudalevy-collab/polis-protocol) - Markdown coordination protocol for multi-vendor agent teams. Signed capability cards, ε-greedy bandit routing that learns from settled contracts, chavruta paired review, self-amending constitution. Works across Claude Code, Codex, Gemini CLI.
 
 
 ## 🛡 Security & Web Testing
