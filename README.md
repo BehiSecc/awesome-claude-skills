@@ -162,7 +162,7 @@
 - [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
-
+- [rl-protect-skills](https://github.com/reversinglabs/rl-protect-skills) - ReversingLabs Claude Code skills help you protect AI-written code from malicious, risky, or unwanted open-source packages.
 
 
 ## 🔧 Utility & Automation  
