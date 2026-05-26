@@ -66,6 +66,7 @@
 
 
 ## 📊 Data & Analysis
+- [api-vs-selfhost-skill](https://github.com/artvandelay/api-vs-selfhost-skill) - Decide API-vs-self-host LLM economics and fine-tune ROI from any agent context. Live GPU+API prices, deterministic local math.
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
