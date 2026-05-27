@@ -124,6 +124,7 @@
 - [VideoDB Skills](https://github.com/video-db/skills) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB.
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [autopunk-media-skills](https://github.com/ur-grue/autopunk-media-skills) - 354 production-tested skills for TV producers, journalists, podcasters, YouTubers, and media professionals. Covers development through distribution with quality-evaluated outputs.
 
 
 ## 🏥 Health & Life Sciences
