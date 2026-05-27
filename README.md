@@ -196,6 +196,7 @@
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
+- [agency-agents-fork](https://github.com/daehounan/agency-agents-fork) - 163 specialist agent personas + 24 routing skills bundled as a Claude Code plugin across 15 domains (engineering, design, finance, game-dev, marketing, paid-media, sales). Ships Korean / Japanese Business Navigators, game-dev routing across Unity / Unreal / Godot / Roblox / Blender, XR / spatial routing, and `skill-routing-arbitrator` for disambiguating ~500 ecosystem skills. One-liner install via `claude --plugin-url <release-zip>`.
 
 
 ## 🤝 Contribution
