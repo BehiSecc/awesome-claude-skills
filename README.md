@@ -31,6 +31,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [awesome-matematic-skills-pl](https://github.com/matematicsolutions/awesome-matematic-skills-pl) - 22-skill collection for Polish legal practice (with EU law via SPARQL): LLM output validation pipeline (router, citation grounding, adversarial review, fidelity check), offline PII anonymization with PESEL/NIP/REGON/KRS checksum validation, SAOS case law search, EUR-Lex SPARQL, native Word Track Changes for .docx, and AI Act record-keeping bundles. Local-only for GDPR compliance. Apache-2.0 / MIT per skill.
 
 
 
