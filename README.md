@@ -197,6 +197,8 @@
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
 
+## 🎯 Developer Marketing
+- **[infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills)**: GTM-focused skill collection for developer go-to-market workflows including launch planning, positioning, and outbound sequences.
 
 ## 🤝 Contribution
 
