@@ -196,6 +196,7 @@
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
+- [hermes-supercode-skills](https://github.com/mturac/hermes-supercode-skills) - 13 production-grade Claude Code skills: db-whisperer, auth-architect, obs-guardian, deploy-ninja, quantum-debugger, security-sentinel, api-sculptor, pipeline-architect, ghost-scraper, mcp-conductor, prediction-alpha, prompt-forge, infra-automation. Each follows Recon→Plan→Execute→Verify with tiered safety rails. `npx hermes-skills install`
 
 
 ## 🤝 Contribution
