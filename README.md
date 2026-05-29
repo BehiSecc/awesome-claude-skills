@@ -105,6 +105,7 @@
 ## 📘 Learning & Knowledge  
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
+- [docs-to-book](https://github.com/EliaTolin/docs-to-book-skills) - Turn online technical documentation into a colorful, readable PDF book, translated into the language of your choice.
 
 
 
