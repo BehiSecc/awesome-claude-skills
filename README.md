@@ -162,6 +162,7 @@
 - [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
+- [code-guard](https://github.com/lanzuanxianggua/agent-security-skills) - OWASP Top 10 security audit skill with secret detection, dependency vulnerability scanning, and GDPR/HIPAA/PCI-DSS/SOC 2 compliance checks. Portable across Claude Code, Cursor, Windsurf, and Copilot.
 
 
 
@@ -178,6 +179,7 @@
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
+- [portable-skills](https://github.com/lanzuanxianggua/agent-security-skills) - Universal skill format specification and conversion CLI. Write skills once, convert to Cursor/Windsurf/Copilot formats with one command. Includes JSON schema validation and batch conversion.
 
 ## 📰 Articles & Blog Posts
 
