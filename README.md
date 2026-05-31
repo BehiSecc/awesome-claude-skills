@@ -82,6 +82,7 @@
 - [coinpaprika-api](https://github.com/coinpaprika/skills/tree/main/coinpaprika-api) - Crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
 - [dexpaprika-api](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) - Free DEX data across 34 chains: 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 - [gh-star-history](https://github.com/ykdojo/gh-star-history) - Visualize and compare GitHub star history as interactive charts, with regional breakdown of stargazers.
+- [yield-intelligence](https://github.com/thebrierfox/yield-intelligence-skill) - Passive income portfolio analysis — live US Treasury rates, dividend yields, REIT data, and AI-powered income optimization. Remote MCP endpoint: `https://api.intuitek.ai/yield/mcp` (free, no auth required).
 
 
 ## 🔬 Scientific & Research Tools
