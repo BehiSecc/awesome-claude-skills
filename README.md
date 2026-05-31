@@ -178,6 +178,7 @@
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
+- [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Claude skill for enterprise AI sales: ICP qualification, GTM strategy, stage diagnosis, and deal thesis generation. Free and open-source.
 
 ## 📰 Articles & Blog Posts
 
