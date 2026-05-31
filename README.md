@@ -90,6 +90,7 @@
 - [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews.
 - [manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus) - Delegate complex tasks to Manus AI agent for deep research, market analysis, product comparisons, stock analysis, and comprehensive report generation with parallel processing.
 - [paper-search](https://github.com/ykdojo/paper-search) - Search academic papers via OpenAlex (250M+ works, free, no API key needed). Find papers by keyword, look up details by DOI, with sorting and pagination.
+- [doc2math](https://github.com/thebrierfox/doc2math-skill) - Document-to-Mathematics Problem Specification — extracts variables, operators, constraints, objectives, and uncertainty from any document using Zero-Inference Protocol. BYOK Python tool ($29).
 
 
 ## ✍️ Writing & Research
