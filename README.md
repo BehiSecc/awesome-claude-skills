@@ -1,5 +1,9 @@
 # Awesome Claude Skills
 
+| Sponsor | Description |
+|---|---|
+| [<img src="atlas.svg" alt="Atlas Cloud" width="180">](https://www.atlascloud.ai/console/coding-plan) | [Atlas Cloud](https://www.atlascloud.ai/) is a multimodal AI inference platform that gives developers a single AI API to access video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities.<br><br>Check out Atlas Cloud's new coding plan promotion for more budget-friendly API access: [Coding Plan](https://www.atlascloud.ai/console/coding-plan) |
+
 ## 📚 Table of Contents  
 - [Awesome Claude Skills](#awesome-claude-skills)
   - [📚 Table of Contents](#-table-of-contents)
