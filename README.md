@@ -125,6 +125,7 @@
 
 
 ## 📘 Learning & Knowledge  
+- [Three-Pillar Personal Finance](https://github.com/nontravis/personal-finance-whitepaper) - A reasoning-lens skill that makes any AI advise through the Three-Pillar system (Income − Expenses = Freedom Fund; Cashflow, Investment, Savings; discipline over strategy). MIT.
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
