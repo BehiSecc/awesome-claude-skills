@@ -20,7 +20,10 @@
   - [🔧 Utility \& Automation](#-utility--automation)
   - [📰 Articles \& Blog Posts](#-articles--blog-posts)
   - [🗂️ Collections](#️-collections)
-  - [🤝 Contribution](#-contribution)
+  - [🤝
+- [Hermes Skills](https://github.com/liuyunnb666/hermes-skills) - 7 curated agent skills
+
+Contribution](#-contribution)
   - [📬 Contact](#-contact)
 
 
