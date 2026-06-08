@@ -194,6 +194,8 @@
 
 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity before autonomous on-chain transactions. Tools: score_agent, preflight_check (free), get_trust_receipt (x402 USDC micropayment). Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## 🔧 Utility & Automation  
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
