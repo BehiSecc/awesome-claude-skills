@@ -53,6 +53,7 @@
 - [debug-skill](https://github.com/AlmogBaku/debug-skill) - Give your AI agent a real debugger — breakpoints, stepping, variable inspection, and stack traces via CLI.
 - [plugin-authoring](https://github.com/ivan-magda/claude-code-plugin-template/tree/main/plugins/plugin-development/skills/plugin-authoring) - Ambient guidance for creating, modifying, and debugging Claude Code plugins with schemas, templates, validation workflows, and troubleshooting.
 - [azure-devops](https://github.com/sanjay3290/ai-skills/tree/main/skills/azure-devops) - Manage Azure DevOps projects, repos, PRs, pipelines, and work items via REST API.
+- [power-apps-code-apps-skill](https://github.com/LeonardSEO/power-apps-code-apps-skill) - Build, test, and publish Microsoft Power Apps code components (PCF controls) with full TypeScript scaffolding, manifest configuration, and Power Platform CLI workflows.
 - [claude-skills](https://github.com/jeffallan/claude-skills) - 65 full-stack development skills with progressive disclosure, covering React, NestJS, Python, DevOps, and 30+ frameworks.
 - [jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules) - Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and feature implementation on GitHub repos.
 - [hashicorp-agent-skills](https://github.com/hashicorp/agent-skills) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation.
@@ -177,6 +178,7 @@
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics.
 - [product-manager-skills](https://github.com/Digidai/product-manager-skills) - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft.
 - [cup](https://github.com/krodak/clickup-cli) - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin.
+- [decision-council](https://github.com/LeonardSEO/decision-council) - Structured multi-persona council skill for consequential decisions. Convenes 5 independent expert advisors, runs adversarial peer review, forces evidence-based revision, and synthesizes one clear recommendation with preserved dissent.
 
 
 ## 🛡 Security & Web Testing
