@@ -224,6 +224,7 @@
 - [find-skills](https://github.com/agentbay-ai/agentbay-skills) - Helps users discover, search and install agent skills from the marketplace.
 - [OpenPaw](https://github.com/daxaur/openpaw) - 38-skill bundle that turns Claude Code into a personal assistant. Includes git, Telegram, Discord, Obsidian, daily briefing, and more. Run via `npx pawmode`.
 - [agentskill.sh](https://agentskill.sh) - Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed, and 20+ AI tools.
+- [CreatorSkills](https://creatorskills.co) - Paid marketplace of 30+ SKILL.md-format AI skills for content creators — YouTube scripting, sponsorship analysis, content repurposing, and audience growth. Compatible with Claude Code, ChatGPT, and 20+ AI platforms.
 - [Agent Almanac](https://github.com/pjt222/agent-almanac) - 317 skills, 65 agents, and 14 teams for Claude Code following the Agent Skills open standard across 50+ domains.
 - [AlterLab-FC-Skills](https://github.com/AlterLab-IEU/AlterLab-FC-Skills) - 72 agentic skills for creative technology workflows across 11 domains.
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
