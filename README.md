@@ -100,6 +100,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [asolytics-aso-api](https://github.com/Asolytics-Pro/asolytics-app-store-optimization-api) - App Store Optimization (ASO) data via the Asolytics API: keyword metrics & popularity, app rankings, live search top-50, recommended keywords, competitors, install/revenue estimates, and top-500 store charts (App Store & Google Play).
 
 
 ## 🔬 Scientific & Research Tools
