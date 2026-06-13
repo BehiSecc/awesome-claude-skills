@@ -170,6 +170,7 @@
 - [Factory-Floor](https://github.com/Swiftner/Factory-Floor) - Startup coaching skill combining Theory of Constraints, Customer Factory, How Brands Grow, and Marketing Strategy Discipline to help founders find and work their bottleneck.
 - [plannotator](https://github.com/backnotprop/plannotator) - Interactive plan review UI for Claude Code with visual annotation, offline sharing, and Obsidian/Bear integration.
 - [claude-skills](https://github.com/jeffallan/claude-skills) - 9 project workflow commands (discovery, planning, execution, retrospectives) with Jira/Confluence integration.
+- [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guides complete beginners from a vague app idea to a buildable plan: problem discovery via Reddit and opportunity scoring, user flows, tech stack, growth loops, and a visual HTML blueprint.
 - [outline](https://github.com/sanjay3290/ai-skills/tree/main/skills/outline) - Search, read, create, and manage documents in Outline wiki instances (cloud or self-hosted).
 - [public-google-drive](https://github.com/zagmoai/public-google-drive) - Create and edit Google Docs and Sheets without Google sign-in. Documents are hosted on Memyard and viewable at shareable links.
 - [google-workspace-skills](https://github.com/sanjay3290/ai-skills/tree/main/skills) - Suite of Google Workspace integrations: Gmail, Google Calendar, Google Chat, Google Docs, Google Sheets, Google Slides, and Google Drive. Lightweight alternatives to full MCP servers with cross-platform OAuth.
