@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [Dashmotion](https://github.com/csthink/dashmotion) - A Claude skill that turns a description or Mermaid source into a self-contained animated technical diagram: one HTML file, pure SVG/CSS, no JavaScript, with flowing connectors and request dots travelling through the system.
 
 
 ## 📊 Data & Analysis
