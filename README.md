@@ -46,6 +46,7 @@
 - [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 - [claude-starter](https://github.com/raintree-technology/claude-starter) - Production-ready Claude Code configuration template with 40 auto-activating skills across 8 domains, TOON format support for 30-60% token savings, and native Zig encoder/decoder.
+- [AccInt](https://github.com/maxbaluev/accreted-intelligence) - Claude Code plugin and MCP memory server that routes AI agents through retrieved experience, commitments, and outcome feedback.
 - [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
 - [oiloil-ui-ux-guide](https://github.com/oil-oil/oiloil-ui-ux-guide) - Modern UI/UX guidance and review skill with `guide` and `review` modes. Covers CRAP, task-first UX, HCI laws, interaction psychology, and modern minimal style.
 - [claude-code-terminal-title](https://github.com/bluzername/claude-code-terminal-title) - Gives each Claud Code terminal window a dynamic title that describes the work being done so you don't lose track of what terminal window is doing what.
