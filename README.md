@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [Outbound Pipeline](https://github.com/SRKrukowski/outbound-pipeline-playbook) - One-command skill that turns an ICP into personalized, research-backed cold-email drafts in Gmail (Exa research, Apollo enrichment, Claude drafting), human-reviewed before send.
 
 ## 📰 Articles & Blog Posts
 
