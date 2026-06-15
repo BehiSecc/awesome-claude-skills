@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [agent-starter](https://github.com/sneg55/agent-starter) - Skills, hooks, templates, and engineering guides for bootstrapping AI-agent-friendly projects, with `/new-project` scaffolding, `/adopt-project` for existing repos, and a per-project self-improvement loop.
 
 
 ## 🤝 Contribution
