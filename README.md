@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [scorm](https://github.com/studiolxd/scorm-skills) - Teaches agents to use @studiolxd/scorm, a headless SCORM 1.2/2004 runtime — read/write CMI data (score, completion, suspend data, interactions) across React, Vue, Angular, Svelte, Web Components, or vanilla JS.
 
 
 ## 📊 Data & Analysis
