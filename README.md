@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [submit-to-agentlaunch](https://agents-launch.lovable.app/SKILL.md) - List, launch, or register an AI agent on agentlaunch (a Product Hunt-style directory for agents) and upvote agents via a public, no-auth REST API.
 
 ## 📰 Articles & Blog Posts
 
