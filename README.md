@@ -150,6 +150,9 @@
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
+- [screenstudio-alt](https://github.com/connerkward/screenstudio-alternative-skill) - Headless, open-source Screen Studio alternative: auto-zoom on click clusters, idle speed-up, keystroke overlays, smoothed cursor, and 9:16 vertical export.
+- [macos-screen-recorder](https://github.com/connerkward/macos-screen-recorder-system-audio) - Headless macOS screen recorder capturing the display plus system audio via ScreenCaptureKit — CLI, no BlackHole/loopback driver, no sudo.
+- [web-media-getter](https://github.com/connerkward/web-media-getter-skill) - One query across free image/video/GIF APIs (stock, archival, GIF engines) with license-tagged, attributed results.
 
 
 ## 🏥 Health & Life Sciences
@@ -211,6 +214,10 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [lookdev](https://github.com/connerkward/lookdev-studio-skill) - Human-in-the-loop web studio to tune AI-generated visual output by eye with live sliders, pickers, and drag handles.
+- [lookdev-auto](https://github.com/connerkward/lookdev-auto-skill) - Automated visual tuning: render labeled variants, a vision model rates them and suggests better values, loop until good.
+- [deterministic-design](https://github.com/connerkward/deterministic-design-skill) - Render the UI and prove it's balanced and usable: deterministic layout audit plus a vision-judged usability pass.
+- [ckw-design](https://github.com/connerkward/ckw-design-skill) - Frontend design skill: direction, design system, and visual philosophy for building and polishing web UIs.
 
 ## 📰 Articles & Blog Posts
 
