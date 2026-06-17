@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [novu-connect](https://github.com/iampearceman/novu-connect-skill) - Connect a customer-facing AI agent to the messaging channels users already use (Slack, Email, Telegram, WhatsApp, MS Teams) with Novu Connect (`npx novu connect`).
 
 ## 📰 Articles & Blog Posts
 
