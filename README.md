@@ -175,6 +175,7 @@
 - [google-workspace-skills](https://github.com/sanjay3290/ai-skills/tree/main/skills) - Suite of Google Workspace integrations: Gmail, Google Calendar, Google Chat, Google Docs, Google Sheets, Google Slides, and Google Drive. Lightweight alternatives to full MCP servers with cross-platform OAuth.
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 product management skills across the Triple Diamond lifecycle with agentskills.io spec compliance, templates, and MCP server support.
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics.
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side Spec-Driven Development framework with L0-L3 delivery tiers, replaceable domain modules, prototype testability, and AI runtime governance. Works with Claude Code, Cursor, and OpenClaw.
 - [product-manager-skills](https://github.com/Digidai/product-manager-skills) - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft.
 - [cup](https://github.com/krodak/clickup-cli) - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin.
 
@@ -253,3 +254,4 @@ You can also open an **Issue** 🐛 if you spot something that needs fixing.
 ## 📬 Contact
 
 If you want to contact me, you can reach me on [X](https://x.com/Behi_Sec).
+
