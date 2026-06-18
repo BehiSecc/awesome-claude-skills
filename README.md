@@ -179,6 +179,12 @@
 - [cup](https://github.com/krodak/clickup-cli) - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin.
 
 
+## 💼 Business & Professional
+
+- [Finance Skills for Claude](https://github.com/Uhudsavasindankacanokcu2/finance-skills-for-claude) - Cash flow, burn & runway, invoice extraction, budget vs actual, scenario modeling for founders and finance teams.
+- [Legal Skills for Claude](https://github.com/Uhudsavasindankacanokcu2/legal-skills-for-claude) - Review, summarize & draft contracts in plain English with risk flags and paste-ready redlines.
+- [Recruiting & HR Skills for Claude](https://github.com/Uhudsavasindankacanokcu2/recruiting-skills-for-claude) - Write job descriptions, screen resumes (bias-aware), and build structured interview kits.
+
 ## 🛡 Security & Web Testing
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
 - [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
