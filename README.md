@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads); connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 
 ## 🤝 Contribution
