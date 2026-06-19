@@ -151,6 +151,8 @@
 - [cup](https://github.com/krodak/clickup-cli) - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin.
 
 
+- [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for Claude — ICP qualification, GTM strategy, thesis generation, deal coaching, and deal scoring. Built on 20 years of closing enterprise AI deals at AWS. Apache 2.0.
+
 ## 🛡 Security & Web Testing
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
 - [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
