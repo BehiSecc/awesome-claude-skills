@@ -211,6 +211,9 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [multi-llm-debate](https://github.com/buddypia/agent-skills/tree/main/skills/multi-llm-debate) - Runs a 3-role debate (proponent / opponent / moderator) across different-vendor LLMs (Gemini, Claude, GPT) to weigh trade-offs and reach a multi-perspective verdict on hard decisions. Runs via subscription-authenticated CLIs; API keys also supported.
+- [multi-llm-reflection](https://github.com/buddypia/agent-skills/tree/main/skills/multi-llm-reflection) - Generator→Critic→Refiner loop across different-vendor LLMs (Gemini, Claude, GPT) that drafts content, critiques it, and produces an improved version through cross-model self-critique.
+- [multi-llm-recursive-meta-cognition](https://github.com/buddypia/agent-skills/tree/main/skills/multi-llm-recursive-meta-cognition) - 5-stage pipeline (decompose → solve → verify → integrate → reflect) across different-vendor LLMs (Gemini, Claude, GPT) for rigorous multi-step reasoning and deep problem-solving.
 
 ## 📰 Articles & Blog Posts
 
