@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [proven-python](https://github.com/shanwije/proven-python) - Enforces Python engineering discipline (TDD, strict typing, clean code, PEP 257 docs, and a green ruff/mypy/pytest toolchain) before a task is called done. Works with any agent.
 
 
 ## 📊 Data & Analysis
