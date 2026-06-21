@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [loop-engineering](https://github.com/qingqingpi/loop-engineering-skill) - Design, evaluate, diagnose, and harden repeated or unattended AI-agent loops around verifier fidelity and a GREEN/YELLOW/RED task-fit triage. Ships a reproducible cross-model eval.
 
 
 ## 📊 Data & Analysis
