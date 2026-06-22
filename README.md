@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) - 50 motion-graphics, animation, and video skills across 14 installable packs — kinetic typography, data-viz, explainers, TikTok/Reels, web animation, WebGL, and Manim.
 
 
 ## 🤝 Contribution
