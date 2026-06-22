@@ -188,6 +188,7 @@
 - [Trail of Bits Security Skills](https://github.com/trailofbits/skills) - Security skills for static analysis with CodeQL/Semgrep, variant analysis, code auditing, and fix verification.
 - [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
 - [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
+- [Seaworthy](https://github.com/AmirHosein-Lotfi/Seaworthy) - Pre-deploy security gate for AI-built ("vibe-coded") apps. Catches the exact pattern behind real 2026 breaches (exposed Supabase keys, missing row-level security, unauthorized API routes) and gives a plain-English ship/don't-ship verdict instead of an engineer's audit report.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
