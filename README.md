@@ -91,6 +91,7 @@
 - [elicitation](https://github.com/tasteray/skills/tree/main/elicitation) - Psychological profiling through natural conversation using narrative identity and Motivational Interviewing techniques.
 - [recommendations](https://github.com/tasteray/skills/tree/main/recommendations) - Personalized recommendations across movies, restaurants, products, travel, and jobs via the TasteRay API.
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics.
+- [hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) - Hermes Agent X/Twitter plugin and portable skill for timeline exploration, tweet reading, and opt-in post actions.
 - [claude-ecom](https://github.com/takechanman1228/claude-ecom) - Generate full ecommerce business reviews from order CSVs — KPIs, diagnostics, and action plans.
 - [chainaware-behavioral-prediction](https://github.com/ChainAware/behavioral-prediction-mcp) - ChainAware Skill for AI-powered tools to analyze wallet behaviour prediction,fraud detection and rug pull prediction.
 - [crowdcast](https://github.com/TheQmaks/crowdcast) - Multi-agent social simulation as a Claude Code skill. Spawns dozens of AI agents that argue, post, and react on a simulated platform, then writes a prediction report. Zero dependencies.
