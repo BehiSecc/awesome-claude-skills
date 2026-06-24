@@ -80,6 +80,8 @@
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
 
 
+- [skill-doctor](https://github.com/ssamba1/skill-doctor) - Audits your installed Claude Code skill library: per-turn token-cost of always-on descriptions, never-fired skills (from transcript history), trigger collisions, duplicates, reversible disable-model-invocation fixes, and unused-MCP-server detection.
+
 ## 📊 Data & Analysis
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
