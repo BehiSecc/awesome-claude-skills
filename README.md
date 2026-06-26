@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [store-in-a-box](https://github.com/comil27/store-in-a-box) - Deploy a live, paid digital-product store from the terminal: Stripe checkout + Cloudflare Worker, instant auto-delivery, no dashboard.
 
 ## 📰 Articles & Blog Posts
 
