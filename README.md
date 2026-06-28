@@ -78,6 +78,12 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [claude-code-council](https://github.com/gyujeongion/claude-code-council) - Claude chairs a panel of Gemini and GPT through your logged-in CLIs (no API keys) and reconciles a second opinion.
+- [claude-code-rootcause](https://github.com/gyujeongion/claude-code-rootcause) - Turns "never do X" bans into positive process gates, and audits your instruction file for ban bloat.
+- [claude-code-sandbox-gate](https://github.com/gyujeongion/claude-code-sandbox-gate) - A verification gate before a change hits main, so the agent can't ship an "it works now" patch unchecked.
+- [claude-code-request-modes](https://github.com/gyujeongion/claude-code-request-modes) - Classifies each request and activates only the rules that apply, so one global rulebook stops bleeding into everything.
+- [claude-code-cold-tester](https://github.com/gyujeongion/claude-code-cold-tester) - Runs a doc through a zero-context model to find where a real newcomer would get stuck.
+- [claude-code-goal-loop](https://github.com/gyujeongion/claude-code-goal-loop) - Autonomous goal loop with per-iteration verification, rollback snapshots, and stall detection.
 
 
 ## 📊 Data & Analysis
@@ -148,6 +154,7 @@
 - [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — AI-native video production workspace for Claude Code with Remotion, ElevenLabs, FFmpeg, and Playwright skills.
 - [VideoDB Skills](https://github.com/video-db/skills) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB.
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
+- [claude-code-mix-compare](https://github.com/gyujeongion/claude-code-mix-compare) - git diff for audio mixes: time-align two versions and phase-invert to show what actually changed, per stem and per band.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
 
