@@ -150,6 +150,10 @@
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
+- [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [remove-background](https://github.com/Bria-AI/bria-skill/tree/main/skills/remove-background) - Remove image backgrounds for transparent PNGs and cutouts using Bria RMBG 2.0.
+- [video-remove-background](https://github.com/Bria-AI/bria-skill/tree/main/skills/video-remove-background) - Remove video backgrounds to produce transparent, alpha-channel clips.
+- [vgl](https://github.com/Bria-AI/bria-skill/tree/main/skills/vgl) - Structured JSON (VGL) for precise, reproducible control over Bria FIBO image generation.
 
 
 ## 🏥 Health & Life Sciences
@@ -211,6 +215,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [image-utils](https://github.com/Bria-AI/bria-skill/tree/main/skills/image-utils) - Pillow-based image resize, crop, composite, watermark, and format conversion for post-processing.
 
 ## 📰 Articles & Blog Posts
 
