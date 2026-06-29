@@ -140,6 +140,7 @@
 
 
 ## 🎬 Media & Content
+- [claude-code-mix-compare](https://github.com/gyujeongion/claude-code-mix-compare) - git diff for audio mixes: time-align two versions and phase-invert to show what actually changed, per stem and per band.
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 - [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival.
 - [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves the quality of images, especially screenshots.
@@ -154,7 +155,6 @@
 - [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — AI-native video production workspace for Claude Code with Remotion, ElevenLabs, FFmpeg, and Playwright skills.
 - [VideoDB Skills](https://github.com/video-db/skills) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB.
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
-- [claude-code-mix-compare](https://github.com/gyujeongion/claude-code-mix-compare) - git diff for audio mixes: time-align two versions and phase-invert to show what actually changed, per stem and per band.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
 
