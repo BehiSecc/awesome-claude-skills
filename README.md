@@ -130,6 +130,7 @@
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
+- [Agentic Learning Studio](https://github.com/APareek89/agentic-learning-skill) - Turn any topic into a personalized, interactive lesson — learn AI (or anything) in your own context: mental-map first, with examples and a knowledge check, instead of long videos.
 
 
 
