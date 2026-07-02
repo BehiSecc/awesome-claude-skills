@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [Remote OpenClaw](https://github.com/aidevelopers2/remoteopenclaw-mcp) - Search 13,870+ MCP servers, 4,384+ agent skills, and plugins from your terminal or agent; works as a CLI (`npx remoteopenclaw search`) and MCP server, no API key.
 
 
 ## 🤝 Contribution
