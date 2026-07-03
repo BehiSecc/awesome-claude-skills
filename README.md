@@ -120,6 +120,7 @@
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
+- [novel-to-webnovel](https://github.com/aimerfeng/novel-to-webnovel) - Convert translated-novel prose (JP light novels, MTL drafts) into natural Chinese webnovel style via a five-stage pipeline: format cleanup scripts, per-project style guides, parallel chunked rewriting, and QA checks.
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
 
