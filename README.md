@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [mowgli](https://github.com/mowgli-ai/skills) - Iterate on your product's design on an intelligent canvas: turn a frontend or GitHub repo into editable React + Tailwind screens, redesign them in natural language with full product context, and sync the results back to code.
 
 
 ## 📊 Data & Analysis
