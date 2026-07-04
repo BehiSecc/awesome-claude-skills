@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [agent-codebase-skills](https://github.com/Zrzzzz/agent-codebase-skills) - Three skills for long-lived codebases: AGENTS.md/CLAUDE.md layered conventions, auto session-notes hook, and concurrent-safe multi-agent task management.
 
 
 ## 🤝 Contribution
