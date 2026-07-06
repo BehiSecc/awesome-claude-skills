@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [titlewise](https://github.com/Battlelamb/claude-code-conversation-titler) - Interactively titles, names, and labels the current conversation - multilingual (user language, English, Chinese), 13+ formats, plus a recommended pick, description, and tags.
 
 ## 📰 Articles & Blog Posts
 
