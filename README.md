@@ -161,7 +161,6 @@
 ## 🤝 Collaboration & Project Management
 - [agent-manager-skill](https://github.com/fractalmind-ai/agent-manager-skill) - Manage multiple local CLI AI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling; no server required.
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
--  [Hall of Mirrors](https://github.com/aussieOS/aussieOS/tree/main/apps/hall-of-mirrors) - Runs your deck through six funding-audience readings at once and flags where they contradict — before a rejection tells you the hard way.
 - [kanban-skill](https://github.com/mattjoyce/kanban-skill) - Markdown-based Kanban board with file-based cards, YAML frontmatter for status/priority/dependencies, and no database required.
 - [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks for reliable project tracking.
 - [linear-cli-skill](https://github.com/Valian/linear-cli-skill) - A skill teaching claude how to use linear-CLI (provided alongside the skill), meant to replace linear MCP.
@@ -178,6 +177,7 @@
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics.
 - [product-manager-skills](https://github.com/Digidai/product-manager-skills) - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft.
 - [cup](https://github.com/krodak/clickup-cli) - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin.
+-  [Hall of Mirrors](https://github.com/aussieOS/aussieOS/tree/main/apps/hall-of-mirrors) - Runs your deck through six funding-audience readings at once and flags where they contradict — before a rejection tells you the hard way.
 
 
 ## 🛡 Security & Web Testing
