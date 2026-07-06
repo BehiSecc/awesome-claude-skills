@@ -100,6 +100,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [omnireach](https://github.com/Daily-AC/omnireach) - Multi-source web search CLI + Claude Code skill for AI agents — search and read WeChat official accounts, Xiaohongshu, Douyin, Bilibili, Twitter, Reddit, YouTube, and HackerNews (including login-walled sources) via the user's own browser session, with one uniform JSON output schema.
 
 
 ## 🔬 Scientific & Research Tools
