@@ -161,6 +161,7 @@
 ## 🤝 Collaboration & Project Management
 - [agent-manager-skill](https://github.com/fractalmind-ai/agent-manager-skill) - Manage multiple local CLI AI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling; no server required.
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
+-  [Hall of Mirrors](https://github.com/aussieOS/aussieOS/tree/main/apps/hall-of-mirrors) - Runs your deck through six funding-audience readings at once and flags where they contradict — before a rejection tells you the hard way.
 - [kanban-skill](https://github.com/mattjoyce/kanban-skill) - Markdown-based Kanban board with file-based cards, YAML frontmatter for status/priority/dependencies, and no database required.
 - [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks for reliable project tracking.
 - [linear-cli-skill](https://github.com/Valian/linear-cli-skill) - A skill teaching claude how to use linear-CLI (provided alongside the skill), meant to replace linear MCP.
