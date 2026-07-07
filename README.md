@@ -100,6 +100,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [alphai-claude-skills](https://github.com/makeev/alphai-claude-skills) - Financial-market workflows on the AlphaAI MCP: market pulse, single-stock briefs, SEC Form 4 insider radar, two-ticker read-across, and news-alert management over relevance-scored, ticker-linked news. Free tier, OAuth — no key to paste.
 
 
 ## 🔬 Scientific & Research Tools
