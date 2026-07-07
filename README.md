@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [ai-net-doctor](https://github.com/wxggzz/ai-net-doctor) - Diagnoses whether your network can actually reach Codex/OpenAI and Claude/Anthropic, pinpointing the first broken layer (DNS/TCP/TLS/HTTP/auth/proxy) and telling real network failures apart from auth/quota. Ships a /network-doctor Claude Code skill that only calls the CLI.
 
 ## 📰 Articles & Blog Posts
 
