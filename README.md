@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [skill-loom](https://github.com/michelepastorello/skill-loom) - One git-versioned vault of agent skills, symlinked into every runtime (Claude Code, Codex, custom agents) — edit once, every agent sees the same skill.
 
 ## 📰 Articles & Blog Posts
 
