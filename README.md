@@ -191,6 +191,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [deep-security-check](https://github.com/give-jd/deep-security-check) - Read-only defensive security assessment: Semgrep SAST, osv-scanner SCA, and gitleaks secrets scanning with a reproducible 0-100 A-F grade.
 
 
 
