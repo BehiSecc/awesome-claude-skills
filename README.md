@@ -39,6 +39,8 @@
 
 
 ## 🛠 Development & Code Tools
+- [apple-container](https://github.com/sanjay3290/ai-skills/tree/main/skills/apple-container) - Build, run, and manage OCI containers as lightweight VMs on Apple-silicon macOS using Apple's open-source container CLI, no Docker daemon required.
+- [grok-build](https://github.com/sanjay3290/ai-skills/tree/main/skills/grok-build) - Delegate well-specified implementation tasks to xAI's Grok Build CLI running headlessly, with plans, task specs, and diff reviews owned by the orchestrating agent.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
@@ -160,6 +162,7 @@
 
 ## 🤝 Collaboration & Project Management
 - [agent-manager-skill](https://github.com/fractalmind-ai/agent-manager-skill) - Manage multiple local CLI AI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling; no server required.
+- [atlassian](https://github.com/sanjay3290/ai-skills/tree/main/skills/atlassian) - Manage Jira issues and Confluence wiki pages in Atlassian Cloud with JQL/CQL search, issue updates, and page authoring via REST or MCP backends.
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
 - [kanban-skill](https://github.com/mattjoyce/kanban-skill) - Markdown-based Kanban board with file-based cards, YAML frontmatter for status/priority/dependencies, and no database required.
 - [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks for reliable project tracking.
@@ -198,6 +201,7 @@
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
+- [telegram](https://github.com/sanjay3290/ai-skills/tree/main/skills/telegram) - Send Telegram messages, files, and alerts via bot API; ask questions with inline buttons and wait for the answer, enabling approvals from your phone in hooks, cron jobs, and CI.
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
 - [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - A meta-skill that builds and improves all your skills, including itself.
@@ -211,6 +215,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [whatsapp](https://github.com/sanjay3290/ai-skills/tree/main/skills/whatsapp) - Send and receive WhatsApp messages from Python as a linked companion device, with QR pairing, text and images, groups, read receipts, and a live JSON event stream.
 
 ## 📰 Articles & Blog Posts
 
