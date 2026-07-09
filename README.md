@@ -211,6 +211,8 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [time-ledger](https://github.com/cruisekkk/time-ledger) - Log your time by telling Claude what you did in one sentence; it structures the activity, duration, and date into your own Notion database and asks when it's unsure instead of guessing.
+- [trading-ledger](https://github.com/cruisekkk/trading-ledger) - Journal trades in plain language — captures the entry reason, thesis, and emotion into a Notion database, links closes back to opens, and runs a weekly review of your decisions rather than P&L.
 
 ## 📰 Articles & Blog Posts
 
