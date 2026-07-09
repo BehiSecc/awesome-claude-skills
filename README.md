@@ -122,6 +122,7 @@
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
+- [content-multiplier](https://github.com/CadenceStandard/content-multiplier) - Turn one idea into a week of platform-native content: X thread, LinkedIn post, short-form script, carousel, newsletter, blog outline, YouTube hooks, and quote-cards — each in that platform's native shape.
 
 
 ## 📘 Learning & Knowledge  
