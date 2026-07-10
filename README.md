@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [doc-cleanup](https://github.com/aka-luan/doc-cleanup) - Audits a repo's markdown docs for agent-context rot (completed-work logs, executed plans, stale facts, contradictions, dead paths), then archives history and rewrites live docs to code-verified current facts.
 
 
 ## 📊 Data & Analysis
