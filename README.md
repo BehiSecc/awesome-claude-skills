@@ -238,7 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
-- [Taplio Skills for LinkedIn](https://github.com/TaplioOfficial/taplio-linkedin-cloud-skills) - 17 Claude Skills covering the full LinkedIn workflow: post writing, hooks, carousels, niche and pillar strategy, content calendars, and analytics. Each skill runs on your real voice and numbers through the Taplio MCP.
+- [Taplio Skills for LinkedIn](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills) - 17 Claude Skills covering the full LinkedIn workflow: post writing, hooks, carousels, niche and pillar strategy, content calendars, and analytics. Each skill runs on your real voice and numbers through the Taplio MCP.
 
 
 ## 🤝 Contribution
