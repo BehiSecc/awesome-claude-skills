@@ -71,6 +71,7 @@
 - [agent-lsp](https://github.com/blackwell-systems/agent-lsp) - Semantic code intelligence skills for refactor, rename, impact analysis, and verification.
 - [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) - Audit AI coding sessions for cost, failures, latency, diffs, and CI gates.
 - [aws-architecture-diagram-skill](https://github.com/vidanov/aws-architecture-diagram-skill) - Generate editable AWS architecture diagrams with verified icons and export formats.
+- [d2-diagrams](https://github.com/khollingworth/d2-diagram-skill) - Render professional D2 architecture diagrams (TALA/ELK) as SVG with a self-checking render loop that fixes layout defects before delivering.
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) - Specification-driven development skill that turns requirements into blueprints, build plans, and validated implementations.
 - [harness-evolver](https://github.com/raphaelchristi/harness-evolver) - Evolve agent prompts, routing, tools, and architecture with LangSmith-backed regression guards.
 - [qdrant-skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search operations, performance, deployment, upgrades, and SDK usage.
