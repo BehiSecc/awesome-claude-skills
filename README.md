@@ -164,6 +164,7 @@
 - [kanban-skill](https://github.com/mattjoyce/kanban-skill) - Markdown-based Kanban board with file-based cards, YAML frontmatter for status/priority/dependencies, and no database required.
 - [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks for reliable project tracking.
 - [linear-cli-skill](https://github.com/Valian/linear-cli-skill) - A skill teaching claude how to use linear-CLI (provided alongside the skill), meant to replace linear MCP.
+- [Maoxuan Product Agent](https://github.com/atdy/maoxuan-product-agent) - Chinese-first product decision skill that identifies the current bottleneck, stage, constraints, and next actions across 36 tested product, growth, operations, data, and collaboration scenarios.
 - [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/meeting-insights-analyzer/) - Transforms your meeting transcripts into actionable insights about your communication patterns
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
