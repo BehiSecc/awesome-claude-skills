@@ -150,6 +150,7 @@
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
+- [Vox Director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer/ad video — script, collage art, motion, voice-over, music & captions, automated on Atlas Cloud + ffmpeg. Works with Claude Code, Codex & any SKILL.md agent.
 
 
 ## 🏥 Health & Life Sciences
