@@ -177,6 +177,7 @@
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics.
 - [product-manager-skills](https://github.com/Digidai/product-manager-skills) - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft.
 - [cup](https://github.com/krodak/clickup-cli) - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin.
+- [negotiation-coach](https://github.com/HemanthGangula/negotiation-coach) - Negotiation coaching for salary, freelance, vendor, and price talks: diagnoses your BATNA, then returns ready-to-send scripts from ten proven tactics.
 
 
 ## 🛡 Security & Web Testing
