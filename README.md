@@ -174,6 +174,7 @@
 - [public-google-drive](https://github.com/zagmoai/public-google-drive) - Create and edit Google Docs and Sheets without Google sign-in. Documents are hosted on Memyard and viewable at shareable links.
 - [google-workspace-skills](https://github.com/sanjay3290/ai-skills/tree/main/skills) - Suite of Google Workspace integrations: Gmail, Google Calendar, Google Chat, Google Docs, Google Sheets, Google Slides, and Google Drive. Lightweight alternatives to full MCP servers with cross-platform OAuth.
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 product management skills across the Triple Diamond lifecycle with agentskills.io spec compliance, templates, and MCP server support.
+- [gtm-engine](https://github.com/himanshusaleria/gtm-engine) - Eight slash-command sales skills for 0-to-1 founders: pipeline tracking, daily rituals, call analysis, lead scoring, and cold outreach.
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics.
 - [product-manager-skills](https://github.com/Digidai/product-manager-skills) - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft.
 - [cup](https://github.com/krodak/clickup-cli) - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin.
