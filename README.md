@@ -238,7 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
-
+- [kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) - A Traditional Chinese-first collection of 22 reusable agent skills with bilingual documentation for Claude Code and Codex, including engineering-discipline workflows for requirements grilling, reproducible debugging, ADRs, and spec-driven delivery.
 
 ## 🤝 Contribution
 
