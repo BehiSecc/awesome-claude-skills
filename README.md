@@ -130,6 +130,7 @@
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
+- [anywrite](https://github.com/Antheurus/anywrite) - CLI covering all 52 endpoints of the Anytype local API.
 
 
 
