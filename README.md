@@ -233,6 +233,7 @@
 - [Claude Skills](https://github.com/borghei/Claude-Skills) - Large cross-domain Claude skill collection for engineering, compliance, marketing, legal, finance, and more.
 - [claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - Marketing skills for SEO audits, landing page review, competitor analysis, ad copy, and lead qualification.
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Developer GTM skills for launch planning, positioning, and outbound workflows.
+- [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills covering code review, concurrency safety, error handling, testing, gRPC, and architecture. Built on the Uber Go Style Guide and Effective Go.
 - [great_cto](https://github.com/avelikiy/great_cto) - Claude Code SDLC plugin with specialist agents, commands, compliance workflows, and reusable learnings.
 - [linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - LinkedIn marketing skill collection for posts, comments, audits, profile optimization, and content planning.
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
