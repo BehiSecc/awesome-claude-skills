@@ -73,6 +73,7 @@
 - [aws-architecture-diagram-skill](https://github.com/vidanov/aws-architecture-diagram-skill) - Generate editable AWS architecture diagrams with verified icons and export formats.
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) - Specification-driven development skill that turns requirements into blueprints, build plans, and validated implementations.
 - [harness-evolver](https://github.com/raphaelchristi/harness-evolver) - Evolve agent prompts, routing, tools, and architecture with LangSmith-backed regression guards.
+- [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces. Hooks capture sessions, a background worker distills them into SKILL.md files, and team workspaces share the results. Works with Claude Code, Codex, Cursor, and OpenClaw.
 - [qdrant-skills](https://github.com/qdrant/skills) - Agent skills for Qdrant vector search operations, performance, deployment, upgrades, and SDK usage.
 - [skill-optimizer](https://github.com/hqhq1025/skill-optimizer) - Diagnose and improve Agent Skills using session data and static analysis.
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
