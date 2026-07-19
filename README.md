@@ -232,6 +232,7 @@
 - [career-ops](https://github.com/santifer/career-ops) - Job-search skill collection for JD evaluation, ATS resumes, portal scans, interview prep, and negotiation.
 - [Claude Skills](https://github.com/borghei/Claude-Skills) - Large cross-domain Claude skill collection for engineering, compliance, marketing, legal, finance, and more.
 - [claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - Marketing skills for SEO audits, landing page review, competitor analysis, ad copy, and lead qualification.
+- [Crew](https://github.com/Honorboxx/crew) - Three Claude Code subagents for code review, debugging, and planning, plus three skills for task scoping, verify-before-done, and git hygiene.
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Developer GTM skills for launch planning, positioning, and outbound workflows.
 - [great_cto](https://github.com/avelikiy/great_cto) - Claude Code SDLC plugin with specialist agents, commands, compliance workflows, and reusable learnings.
 - [linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - LinkedIn marketing skill collection for posts, comments, audits, profile optimization, and content planning.
