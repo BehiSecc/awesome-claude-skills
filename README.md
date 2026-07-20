@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [agent37-skills-collection](https://github.com/agent37-platform/agent37-skills-collection) - Claude Code plugin marketplace with three plugins: yc-advisor (YC startup advice from 434 curated resources), local-review (uncommitted-diff review), and generate-prompt-request (session-to-PR one-pagers).
 
 
 ## 🤝 Contribution
