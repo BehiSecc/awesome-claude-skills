@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [ai-science-toolkit](https://github.com/dgilford/ai-science-toolkit) - 18 Claude Code skills + 4 domain-expert reviewer agents (climate attribution, statistics, meteorology, science communication) for scientific research.
 
 
 ## 🤝 Contribution
