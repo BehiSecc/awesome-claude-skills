@@ -122,6 +122,7 @@
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
+- [resume-studio](https://github.com/Sidgit11/resume-studio) - Builds a permanent memory of your career and tailors an ATS-safe, evidence-backed resume for every job. No fabricated claims, learns your style permanently.
 
 
 ## 📘 Learning & Knowledge  
