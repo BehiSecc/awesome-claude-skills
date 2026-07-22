@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [uizze-ui-research](https://github.com/aislon/uizze-mcp/tree/main/skills/uizze-ui-research) - Grounds Claude Code UI work in 800,000+ real web and iOS screens, then applies a product-specific design contract and finish-gate review with [UIZZE](https://uizze.com).
 
 
 ## 📊 Data & Analysis
