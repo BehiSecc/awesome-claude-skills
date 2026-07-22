@@ -191,6 +191,9 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [regulatory-threat-model-skill](https://github.com/Ansvar-Systems/regulatory-threat-model-skill) - STRIDE and LINDDUN threat modeling with a cited EU security-obligations screen (GDPR, NIS2, CRA, AI Act) and live CVE/CISA-KEV/EPSS dependency screening, via the Ansvar Gateway MCP connector.
+- [incident-reporting-navigator-skill](https://github.com/Ansvar-Systems/incident-reporting-navigator-skill) - Screens one security incident across NIS2, GDPR, DORA, and the Cyber Resilience Act, resolving the receiving authority per EU member state and reporting deadlines with citations fetched live from official sources.
+- [cra-vulnerability-obligations-skill](https://github.com/Ansvar-Systems/cra-vulnerability-obligations-skill) - Maps a product to EU Cyber Resilience Act scope, product classification, and Article 14 reporting duties, joined with live CVE/KEV/EPSS vulnerability data.
 
 
 
