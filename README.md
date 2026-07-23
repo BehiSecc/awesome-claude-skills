@@ -82,6 +82,7 @@
 
 ## 📊 Data & Analysis
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
+- [formo-analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) - Query project-scoped product and onchain analytics through [Formo](https://formo.so) MCP, CLI, or REST, including SQL, funnels, retention, revenue, and wallet profiles.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
 - [mysql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mysql) - Safe read-only SQL queries against MySQL databases.
