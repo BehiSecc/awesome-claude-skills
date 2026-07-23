@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge) - Connect Claude Cowork (and any MCP-aware agent) to Claude Code on your own machine — an async file-based bridge so sandboxed sessions can build, test, git-push, and run anything on the real host, with per-task model routing, budget caps, and permission scopes.
 
 
 ## 📊 Data & Analysis
