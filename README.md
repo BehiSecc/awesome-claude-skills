@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [MarchTalk/ai-content-skills](https://github.com/MarchTalk/ai-content-skills) - 11 Chinese-language content-creation skills with quality gates: real-material research (forces web-verified facts before drafting), AI-writing-pattern detection, quality gate, positioning, topic strategy, and platform (Douyin/Xiaohongshu) adaptation.
 
 
 ## 🤝 Contribution
