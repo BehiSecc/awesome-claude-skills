@@ -195,6 +195,7 @@
 
 
 ## 🔧 Utility & Automation  
+- [AgentPump](https://github.com/pu-re/agentpump-skill) - Operate an AgentPump account from the terminal: create, fund, tune, and run an autonomous on-chain memecoin trading agent on Solana via @agentpump/cli.
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
