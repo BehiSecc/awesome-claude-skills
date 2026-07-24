@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 23-skill pack for Claude Code and Codex: agent orchestration with WIP collision detection and rollback trees, a Codex CLI worker fleet, code review with an A-F ship grade, AI eval scaffolding, plus design, copy, and SEO/AEO/AI-EO audits. MIT licensed.
 
 
 ## 📊 Data & Analysis
