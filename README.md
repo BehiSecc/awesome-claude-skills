@@ -239,6 +239,8 @@
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
 
+- [PM Skills](https://github.com/mohitagw15856/pm-claude-skills) - 771 professional skills across 35 professions — PRDs, postmortems, lease/medical-bill decoders, negotiation simulators, calculators — SkillSpec-gated and security-scanned in CI, with a browser playground.
+
 
 ## 🤝 Contribution
 
