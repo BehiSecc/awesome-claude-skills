@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [thank-you-ai](https://github.com/hanpulse/thank-you-ai) - Turns a genuine closing "thank you" into a brief reflection: triage the tier, then keep only the note that changes the next agent's first move.
 
 ## 📰 Articles & Blog Posts
 
