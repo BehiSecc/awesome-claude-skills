@@ -18,6 +18,7 @@
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
   - [🛡 Security \& Web Testing](#-security--web-testing)
   - [🔧 Utility \& Automation](#-utility--automation)
+  - [🏠 Homelab \& Self-Hosted Infrastructure](#-homelab--self-hosted-infrastructure)
   - [📰 Articles \& Blog Posts](#-articles--blog-posts)
   - [🗂️ Collections](#️-collections)
   - [🤝 Contribution](#-contribution)
@@ -211,6 +212,12 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+
+## 🏠 Homelab & Self-Hosted Infrastructure
+- [unifi-skills](https://github.com/t3chnaztea/unifi-skills) - Administer a UniFi network over its local API: auth lanes and the endpoint map, zone-based firewall rules, a diagnostic ladder for slow Wi-Fi, client and VLAN moves.
+- [home-assistant-skills](https://github.com/t3chnaztea/home-assistant-skills) - Run a Home Assistant instance: SSH/REST connection doctrine, mapping an unfamiliar instance, verified automations, price- and LLM-driven triggers.
+- [batocera-skills](https://github.com/t3chnaztea/batocera-skills) - Operate a Batocera retro-gaming cabinet: SSH ops against a read-only rootfs, ROM and gamelist curation, shaders and bezels, performance tuning, maintenance.
+- [awesome-psn-skills](https://github.com/t3chnaztea/awesome-psn-skills) - Read a PlayStation play-history export: taste profile, backlog triage, and wishlist ranking by what you will actually finish.
 
 ## 📰 Articles & Blog Posts
 
