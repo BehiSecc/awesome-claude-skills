@@ -122,6 +122,7 @@
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
+- [fulcru](https://github.com/gsmmediaro/fulcru/tree/master/skills/fulcru) - Get named by AI search engines. Audits a domain, finds the buyer questions where ChatGPT, Gemini and Perplexity name a competitor instead of you, writes the page that closes the biggest gap, and re-measures after publishing. Runs standalone on web access, no account and no API key.
 
 
 ## 📘 Learning & Knowledge  
