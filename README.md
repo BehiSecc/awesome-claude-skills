@@ -150,6 +150,7 @@
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
+- [collage-design](https://github.com/polgarp/collage-design) - Cut-and-layer collage art from real, open-licensed archive imagery — sourced, cut and composed into a finished .svg and .png, with a full licence ledger for every fragment.
 
 
 ## 🏥 Health & Life Sciences
