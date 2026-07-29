@@ -78,6 +78,7 @@
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
+- [plan-diagram](https://github.com/ANC1024GO/claude-skill-plan-diagram) - Turn any plan, flow, or architecture into a dark, hand-drawn (Excalidraw-style) HTML diagram — multilingual with automatic RTL, vertical flow or pan/zoom board layouts.
 
 
 ## 📊 Data & Analysis
