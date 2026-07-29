@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [astro-skills](https://github.com/iAstroUnicorn/astro-skills) - 7 original bilingual (zh/en) skills for agent reliability: guardrails (write safety, context overflow, anti-hallucination fact stitching), first-principles thinking, archiving, path migration, and cross-agent collaboration.
 
 
 ## 🤝 Contribution
