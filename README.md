@@ -122,6 +122,7 @@
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
+- [claude-math](https://github.com/vladimirrott/claude-math) - Render mathematics as terminal-safe inline Unicode (∑, ≤, ℝ, x², matrices, set-builder) instead of LaTeX that terminals cannot display.
 
 
 ## 📘 Learning & Knowledge  
