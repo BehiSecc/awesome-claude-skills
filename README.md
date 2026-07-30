@@ -113,6 +113,7 @@
 
 ## ✍️ Writing & Research
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
+- [Fact-Check-X](https://github.com/ASI2030/Fact-Check-X/tree/main/skills/fact-check-x-complete) - Evidence-gated multi-platform fact checking with raw answer capture, atomic-claim comparison, authoritative verification, citation auditing, and standalone HTML reports.
 - [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Create internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc)
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
