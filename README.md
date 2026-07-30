@@ -238,6 +238,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents — SEO, copywriting, cold email, pricing, CRO, ads, and analytics. Free & open source; per-skill guides at marketing-skills.com.
 
 
 ## 🤝 Contribution
