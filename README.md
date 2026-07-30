@@ -100,6 +100,8 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [govcon-scout](https://github.com/z0157/claude-operator-skills/tree/master/skills/govcon-scout) - Query U.S. federal contract spending and live bid opportunities: what agencies buy, who wins, at what price. USAspending needs no key; SAM.gov uses a free personal key.
+- [local-lead-finder](https://github.com/z0157/claude-operator-skills/tree/master/skills/local-lead-finder) - Find local businesses with no website in any city via OpenStreetMap, with opportunity scoring, franchise filtering, and phone/address enrichment. No API keys.
 
 
 ## 🔬 Scientific & Research Tools
@@ -150,6 +152,8 @@
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
+- [media-transcriber](https://github.com/z0157/claude-operator-skills/tree/master/skills/media-transcriber) - Transcribe any audio or video via a three-tier fallback: captions, audio download, then browser-playback loopback capture into Whisper for sources with no downloadable audio.
+- [youtube-research-miner](https://github.com/z0157/claude-operator-skills/tree/master/skills/youtube-research-miner) - Mine an entire YouTube channel without the API and distil the transcripts into ranked findings. Handles the rolling auto-caption format that duplicates every line.
 
 
 ## 🏥 Health & Life Sciences
