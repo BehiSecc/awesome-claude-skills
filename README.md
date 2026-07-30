@@ -122,6 +122,7 @@
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
+- [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract every claim from a video, article, tweet or PDF, verify each against independent sources, get per-claim verdicts and a 0-10 BS score.
 
 
 ## 📘 Learning & Knowledge  
