@@ -39,6 +39,7 @@
 
 
 ## 🛠 Development & Code Tools
+- [octopus-skill](https://github.com/levi-qiao/octopus-skill) - Long-horizon agent skill: stop agent drift with a durable ledger, clean-context supervisor, and verified gates. Works on Claude Code, Cursor, Codex, and Grok. Markdown prompt library — not an orchestration framework.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
