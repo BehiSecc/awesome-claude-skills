@@ -211,6 +211,7 @@
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
+- [mail-muncher](https://github.com/craigjmidwinter/mail-muncher/tree/main/skills/mail-muncher) - Give an agent its own read-only mailbox. Sets up filter rules over any IMAP account or Gmail, archives matching mail to disk as .eml plus markdown, and wires up the MCP server that reads it back.
 
 ## 📰 Articles & Blog Posts
 
