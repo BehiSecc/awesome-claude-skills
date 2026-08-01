@@ -150,6 +150,7 @@
 - [moltdj](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties.
 - [claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
+- [patentfig-skill](https://github.com/TopLocalAI/patentfig-skill) - Generate USPTO/EPO-compliant patent figures from text via the PatentFig AI API — line art (PNG/SVG), vectorize to SVG/DXF/PDF, upscale, and convert to filing-ready formats.
 
 
 ## 🏥 Health & Life Sciences
