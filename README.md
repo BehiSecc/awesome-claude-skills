@@ -122,6 +122,7 @@
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
+- [eu-ai-act](https://github.com/dankofly/eu-ai-act-skill) - EU AI Act compliance advisor for AI-generated content: Article 50 labeling duties, all exemptions as a no-label decision path, provider vs. deployer analysis, enforcement risk. Legal text verbatim from EUR-Lex; ships SKILL.md and AGENTS.md.
 
 
 ## 📘 Learning & Knowledge  
