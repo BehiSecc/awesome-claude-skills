@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [ui-review](https://github.com/roney492/ui-review) - Automated UI/UX review via the agent-browser CLI: text overflow, wrapping, responsiveness across breakpoints, dark mode, WCAG zoom/reflow, codebase-mapped fixes, and baseline/diff regression mode.
 
 
 ## 📊 Data & Analysis
