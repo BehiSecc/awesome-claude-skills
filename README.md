@@ -131,6 +131,7 @@
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
+- [humanizer-multilingual](https://github.com/finestructure-ai/humanizer-multilingual) - Remove AI-writing tells in Spanish, Portuguese, French, German, Italian, Hebrew, Arabic, Russian, Japanese, and Chinese. Per-language calques, typography, register, and syntax patterns, graded P0/P1/P2, with a test corpus and counter-samples.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
 
 
