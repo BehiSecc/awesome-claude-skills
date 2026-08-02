@@ -103,6 +103,7 @@
 - [crowdcast](https://github.com/TheQmaks/crowdcast) - Multi-agent social simulation as a Claude Code skill. Spawns dozens of AI agents that argue, post, and react on a simulated platform, then writes a prediction report. Zero dependencies.
 - [coinpaprika-api](https://github.com/coinpaprika/skills/tree/main/coinpaprika-api) - Crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
 - [dexpaprika-api](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) - Free DEX data across 34 chains: 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
+- [coffee-market-brief](https://github.com/mooned33/coffee-market-brief) - Read the specialty coffee market like a green buyer: price percentiles, origin weather vs seasonal normals, Cup of Excellence auction context, and source-bias labelling.
 - [gh-star-history](https://github.com/ykdojo/gh-star-history) - Visualize and compare GitHub star history as interactive charts, with regional breakdown of stargazers.
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
