@@ -272,6 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [rapid-stack](https://github.com/artttj/rapid-stack) - 15 short slash commands for Claude Code and OpenCode, bundling six skills and three agents for review, humanizing text, prompts, design, and security. Install via `/plugin marketplace add artttj/rapid-stack`.
 
 
 ## 🤝 Contribution
