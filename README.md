@@ -83,6 +83,8 @@
 - [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 23-skill pack for agent orchestration with WIP collision detection and rollback trees.
 - [Superdesign](https://github.com/superdesigndev/superdesign-skill) - Design skill that builds a design system from your codebase and iterates UI drafts on an infinite canvas.
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
+- [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
+- [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
 
 
 ## 📊 Data & Analysis
@@ -165,6 +167,7 @@
 - [Vox Director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer or ad video.
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
+- [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
 
 
 ## 🏥 Health & Life Sciences
@@ -262,6 +265,7 @@
 - [goose-skills](https://github.com/gooseworks-ai/goose-skills) - 125 growth and GTM skills for ads, content, lead generation, outreach, research, and SEO.
 - [PM Skills](https://github.com/mohitagw15856/pm-claude-skills) - 771 professional skills across 35 professions, including PRDs, postmortems, and negotiation simulators.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents covering SEO, copywriting, cold email, pricing, CRO, ads, and analytics.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads with live data connectors.
 
 
 ## 🤝 Contribution
