@@ -266,6 +266,12 @@
 - [PM Skills](https://github.com/mohitagw15856/pm-claude-skills) - 771 professional skills across 35 professions, including PRDs, postmortems, and negotiation simulators.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents covering SEO, copywriting, cold email, pricing, CRO, ads, and analytics.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads with live data connectors.
+- [agent37-skills-collection](https://github.com/agent37-platform/agent37-skills-collection) - Claude Code plugin marketplace with YC advisor, local review, and related agent plugins.
+- [Agent Skills Hub](https://agentskillshub.top) - Open directory of agent skills and MCP servers with security grades and quality scores.
+- [Remote OpenClaw](https://www.remoteopenclaw.com/skills) - Searchable directory of agent skills and MCP servers across OpenClaw, Hermes, Claude Code, and Codex.
+- [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
+- [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
+- [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
 
 
 ## 🤝 Contribution
