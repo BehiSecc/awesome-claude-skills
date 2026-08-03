@@ -35,6 +35,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [arabic-office-skills](https://github.com/asadeisa/arabic-office-skills) - Three skills for generating PDF, Word, and PowerPoint files in Arabic and other right-to-left scripts, with correct letter shaping, RTL tables, and mixed Arabic/Latin text; includes a PNG preview for verifying the result.
 
 
 
