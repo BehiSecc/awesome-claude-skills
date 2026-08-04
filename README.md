@@ -132,6 +132,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [dev-report](https://github.com/delpicorp/dev-report) - Write up a coding session for a non-technical decision-maker: what was done, why that way, what is left, and what needs their call. Keeps the full engineering reasoning and defines every term at first use. Korean, Japanese, and Spanish command aliases included.
 
 
 ## 📘 Learning & Knowledge  
