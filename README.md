@@ -272,6 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [OpenSource Review Suite](https://github.com/priyank766/OpenSource-SKILL) - 8 agent skills for reviewing open-source pull requests — security, dependency, API-compat, test, performance, docs, and contributor-experience passes — each gated by a weighted 10-point filter so only 2-3 findings reach the maintainer.
 
 
 ## 🤝 Contribution
