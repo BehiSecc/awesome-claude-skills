@@ -38,6 +38,7 @@
 
 
 
+- [mubu-integration](https://github.com/liuboacean/mubu-integration) - Mubu (幕布) outline CLI & AI Agent Skill — import/export Markdown with true round-trip fidelity, plus OPML/FreeMind export.  
 ## 🛠 Development & Code Tools
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
