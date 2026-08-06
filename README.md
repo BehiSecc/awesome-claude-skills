@@ -233,6 +233,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [floe](https://github.com/Floe-Labs/agent-skills) - Metered, budget-capped multi-vendor API access (LLM, STT, TTS, telephony, search, data) through one key, with per-call cost attribution and server-side spend limits.
 
 ## 📰 Articles & Blog Posts
 
