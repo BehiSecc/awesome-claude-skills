@@ -80,7 +80,7 @@
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
 - [crit](https://github.com/tomasz-tomczyk/crit) - Review and comment on plans, code diffs, and frontend, then send feedback directly to your agent.
 - [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) - Reconstruct how a feature shipped from local ax session history.
-- [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 23-skill pack for agent orchestration with WIP collision detection and rollback trees.
+- [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 71-skill pack for agent orchestration, code and release gates, design, marketing, Instagram growth, app shipping, and creator rights.
 - [Superdesign](https://github.com/superdesigndev/superdesign-skill) - Design skill that builds a design system from your codebase and iterates UI drafts on an infinite canvas.
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
