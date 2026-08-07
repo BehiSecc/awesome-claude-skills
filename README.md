@@ -233,6 +233,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [MemoryPlugin](https://github.com/memoryplugin/agent-skills) - Long-term memory skill that recalls and stores the user's memories and searches imported chat history, shared across 21+ AI tools.
 
 ## 📰 Articles & Blog Posts
 
