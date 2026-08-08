@@ -198,6 +198,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [project-registry](https://github.com/SUNQSHENG/project-registry) - Manage a personal project registry (PROJECTS.json) with per-project AI-readable dev logs: CRUD, session resume, decision attribution, health check, and version rollback from one menu. Works for business and code projects; bilingual triggers.
 
 
 ## 🛡 Security & Web Testing
