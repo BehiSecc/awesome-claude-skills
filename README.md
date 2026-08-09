@@ -85,6 +85,8 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [vela](https://github.com/dbhq-uk/vela-skill) - Compiler-exact .NET code search built on Roslyn, covering references, callers, and change impact across C#, Razor, and Blazor.
+- [dovetail](https://github.com/dbhq-uk/dovetail-skill) - Check whether a repository still agrees with itself: dead links, orphaned files, stale docs, and contradictions.
 
 
 ## 📊 Data & Analysis
@@ -132,6 +134,8 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [verve](https://github.com/dbhq-uk/verve-skill) - Strip AI tells from prose and put a human voice back, in British English.
+- [legwork](https://github.com/dbhq-uk/legwork-skill) - Decision research where every claim states how well it is supported, and says when the evidence cannot settle it.
 
 
 ## 📘 Learning & Knowledge  
@@ -198,6 +202,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [trello](https://github.com/dbhq-uk/trello-skill) - Manage Trello boards, lists, and cards, with board digests and a due-date radar.
 
 
 ## 🛡 Security & Web Testing
@@ -233,6 +238,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [outlook-graph](https://github.com/dbhq-uk/outlook-graph-skill) - Microsoft 365 mail and calendar via Graph, plus PST archives converted to searchable markdown.
 
 ## 📰 Articles & Blog Posts
 
@@ -272,6 +278,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [DBHQ Marketplace](https://github.com/dbhq-uk/marketplace) - Plugin marketplace of six free, open-source skills for Claude Code and Codex.
 
 
 ## 🤝 Contribution
