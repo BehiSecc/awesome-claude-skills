@@ -240,6 +240,7 @@
 
 ## 🗂️ Collections
 
+- [serpro69/claude-toolbox](https://github.com/serpro69/claude-toolbox) - Minimal by design, with explicit multi-lang support, production-ready and battle-tested collection of configs and plugins for Claude Code agentic development workflows: mcp, configs, skills, agents and more.
 - [@clawfu/mcp-skills](https://github.com/guia-matthieu/clawfu-skills) - 169 expert-sourced marketing skills (Dunford, Schwartz, Ogilvy, Cialdini) as MCP server with brand memory.
 - [wondelai/skills](https://github.com/wondelai/skills) - 25 agent skills for UX design, marketing/CRO, sales, product strategy, and growth based on books by Norman, Cialdini, Ries, Hormozi, and others.
 - [devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) - 33 skills for developer marketing — HN strategy, technical tutorials, docs-as-marketing, Reddit engagement, developer onboarding, newsletters, and SEO for devtools.
