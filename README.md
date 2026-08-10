@@ -272,6 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [crawlora-skills](https://github.com/Crawlora-org/crawlora-skills) - 23 outcome-oriented research skills (product pricing, YouTube, app reviews, SERP/keywords, finance & prediction markets, movies/TV, jobs, social media, travel, sports, gaming, anime/manga, books, real estate/autos, resale, restaurants, dev/OSS, business reviews, web utilities) over a structured web-data API.
 
 
 ## 🤝 Contribution
