@@ -218,6 +218,7 @@
 ## 🔧 Utility & Automation  
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
+- [itr-wala](https://github.com/karanb192/itr-wala) - Prepares Indian income tax returns (ITR-1 to 4) with a deterministic tax engine; the LLM reads documents, tested Python does all the math.
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
