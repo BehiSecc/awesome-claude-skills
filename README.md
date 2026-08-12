@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [build-card](https://github.com/CraniusMaximus/build-card) - Makes the agent write a short plain-English plan before it touches a file: what you get, what it is deliberately leaving out, cost band, reversibility, and the strongest honest case against building it.
 
 
 ## 📊 Data & Analysis
