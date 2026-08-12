@@ -201,6 +201,7 @@
 
 
 ## 🛡 Security & Web Testing
+- [mcp-security-preflight](https://github.com/Abanoub-Rodolf/mcp-security-review-preview/tree/main/skills/mcp-security-preflight) - Run a safe MCP configuration scan with fixed-schema validation while keeping raw untrusted evidence out of the agent context.
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
 - [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
 - [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
