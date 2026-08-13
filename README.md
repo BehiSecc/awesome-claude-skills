@@ -153,6 +153,7 @@
 - [NoizAI/skills](https://github.com/NoizAI/skills) - Human-like TTS workflows with local/cloud backends, style presets, and app delivery scripts.
 - [claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Convert markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to Kindle.
 - [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
+- [OrkasVideoStudio video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/blob/7387d99d468e0cce22508854ba8bca04e79657e1/packages/skills/video-router/SKILL.md) - Route and lock a video brief to generation, designed composition, supplied-footage editing, or a mixed end-to-end workflow before production.
 - [find-scene](https://github.com/uriva/find-scene-skill) - Search and download movie/TV show scenes by dialog, time, or visual description using the FindScene API.
 - [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: generate images (Flux), text-to-speech, transcribe YouTube/audio, OCR, video generation, upscale, and remove backgrounds via deAPI. Works with Cursor, Windsurf & Continue.dev.
 - [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — AI-native video production workspace for Claude Code with Remotion, ElevenLabs, FFmpeg, and Playwright skills.
