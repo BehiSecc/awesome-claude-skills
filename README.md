@@ -272,6 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [Low-Level Skills TrothByte](https://github.com/TrothByte/low-level-skills-trothbyte) - 124 verified low-level engineering skills for AI coding agents: C/C++, Rust, assembly, kernel, embedded, Zig, GPU, reverse engineering, and build systems. 65 skills executed on real toolchains; every normative claim source-traced (177 primary sources).
 
 
 ## 🤝 Contribution
