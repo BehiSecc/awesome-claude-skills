@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [okf-skills](https://github.com/scaccogatto/okf-skills) - Author, maintain, validate, and visualize Open Knowledge Format (OKF) knowledge bundles: portable markdown that humans and agents both read, with a deterministic conformance checker, an interactive graph renderer, and a CI gate via GitHub Action.
 
 
 ## 📊 Data & Analysis
