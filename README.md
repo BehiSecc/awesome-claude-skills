@@ -140,6 +140,7 @@
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
+- [sijiao-skill (私教.skill)](https://github.com/swaylq/sijiao-skill) - Distill any skill you want to learn into a stateful private tutor: prerequisite-DAG curriculum, SM-2 spaced repetition, exercises adapted to your tracked level. Bilingual EN+中文, 6 end-to-end samples.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
 
 
@@ -248,6 +249,7 @@
 - [agentskill.sh](https://agentskill.sh) - Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed, and 20+ AI tools.
 - [Agent Almanac](https://github.com/pjt222/agent-almanac) - 317 skills, 65 agents, and 14 teams for Claude Code following the Agent Skills open standard across 50+ domains.
 - [AlterLab-FC-Skills](https://github.com/AlterLab-IEU/AlterLab-FC-Skills) - 72 agentic skills for creative technology workflows across 11 domains.
+- [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Meta-skill that distills an industry's cognitive OS (mental models, decision rules, workflows, auto-generated bash CLI) into a loadable skill; ships 72 end-to-end industry samples with transparent research trails. Bilingual EN+中文.
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
