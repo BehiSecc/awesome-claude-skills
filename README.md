@@ -272,6 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [Aeon](https://github.com/aeonfun/aeon) - 70+ Claude Code agent skills (SKILL.md) plus an autonomous agent framework built on `claude -p` that runs entirely on GitHub Actions; cron-scheduled skills, self-healing, and fleet-replicating.
 
 
 ## 🤝 Contribution
