@@ -107,6 +107,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [apitube-news-api](https://github.com/apitube/news-api-skills/tree/main/skills/apitube-news-api) - Query the APITube News API from an agent: search worldwide news by keyword, entity, sentiment, source, country and date, then read the JSON response. Covers authentication, the `/news/everything` filters, pagination and error codes.
 
 
 ## 🔬 Scientific & Research Tools
