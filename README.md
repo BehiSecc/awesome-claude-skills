@@ -117,7 +117,7 @@
 - [paper-search](https://github.com/ykdojo/paper-search) - Search academic papers via OpenAlex (250M+ works, free, no API key needed). Find papers by keyword, look up details by DOI, with sorting and pagination.
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
 
-- [paper-skills](https://github.com/whoisraibolt/paper-skills) - Deep pre-submission review and grounded drafting for scientific manuscripts, on Google's Paper Assistant Tool architecture. Read-only reviewer: every finding carries a literal quote and states what would make it wrong. Stage 3.5 thresholds calibrated against 76 human articles; bilingual lexicons (EN/PT-BR).
+- [paper-skills](https://github.com/whoisraibolt/paper-skills) - Pre-submission review and grounded drafting for scientific manuscripts. Segments the manuscript and reviews the segments in parallel, each with the full text as context. The reviewer is read-only: every finding carries a literal quote and states what would make it wrong. Alert thresholds calibrated against 76 human articles; lexicons for English and Brazilian Portuguese.
 
 ## ✍️ Writing & Research
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
