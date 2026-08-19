@@ -132,6 +132,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [multi-source-search](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search) - Cross-check claims across web, academic, and host-provided search tools, then produce a claim-to-source evidence ledger with disagreements, evidence gaps, and confidence levels. Includes an offline report validator and works without a SandBase account.
 
 
 ## 📘 Learning & Knowledge  
