@@ -85,7 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
-- [cohesivity](https://github.com/cohesivity-org/cohesivity-plugin) - Claude Code plugin bundling a skill with local and remote MCP servers for provisioning hosting, Postgres, email, storage, containers, LLMs, voice, and third-party APIs.
+- [cohesivity](https://github.com/cohesivity-org/cohesivity-plugin) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
 
 
 ## 📊 Data & Analysis
