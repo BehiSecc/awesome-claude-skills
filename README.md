@@ -168,6 +168,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [magic-hour](https://github.com/RhythmP28/clawhub-magic-hour) - Generate AI video and images (Sora 2, Veo 3.1, Kling 3.0, WAN 2.2, GPT-image, Nano Banana Pro) via the Magic Hour API; also works with the hosted Magic Hour MCP server.
 
 
 ## 🏥 Health & Life Sciences
