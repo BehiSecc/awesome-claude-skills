@@ -257,6 +257,7 @@
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Developer GTM skills for launch planning, positioning, and outbound workflows.
 - [great_cto](https://github.com/avelikiy/great_cto) - Claude Code SDLC plugin with specialist agents, commands, compliance workflows, and reusable learnings.
 - [linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - LinkedIn marketing skill collection for posts, comments, audits, profile optimization, and content planning.
+- [mamba-labs-skills](https://github.com/mambalabsdev/mamba-labs-skills) - 56 signal-based GTM skills across 12 families: Clay enrichment builds, cold email systems, deliverability, live signal research, CRM operations, and knowledge ops.
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
