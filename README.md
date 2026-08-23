@@ -272,6 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [Copycat Skills](https://github.com/canhta/copycat-skills) - Codex and Claude Code skill pack for cross-store competitor discovery, review mining, Blue/Red evaluation, and evidence-backed mobile app decisions.
 
 
 ## 🤝 Contribution
