@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [usage-limits](https://github.com/ridelink0/claude-code-usage-limits) - Reports how much of your 5-hour and weekly Claude Code limit is left as turns of headroom rather than a percentage, then plans the work to fit before it runs out. Detects plan tier and adds a status line.
 
 
 ## 📊 Data & Analysis
