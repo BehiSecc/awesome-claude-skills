@@ -116,6 +116,7 @@
 - [manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus) - Delegate complex tasks to Manus AI agent for deep research, market analysis, product comparisons, stock analysis, and comprehensive report generation with parallel processing.
 - [paper-search](https://github.com/ykdojo/paper-search) - Search academic papers via OpenAlex (250M+ works, free, no API key needed). Find papers by keyword, look up details by DOI, with sorting and pagination.
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
+- [falsify](https://github.com/263311487-ux/falsify) - 5-stage scientific thinking protocol for AI agents: axioms → hypothesis → adversarial test → evidence → calibrated verdict. Stops agents from giving confident answers they cannot falsify (works with Claude Code, Codex, DeepSeek Harness, 20+ agents; 28 eval cases; MIT).
 
 
 ## ✍️ Writing & Research
