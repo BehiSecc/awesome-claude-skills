@@ -125,6 +125,7 @@
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
+- [anti-slop-kit](https://github.com/ausrine-labs/anti-slop-kit) - Twelve editorial rules plus slopcheck.py, a zero-dependency linter that flags structural AI tells (manufactured suspense, process narration, summary endings) by line number.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
