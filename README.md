@@ -228,6 +228,7 @@
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
+- [publishport](https://github.com/karuha-m/publishport-skill) - Publish and cross-post to 60+ social and content platforms (X, Reddit, LinkedIn, Medium, Bluesky, Xiaohongshu, Douyin, Bilibili, Zhihu…) through your own logged-in browser — no platform API keys.
 - [Imprint](https://github.com/ilang-ai/Imprint) - Portable AI collaboration profile for memory, planning, review, debugging, testing, and workflow habits.
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
