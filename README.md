@@ -35,6 +35,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [build-client-business-plans](https://github.com/Musengimana/develop-a-business-plan-in-minutes) - Turn client notes into a researched business plan (Word) and a formula-verified financial forecast (Excel) with downside and upside scenarios, usable by any LLM agent.
 
 
 
