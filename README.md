@@ -268,6 +268,7 @@
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads with live data connectors.
 - [agent37-skills-collection](https://github.com/agent37-platform/agent37-skills-collection) - Claude Code plugin marketplace with YC advisor, local review, and related agent plugins.
 - [Agent Skills Hub](https://agentskillshub.top) - Open directory of agent skills and MCP servers with security grades and quality scores.
+- [SkillsCat](https://skills.cat) - Open catalog and CLI for discovering and installing SKILL.md agent skills across Claude Code, Cursor, Codex, and OpenClaw.
 - [Remote OpenClaw](https://www.remoteopenclaw.com/skills) - Searchable directory of agent skills and MCP servers across OpenClaw, Hermes, Claude Code, and Codex.
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
