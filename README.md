@@ -198,6 +198,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [handle-capital-call](https://github.com/x1wealth/x1-agent-skills/tree/main/plugins/x1-agent-skills/skills/handle-capital-call) - Review a capital-call notice, surface missing facts, involve the right person, and stop before money moves. Includes hostile test cases and deterministic release checks.
 
 
 ## 🛡 Security & Web Testing
