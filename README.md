@@ -272,6 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [advibly/skills](https://github.com/advibly/skills) - Eight ad-creative skills that drive the Advibly MCP to produce finished ads: UGC video ads, explainers in ten visual styles, claymation, Pixar-style 3D, stick-figure comics, collage motion, Vox-style paper collage, and video restyle.
 
 
 ## 🤝 Contribution
