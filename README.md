@@ -233,6 +233,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [qqmail-cli](https://github.com/situker/qqmail-cli) - Safety-first, unofficial QQ Mail CLI + Claude skill: read, search, triage, back up, and gated-cleanup QQ / Foxmail mail over a stable JSON contract. Read-only by default, no permanent-delete, with a restore regret window.
 
 ## 📰 Articles & Blog Posts
 
