@@ -132,6 +132,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [plain-language](https://github.com/olivervvvv/plain-language-skill) - Rewrite convoluted AI output into plain language without changing the facts; separate rule sets for English (agentless passive, noun stacks, hedge stacks) and Traditional Chinese (unbroken multi-idea sentences, dropped subjects, 進行/加以 nominalization).
 
 
 ## 📘 Learning & Knowledge  
