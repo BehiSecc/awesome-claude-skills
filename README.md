@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [Receipts](https://github.com/tainguyen091994/receipts) - Makes an agent paste the command output behind a claim before it may say "done", and ships the 424-run benchmark that measures whether the prompt actually helps. Raises evidence rate from 3% to 98%, and is measured *not* to reduce false claims.
 
 
 ## 📊 Data & Analysis
