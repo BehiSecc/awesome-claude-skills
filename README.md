@@ -265,6 +265,7 @@
 - [goose-skills](https://github.com/gooseworks-ai/goose-skills) - 125 growth and GTM skills for ads, content, lead generation, outreach, research, and SEO.
 - [PM Skills](https://github.com/mohitagw15856/pm-claude-skills) - 771 professional skills across 35 professions, including PRDs, postmortems, and negotiation simulators.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents covering SEO, copywriting, cold email, pricing, CRO, ads, and analytics.
+- [n3wth/skills](https://github.com/n3wth/skills) - AI coding assistant skills with a live registry at skills.n3wth.com
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads with live data connectors.
 - [agent37-skills-collection](https://github.com/agent37-platform/agent37-skills-collection) - Claude Code plugin marketplace with YC advisor, local review, and related agent plugins.
 - [Agent Skills Hub](https://agentskillshub.top) - Open directory of agent skills and MCP servers with security grades and quality scores.
