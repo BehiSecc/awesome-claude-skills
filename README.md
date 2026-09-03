@@ -233,6 +233,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [cracked-agent-skills](https://github.com/cracked-ai-org/agent-skills) - Skills for using Cracked, a tool router with one API key for 63,000+ tools across 1,150+ providers: setup and agent self-registration, discover, inspect, run, poll, and one-call capability runs with automatic provider fallback.
 
 ## 📰 Articles & Blog Posts
 
