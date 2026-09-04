@@ -168,6 +168,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [kavel-image](https://github.com/hanshs474/kavel-image-skill) - Generate images and edit photos from a prompt with no API key and no account, through Kavel's anonymous endpoint — text-to-image plus face-preserving edits (hairstyle, outfit, expression). *By [@hanshs474](https://github.com/hanshs474)*
 
 
 ## 🏥 Health & Life Sciences
