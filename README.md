@@ -198,6 +198,8 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [dialog-tree](https://github.com/ikotelkin/claude-skills/tree/main/skills/dialog-tree) - Interactive HTML map of a branching conversation — tracks question/answer branches with resolve/delete marks so deep discussions don't lose unexplored side-threads.
+- [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) - Maintains a WORKING.md with the current stage's state (decisions, failed attempts, next steps) so project context survives compaction and new sessions.
 
 
 ## 🛡 Security & Web Testing
