@@ -107,6 +107,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [market-brief](https://github.com/beepboop2025/market-brief/tree/v0.1.0/skills/market-brief) - Builds source-linked funding and liquidity briefs with observation dates, explicit data gaps, and local saved-brief comparisons.
 
 
 ## 🔬 Scientific & Research Tools
