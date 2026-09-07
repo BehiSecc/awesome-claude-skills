@@ -132,6 +132,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [verve](https://github.com/dbhq-uk/verve-skill) - Strip AI tells from prose and put a human voice back, without changing what it says. British English by default, pitched at the reader you name.
 
 
 ## 📘 Learning & Knowledge  
