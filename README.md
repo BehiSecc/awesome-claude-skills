@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [genjutsu](https://github.com/AThevon/genjutsu) - Creative coding for interfaces: motion design, micro-interactions and full visual design systems. Proposes an interaction thesis you validate before any code is written. Covers Web (GSAP, Motion, CSS, Three.js), Android (Jetpack Compose) and Apple (SwiftUI).
 
 
 ## 📊 Data & Analysis
