@@ -66,6 +66,7 @@
 - [Playwright Skill](https://github.com/testdino-hq/playwright-skill) - AI agent-ready Playwright skill with structured SKILL.md, test automation workflows, and MCP-compatible setup for real-world testing pipelines.
 - [Emblem AI Agent Wallet](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers.
 - [unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more.
+- [ironloop](https://github.com/edouard-claude/ironloop) - Verification-first 5-layer engineering harness (spec→gen→test→sim→pentest). Wraps AI-generated code in an iron harness of tests, chaos simulation, and multi-model pentesting.
 - [spartan-ai-toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents.
 - [blueprint](https://github.com/imbue-ai/blueprint) - Planning copilot for coding agents. Explores the codebase, asks clarifying questions, then generates a markdown plan any agent can execute in one shot.
 - [agent-lsp](https://github.com/blackwell-systems/agent-lsp) - Semantic code intelligence skills for refactor, rename, impact analysis, and verification.
