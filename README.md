@@ -272,6 +272,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [goodbarber-skills](https://github.com/goodbarber/goodbarber-skills) - 44 skills for GoodBarber no-code apps: eCommerce, CMS, community and membership workflows through the GoodBarber MCP server, also packaged as a Claude Code plugin.
 
 
 ## 🤝 Contribution
