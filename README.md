@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [pit-stop](https://github.com/Finn763/pit-stop) - One instruction runs a full codebase improvement loop: find → fix → verify → report, every finding with path:line evidence.
 
 
 ## 📊 Data & Analysis
