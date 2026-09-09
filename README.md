@@ -274,6 +274,8 @@
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
 
 
+- [kurashi-skill](https://github.com/tahodev/kurashi-skill) - Japanese daily-life skills on official open data: JMA weather, earthquake/tsunami alerts, national holidays, furusato tax limit calculator, library search. Login-free lookups, `npx skills add` compatible.
+
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
