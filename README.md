@@ -273,6 +273,8 @@
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
 
+- [baodao-skill](https://github.com/tahodev/baodao-skill) - Taiwan daily-life skills on official open data: uniform-invoice prize checks, YouBike realtime availability, Taipei/New Taipei garbage truck schedules, CWA weather, typhoon/earthquake alerts. Login-free lookups, `npx skills add` compatible.
+
 
 ## 🤝 Contribution
 
