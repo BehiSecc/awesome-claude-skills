@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [seedfast](https://github.com/seedfast-ai/claude-plugins/tree/master/plugins/seedfast/skills/seeding) - Seeds a PostgreSQL database with synthetic test data generated from its live schema, planning the scope before any rows are written.
 
 
 ## 📊 Data & Analysis
