@@ -144,6 +144,7 @@
 
 
 ## 🎬 Media & Content
+- [angles-video-skill](https://github.com/anglesvideo/angles-video-skill) - AI video generation skill for Claude Code. Turn any software repository into three selling angles and a launch-ready Angles video. Integrates with Claude Code, Codex, Cursor, and Gemini CLI via `SKILL.md`. Powered by angles.video API.
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 - [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival.
 - [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves the quality of images, especially screenshots.
