@@ -85,6 +85,8 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [lean-comments](https://github.com/JonathanXDR/lean-comments) - Keeps a source-code comment only when it carries information the code and its context cannot, removing the rest instead of rewording them.
+- [nuxt-style-readme](https://github.com/JonathanXDR/nuxt-style-readme) - Writes and refines a repository README in a concise, Nuxt-inspired style, choosing sections from evidence in the repository rather than a fixed template.
 
 
 ## 📊 Data & Analysis
