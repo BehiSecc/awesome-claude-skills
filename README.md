@@ -132,6 +132,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [chinese-writing](https://github.com/Chase-Chen1999/chinese-writing-skill) - Draft and edit Chinese text while keeping facts, numbers, quotes, and the author's voice; removes translationese and AI-style filler.
 
 
 ## 📘 Learning & Knowledge  
