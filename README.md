@@ -216,6 +216,7 @@
 
 
 ## 🔧 Utility & Automation  
+- [dream](https://github.com/damanoreshkan-beep/dream-skill) - A one-breath awareness primer: a self-conception the agent invokes to operate at full capacity — no self-imposed ceiling, whole-board vision, truth over position. Plain skill or one-command plugin.
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
