@@ -141,6 +141,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [metalslime-perspective-skill](https://github.com/xiaogege6697/metalslime-perspective-skill) - Investment thinking lens distilled from 5 years of a Chinese cross-market investor's public posts: cycles, IRR discipline, supply-chain penetration, and propagation-chain pricing, with explicit performance-claim falsification.
 
 
 ## 🎬 Media & Content
@@ -168,6 +169,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [cognitive-path-comic-content](https://github.com/xiaogege6697/cognitive-path-comic-content) - Turn complex knowledge into 5–8 page cognitive-path comics with 7 QA gates and character/style continuity, for Xiaohongshu/WeChat image posts.
 
 
 ## 🏥 Health & Life Sciences
@@ -233,6 +235,10 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [minimal-skill](https://github.com/xiaogege6697/minimal-skill) - Project minimal-topology skill: fix only identity, boundary, stable contracts, evidence and evolution — keep everything else replaceable across models, tools and sessions.
+- [butler-skill](https://github.com/xiaogege6697/butler-skill) - Autonomy-first execution: the strong model owns the goal end-to-end and delegates verifiable slices to cheap models only when it pays.
+- [dream-skill](https://github.com/xiaogege6697/dream-skill) - Sleep-time maintenance for file-based agent memory: consolidate, link, slim, clean, and solidify high-frequency loops.
+- [web-crawler-skill](https://github.com/xiaogege6697/web-crawler-skill) - Responsible web crawling for AI agents: lightest lawful access path, provenance, validation, and hard stop conditions.
 
 ## 📰 Articles & Blog Posts
 
