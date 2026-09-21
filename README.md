@@ -40,6 +40,7 @@
 
 
 ## 🛠 Development & Code Tools
+- [tldr](https://github.com/SurefireStudios/tldr) - Leads every response with a three-line TL;DR and folds the full detail underneath, so the answer is not buried. Never folds destructive commands, security findings, verbatim errors or diffs. Returns a parseable block for agent-to-agent reports.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
