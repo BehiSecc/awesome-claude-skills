@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [portfolio-mcp](https://github.com/rubenmarcus/portfolio/tree/main/skills/portfolio-mcp) - Connects Claude to a live portfolio MCP server to answer questions about a developer's resume, services and current availability, plus a confirm-gated `book_intro` that sends a project brief.
 
 ## 📰 Articles & Blog Posts
 
