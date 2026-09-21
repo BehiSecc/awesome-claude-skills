@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [spider-dead-code-skill](https://github.com/baytcho/spider-dead-code-skill) - Finds the code a project does not need and proves it. Splits the codebase into individual statements, starts at the entry points and follows the links, so whatever the execution never reaches is reported with its exact file and lines. Python, TypeScript, JavaScript and CSS in one model; a name assembled at runtime is never declared unused.
 
 
 ## 📊 Data & Analysis
