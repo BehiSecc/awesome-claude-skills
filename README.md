@@ -261,6 +261,7 @@
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
+- [knowledge-delta-skills](https://github.com/sergeyizmailov/knowledge-delta-skills) - Skills for media buying, frontend, security, research, and skill authoring, each built by baselining what a model already does unprompted and keeping only the gap.
 - [agent-starter](https://github.com/sneg55/agent-starter) - Skills, hooks, and templates for bootstrapping AI-agent-friendly projects.
 - [kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) - Traditional Chinese-first collection of 22 reusable agent skills with bilingual documentation.
 - [goose-skills](https://github.com/gooseworks-ai/goose-skills) - 125 growth and GTM skills for ads, content, lead generation, outreach, research, and SEO.
