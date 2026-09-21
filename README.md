@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [KERNEL](https://github.com/ariaxhan/kernel-claude) - 27 skills and 10 agents as a Claude Code plugin marketplace that also loads in Codex: hooks that block destructive commands, a one-time human token for irreversible operations, verifiers blind to the builder's reasoning, and a SQLite memory recalled before acting.
 
 
 ## 🤝 Contribution
