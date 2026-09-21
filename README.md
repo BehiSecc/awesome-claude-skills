@@ -199,6 +199,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [yylo-skills](https://github.com/yylo-dev/yylo-skills) - Seven agent skills for YYLO Ledger task management, project discovery, planning, and validated task delivery, with provenance-bound evidence records. Installs for Claude Code, Codex, and Pi via `npx skills add yylo-dev/yylo-skills`.
 
 
 ## 🛡 Security & Web Testing
