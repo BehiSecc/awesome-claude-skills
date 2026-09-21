@@ -86,6 +86,8 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [brainstorm-performance-problem](https://github.com/CodeArq-tech/performance-debugger-skill/tree/main/skills/brainstorm-performance-problem) - Structured interview that turns a vague "it's slow" complaint into a located, measurable symptom with ranked hypotheses and one decisive next measurement.
+- [diagnose-system-performance](https://github.com/CodeArq-tech/performance-debugger-skill/tree/main/skills/diagnose-system-performance) - Evidence-driven decision tree for performance bottlenecks and regressions across latency, CPU, memory and GC, databases, connections, errors, disk, network, and queues.
 
 
 ## 📊 Data & Analysis
