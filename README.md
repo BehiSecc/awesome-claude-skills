@@ -199,6 +199,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [gtdbrain-claude-plugin](https://github.com/minosin/gtdbrain-claude-plugin) - Getting Things Done skills for Claude Code (capture, inbox zero, next actions by context, waiting-for, weekly review) on top of GTD Brain's hosted MCP server with email-code sign-in; same board as the web, iOS and Android apps ([setup](https://gtdbrain.com/connect/claude-code?source=awesome-claude-skills-behisecc)).
 
 
 ## 🛡 Security & Web Testing
