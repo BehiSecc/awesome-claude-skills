@@ -142,6 +142,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [whetstone](https://github.com/TbusOS/whetstone) - Distill a finished dev session into a portable skill package, then hold it to an evidence standard you can run: confidence levels come from a mechanical table, a lesson seen on one platform stays out of the skill body, and facts are appended and marked superseded rather than silently overwritten.
 
 
 ## 🎬 Media & Content
