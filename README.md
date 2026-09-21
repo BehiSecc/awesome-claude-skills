@@ -199,6 +199,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [dev-cookbook](https://github.com/Malloy-yang/Dev-cookbook) - Requirement-aligned development workflow: role-aware pipeline, dual-mode Spec, PM confirmation gate, TDD vertical slices. Zero external dependencies, bilingual EN/zh.
 
 
 ## 🛡 Security & Web Testing
