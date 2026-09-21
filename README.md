@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [Marketing Mindset](https://github.com/axelfreeman/marketing-mindset) - Marketer's decision framework for growth work: how much volume a test needs before its result means anything, when to kill a channel, positioning, offers, and cold outreach.
 
 
 ## 🤝 Contribution
