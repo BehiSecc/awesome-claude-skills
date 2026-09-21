@@ -217,6 +217,7 @@
 
 
 ## 🔧 Utility & Automation  
+- [Famulor Skill](https://github.com/bekservice/Famulor-Skill) - Official tenant-safe skill for operating Famulor's hosted MCP server across assistants, communication history, campaigns, knowledge, automations, telephony, and workspace administration.
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
