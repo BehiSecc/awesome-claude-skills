@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [anti-slop-design](https://github.com/wwewtech/anti-slop-design) - Autonomous Principal Design Technologist. Cures vibe-coded software from AI design slop with curated token archetypes, tactile micro-states, and 7-axis quality gating.
 
 
 ## 📊 Data & Analysis
