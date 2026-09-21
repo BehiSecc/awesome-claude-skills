@@ -89,6 +89,7 @@
 
 
 ## 📊 Data & Analysis
+- [found-by-ai](https://github.com/techhorizonlabs/thl-open/tree/main/skills/found-by-ai) - Live AI-visibility check for any business: the free scan returns visibility and readiness scores, who AI names instead, the fix list, and a shareable report. By areyoufoundbyai.com.
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
