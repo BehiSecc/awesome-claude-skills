@@ -105,6 +105,7 @@
 - [coinpaprika-api](https://github.com/coinpaprika/skills/tree/main/coinpaprika-api) - Crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
 - [dexpaprika-api](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) - Free DEX data across 34 chains: 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 - [gh-star-history](https://github.com/ykdojo/gh-star-history) - Visualize and compare GitHub star history as interactive charts, with regional breakdown of stargazers.
+- [claude-skills-for-business-intelligence](https://github.com/dylnbaker15/claude-skills-for-business-intelligence) - Certified BI charting skill plus a ten-principle doctrine: charts that read at a glance, survive a colour-blind reviewer, and never imply more certainty than the data has.
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
