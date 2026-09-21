@@ -213,6 +213,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [claude-security-skills](https://github.com/NovaCode37/claude-security-skills) - Eight security skills on the Python standard library with no dependencies: secret scanning, Python SAST, prompt-injection testing, plus HTTP header, JWT, Dockerfile, CORS and dependency auditing. Every engine also runs from the CLI and exits non-zero on findings.
 
 
 
