@@ -80,6 +80,7 @@
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
 - [crit](https://github.com/tomasz-tomczyk/crit) - Review and comment on plans, code diffs, and frontend, then send feedback directly to your agent.
+- [multi](https://github.com/szarkans/multi) - Ask Claude, Codex, Gemini, and OpenCode to review the same work independently and compare their answers.
 - [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) - Reconstruct how a feature shipped from local ax session history.
 - [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 23-skill pack for agent orchestration with WIP collision detection and rollback trees.
 - [Superdesign](https://github.com/superdesigndev/superdesign-skill) - Design skill that builds a design system from your codebase and iterates UI drafts on an infinite canvas.
