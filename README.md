@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [stipend](https://github.com/stipend-sh/stipend) - Non-custodial USDC wallet on Base an agent installs itself; per-transaction, per-day and per-counterparty limits and a destination allowlist are enforced in code before signing, not in a prompt.
 
 ## 📰 Articles & Blog Posts
 
