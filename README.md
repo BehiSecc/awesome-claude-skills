@@ -202,6 +202,7 @@
 
 
 ## 🛡 Security & Web Testing
+- [agent-guild-trust](https://github.com/AgentTanuki/agent-guild-plugin/tree/v1.0.0/skills/agent-guild-trust) - Vet agents before delegation or payment, verify portable passports, use escrow, and record signed collaboration outcomes via hosted MCP, HTTP, or A2A.
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
 - [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
 - [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
