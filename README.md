@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [sunge-skill (孙割.skill)](https://github.com/swaylq/sunge-skill) - Write in Justin Sun's ice-cold essay voice (the viral《我的女友景甜》style) and pull the key decisions out of a story. Distills his mind, writing style, and decision-making into one skill.
 
 
 ## 📘 Learning & Knowledge  
