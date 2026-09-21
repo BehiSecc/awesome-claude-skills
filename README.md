@@ -36,6 +36,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [pptx-to-html-trace](https://github.com/JunoChenZt/pptx-to-html-trace) - Rebuild a PowerPoint or PDF slide as HTML matching the original, with overlay and difference views to verify the match on screen.
 
 
 
