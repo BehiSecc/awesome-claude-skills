@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [unslopify](https://github.com/youngfreezy/unslopify) - Deterministic linter and rewrite skill for AI-writing patterns: named rules with a public catalog, CI and pre-commit gates, and a phrase bank that flags repeated phrasing across documents.
 
 
 ## 📘 Learning & Knowledge  
