@@ -275,6 +275,8 @@
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
 
 
+- [sell-unused-tokens](https://github.com/galleonlabs/sell-unused-tokens) - List leftover LLM API credits on tokensto.cash and cash out USDC (Revolut, Monzo, Chime, Zelle direct; Venmo, Cash App, Wise, PayPal after a one-time USDCtoFiat Verify registration).
+
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
