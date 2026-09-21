@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [lamarck](https://github.com/newdee/lamarck-skill) - Governed skill evolution from real usage: hooks watch every invocation, evidence-gated bounded edits with user approval, regression replay from production traces; evolves itself by the same rules. Install: `npx lamarck-skill`.
 
 ## 📰 Articles & Blog Posts
 
