@@ -36,6 +36,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [HTML Docs](https://github.com/raunaqbn/html-docs-skill) - Turn codebases, websites, PDFs, documents, and research topics into source-grounded HTML documents, narrated explainer videos, or complete learning courses; publish and collaborate through the CLI, REST API, and MCP server.
 
 
 
