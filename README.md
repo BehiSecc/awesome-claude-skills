@@ -3,6 +3,7 @@
 | Sponsor | Description |
 |---|---|
 | [<img src="atlas.svg" alt="Atlas Cloud" width="180">](https://www.atlascloud.ai/console/coding-plan) | [Atlas Cloud](https://www.atlascloud.ai/) is a multimodal AI inference platform that gives developers a single AI API to access video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities.<br><br>Check out Atlas Cloud's new coding plan promotion for more budget-friendly API access: [Coding Plan](https://www.atlascloud.ai/console/coding-plan) |
+| <img src="apimart.jpeg" alt="APIMart" width="180"> | [APIMart](https://apimart.ai/) is a low-cost API platform for AI image & video generation — GPT-Image-2 from $0.006/image, 160+ images per dollar. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee.<br><br> Sign up [here](https://apimart.ai/) to get started. |
 
 ## 📚 Table of Contents  
 - [Awesome Claude Skills](#awesome-claude-skills)
