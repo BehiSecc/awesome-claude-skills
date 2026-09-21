@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [dsh-skills-anywhere](https://github.com/noteflowai/dsh-skills-anywhere) - MCP server and Claude Code plugin that serves skills already installed for Claude Code, Codex, Cursor, Gemini CLI and 60+ agents, plus Claude Code marketplaces and any GitHub skills repo, in place with zero copies or symlinks.
 
 
 ## 🤝 Contribution
