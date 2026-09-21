@@ -117,6 +117,7 @@
 - [manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus) - Delegate complex tasks to Manus AI agent for deep research, market analysis, product comparisons, stock analysis, and comprehensive report generation with parallel processing.
 - [paper-search](https://github.com/ykdojo/paper-search) - Search academic papers via OpenAlex (250M+ works, free, no API key needed). Find papers by keyword, look up details by DOI, with sorting and pagination.
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
+- [sktime-cli](https://github.com/siddharth7113/sktime-cli) - Time-series machine learning from the terminal: search sktime's estimator registry, load datasets, and run fit, predict, backtest, and scoring workflows with JSON output and structured errors.
 
 
 ## ✍️ Writing & Research
