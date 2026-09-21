@@ -231,6 +231,7 @@
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
 - [Imprint](https://github.com/ilang-ai/Imprint) - Portable AI collaboration profile for memory, planning, review, debugging, testing, and workflow habits.
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
+- [outbound-master](https://github.com/skyzer/skills/tree/main/outbound-master) - Run outbound and lead gen without sales tools: source, score, research hooks, write, verify addresses, send idempotently, track in an append-only log, and draft replies for human approval.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
