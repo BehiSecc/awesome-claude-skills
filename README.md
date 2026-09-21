@@ -87,6 +87,7 @@
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
 
+- [ios-release-kit](https://github.com/Bkessing/ios-release-kit) - Ships iOS apps from the agent: certificate-wipe-proof signing, TestFlight uploads, and App Store submission with in-app purchases attached the way Apple requires. fastlane lanes plus a skill, extracted from shipped App Store apps.
 
 ## 📊 Data & Analysis
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
