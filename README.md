@@ -169,6 +169,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [seedance-25-prompting](https://github.com/gbeyrouti/seedance-prompting-claude-skill) - Write, optimize, and debug prompts for ByteDance's Seedance 2.5 / 2.0 video model — `@` reference roles, time staging, an AI-UGC realism layer, native audio and lip-sync syntax, and a symptom → fix debug matrix.
 
 
 ## 🏥 Health & Life Sciences
