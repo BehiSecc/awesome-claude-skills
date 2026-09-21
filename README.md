@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [fin-skills](https://github.com/howard-lynn-ye/fin-skills) - 53 Agent Skills for Python quantitative finance (market data, backtesting, options, crypto, China A-shares, LLM trading agents); every claim is dated and marked verified, secondhand, or unverified; also pip-installable.
 
 
 ## 🤝 Contribution
