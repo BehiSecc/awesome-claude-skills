@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [documents-administratifs-francais](https://github.com/contact848/chipie-skills-francais) - French administrative and regulatory filings: loi 1901 nonprofits, urban-policy grants, Qualiopi certification, construction waste registers, GDPR records, furnished-rental leases, e-invoicing. Names the right official form and portal, and the mistakes that get a file rejected. Written natively in French.
 
 ## 📰 Articles & Blog Posts
 
