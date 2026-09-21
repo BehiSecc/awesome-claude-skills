@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [show-me-the-receipts](https://github.com/lohyeulam-stack/show-me-the-receipts) - Receipts-first output discipline: conclusion on line 1, evidence graded (fact/inference/assumption/guess), actions with owner + deadline + deliverable, de-AI-ified writing, ADHD-friendly formatting.
 
 
 ## 📘 Learning & Knowledge  
