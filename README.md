@@ -240,6 +240,7 @@
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
 
 ## 🗂️ Collections
+- [Claude Skills Pro](https://github.com/Hahaknight/claude-skills-pro) - 15 engineering-workflow skills (code review, testing, debugging, security, zero-downtime migrations); 5 free/open-source, bilingual, with a CN handbook.
 
 - [@clawfu/mcp-skills](https://github.com/guia-matthieu/clawfu-skills) - 169 expert-sourced marketing skills (Dunford, Schwartz, Ogilvy, Cialdini) as MCP server with brand memory.
 - [wondelai/skills](https://github.com/wondelai/skills) - 25 agent skills for UX design, marketing/CRO, sales, product strategy, and growth based on books by Norman, Cialdini, Ries, Hormozi, and others.
