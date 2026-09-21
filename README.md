@@ -199,6 +199,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [gardenpatch-x402](https://gardenpatch.xyz/skills/gardenpatch-x402/SKILL.md) - Call seven Gardenpatch growth coaches (strategy, sales, marketing, ops, retention, tech, people) over x402 with USDC on Base; hardcoded catalog, per-mode prices, no API key.
 
 
 ## 🛡 Security & Web Testing
