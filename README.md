@@ -40,6 +40,7 @@
 
 
 ## 🛠 Development & Code Tools
+- [oneroster-csv-validator](https://github.com/wwewtech/oneroster-csv-validator) - Validates 1EdTech OneRoster 1.1 and 1.2 CSV roster sets and relational integrity.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
