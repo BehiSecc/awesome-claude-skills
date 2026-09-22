@@ -163,6 +163,7 @@
 - [creative-director-skill](https://github.com/smixs/creative-director-skill) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks.
 - [Dashmotion](https://github.com/csthink/dashmotion) - A Claude skill that turns a description or Mermaid source into a self-contained animated technical diagram.
 - [vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) - Rewrite a rough idea into a model-ready text-to-video prompt for Seedance, Sora, Kling, Veo, and more.
+- [3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) - Turn any flat logo into a 3D spinning coin (React Three Fiber) whose chrome rim traces the real outline.
 - [Motion Graphics Skills](https://github.com/iart-ai/motion-skills) - 50 skills across 14 installable packs for motion graphics, animation & video.
 - [claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - Let Claude or any LLM watch a video via scene-aware keyframes and a timestamped transcript.
 - [Vox Director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer or ad video.
