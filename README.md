@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [prove-it](https://github.com/kavatana/agent-workspace-starter/tree/main/.claude/skills/prove-it) - Proves each new test can actually fail: snapshots the files by SHA-256, applies one mutation that removes what the test protects, runs the test you name, restores, verifies every hash, and deletes the backups only then. `--recover` finishes an interrupted run. Ships alongside an agent contract, a reviewer subagent with no write tools and a session-start hook.
 
 
 ## 📊 Data & Analysis
