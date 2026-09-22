@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [erzycall-agent-skills](https://github.com/Erzy-Inc/erzycall-agent-skills) - 5 agent-facing skills that ship with the ErzyCall MCP server, which lets an agent or app make and take real phone calls through MCP or API.
 
 
 ## 🤝 Contribution
