@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [indie-marketing-skills](https://github.com/josephbedminster/indie-marketing-skills) - Claude Code plugin marketplace with 17 growth skills for solo founders: PostHog funnel investigations and A/B test reading, ChatGPT Ads and Apple Search Ads CLIs, App Store metadata and ASO, AI UGC video ads, and programmatic SEO internal linking.
 
 
 ## 🤝 Contribution
