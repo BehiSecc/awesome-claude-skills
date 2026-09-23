@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [ux-skill](https://github.com/Laith0003/ux-skill) - Design intelligence for Claude Code: a deterministic anti-AI-slop linter (150+ rules) that also renders pages to catch off-center and overflowing layout in LTR and RTL, 160 brand specs, and Arabic-first RTL rules. Offline, MIT.
 
 
 ## 📊 Data & Analysis
