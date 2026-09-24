@@ -31,7 +31,7 @@
 
 ## 📄 Document Skills  
 - [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.  
-- [equalang](https://github.com/equalang/equalang-skill) - Translate documents, slides, spreadsheets and e-books with layout preservation where supported; transcribe recordings. Requires an Equalang API key and credits.
+- [Equalang Translation](https://github.com/equalang/equalang-skill) - Translate documents, slides, spreadsheets and e-books with layout preservation where supported; transcribe recordings. Requires an Equalang API key and credits.
 - [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) - Extract text, tables, metadata, merge & annotate PDFs.  
 - [polaris-datainsight-doc-extract](https://github.com/jacob-g-park/polaris-datainsight-doc-extract) - Extract structured data from Office documents (DOCX, PPTX, XLSX, HWP, HWPX) using the Polaris AI DataInsight Doc Extract API.
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
