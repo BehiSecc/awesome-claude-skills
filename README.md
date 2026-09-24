@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [story-skills](https://github.com/danjdewhurst/story-skills) - Plan, track, and draft fiction in markdown with 16 skills for story bibles, characters, worldbuilding, plot, scenes, and chapters, plus a CLI that flags continuity errors like characters appearing after their death.
 
 
 ## 📘 Learning & Knowledge  
