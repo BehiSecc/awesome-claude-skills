@@ -133,7 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
-
+- [adapting-novels-to-screenplays](https://github.com/almakamberi/adapting-novels-to-screenplays) - Adapts any novel into a feature screenplay in approved stages: you rule on every cut, every scene cites its chapter, and nothing is invented. Outputs Fountain + PDF.
 
 ## 📘 Learning & Knowledge  
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
