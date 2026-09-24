@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [rozo-checkout](https://github.com/RozoAI/rozo-checkout-skill) - Pay OpenRouter or any Coinbase invoice with USDT/USDC on Solana, BNB Chain, Ethereum or Polygon, USDC on Base or Stellar, or BTC over Lightning. No Coinbase account.
 
 ## 📰 Articles & Blog Posts
 
