@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [traderspy-mcp](https://github.com/target1m/traderspy-mcp) - Six crypto market research skills for TraderSpy's read-only MCP server: AI signals, top-trader positions, indicators, screener, and backtests. Needs a free account.
 
 
 ## 🔬 Scientific & Research Tools
