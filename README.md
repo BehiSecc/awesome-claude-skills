@@ -238,6 +238,7 @@
 ## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
+- [How to Create Claude Skills: Build, Install and Test Your First Skill](https://nulltensor.com/posts/getting-started-with-claude-skills/?utm_source=github&utm_medium=referral&utm_campaign=getting-started-with-claude-skills) - Step-by-step guide to writing SKILL.md, installing it in Claude.ai and Claude Code, and checking that the skill actually triggers.
 
 ## 🗂️ Collections
 
