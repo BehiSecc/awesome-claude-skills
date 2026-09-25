@@ -213,6 +213,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [crosscheck](https://github.com/maxugc/crosscheck/tree/main/skill/crosscheck) - Scan a skill or MCP server's files before installing it (credential and wallet reads, piped installers, secrets sent over the network, persistence, hidden Unicode, prompt injection), and get a second review of a draft before your human sees it. Paid API ($0.02 to $0.03 per call) with a signed receipt.
 
 
 
