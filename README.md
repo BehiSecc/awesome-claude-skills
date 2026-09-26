@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [grill](https://github.com/mtangoz/grill/tree/main/skills/grill) - Send a decision to a judge model from a different AI company that argues the case against it, names the cheapest test for each doubt, and gives a verdict.
 
 
 ## 📘 Learning & Knowledge  
