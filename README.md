@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [gmail-filter-architect](https://github.com/kisssam6886/gmail-filter-architect) - Builds a full Gmail filter set from your own senders, checks every rule against real mail before import, and never archives bills, codes or security alerts.
 
 ## 📰 Articles & Blog Posts
 
