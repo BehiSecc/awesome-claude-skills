@@ -135,6 +135,8 @@
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
 
 
+- [Hyacehila/humanizer-zh-next](https://github.com/Hyacehila/humanizer-zh-next) - Cross-agent Chinese writing skill with 33 genre-aware patterns, an academic mode, and safeguards for facts and citations.
+
 ## 📘 Learning & Knowledge  
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
