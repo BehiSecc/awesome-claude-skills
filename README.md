@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [AgentHub](https://myagenthub.cn) - Chinese directory for discovering MCP servers and agent skills, with one-click install for Cursor, Claude Code, VS Code, Trae.
 
 
 ## 🤝 Contribution
