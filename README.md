@@ -199,6 +199,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [send-cold-email](https://github.com/AddisonHoff/sendsets/tree/main/skills/send-cold-email) - Send a cold email sequence to a lead list through Sendsets: mailbox check, merge-field validation, an approved test send, launch only on explicit instruction, and replies.
 
 
 ## 🛡 Security & Web Testing
