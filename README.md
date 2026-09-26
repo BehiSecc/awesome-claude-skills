@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [adversarial-review](https://github.com/RevolutionLA/adversarial-review) - Three-party adversarial code-review loop: hostile blue-team audit with evidence chains, independent third-party re-verification, neutral adjudication. Dogfooded on its own repo — 25 defects caught and closed before the v2.1.0 release.
 
 
 ## 📊 Data & Analysis
