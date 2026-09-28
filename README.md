@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [geo-playbook](https://github.com/Canlah-AI/geo-playbook) - Audit a website for visibility in ChatGPT and Google AI answers, with rules measured on 110 buyer questions and 46 cited-page blueprints.
 
 
 ## 📘 Learning & Knowledge  
