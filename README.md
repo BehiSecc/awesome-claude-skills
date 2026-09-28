@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [german-tax-skills](https://github.com/L1nch-lab/german-tax-skills) - German tax, social security and benefit calculations (net salary, income tax, severance pay, parental allowance, municipal tax rates; 120 endpoints) through the rechner-hub.de API instead of model estimates. Needs a RapidAPI key; free plan with 50 requests/day.
 
 
 ## 🔬 Scientific & Research Tools
