@@ -234,7 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
-
+- [Project Cross Migration](https://github.com/zhouxin121/project-cross-migration-free) - Migrate an agent's full project state (conversations, memory, persona, tools, environment) across frameworks or machines with five-layer backup/restore; 1,418-message real migration verified on Claude Code / Codex / OpenClaw. Python stdlib only, MIT.
 ## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
