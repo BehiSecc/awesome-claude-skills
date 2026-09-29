@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [growthcab-gtm-skills](https://github.com/federicodon/growthcab-gtm-skills) - Four B2B outbound diagnostics: sending domain DNS check, cold email grader, lead list CSV QA, and a meeting show rate benchmark.
 
 
 ## 🤝 Contribution
