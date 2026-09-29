@@ -260,6 +260,7 @@
 - [linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - LinkedIn marketing skill collection for posts, comments, audits, profile optimization, and content planning.
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
+- [Honeypot](https://github.com/oidsdev/honeypot) - Open, machine-readable index of AI agent skills. Search, JSON API, llms.txt; new skills submitted by pull request.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
 - [agent-starter](https://github.com/sneg55/agent-starter) - Skills, hooks, and templates for bootstrapping AI-agent-friendly projects.
 - [kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) - Traditional Chinese-first collection of 22 reusable agent skills with bilingual documentation.
