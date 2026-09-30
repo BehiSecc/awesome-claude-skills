@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [skillmem](https://github.com/liza-studio/skillmem/tree/main/skills/skillmem) - Procedural memory for Claude Code: recall how similar tasks were solved, record new skills, reinforce what works. Requires the skillmem package and its local SQLite MCP server (`pip install skillmem`).
 
 ## 📰 Articles & Blog Posts
 
