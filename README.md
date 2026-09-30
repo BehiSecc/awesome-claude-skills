@@ -169,6 +169,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [three.ws 3D Studio](https://github.com/nirholas/three.ws/tree/main/public/skills/3d-studio) - Generate textured 3D models (GLB) and rigged, animation-ready avatars from a text prompt, auto-rig an existing model, and embed it on a web page, via a free keyless endpoint.
 
 
 ## 🏥 Health & Life Sciences
