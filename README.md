@@ -234,7 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
-
+- [MindVault](https://github.com/zhouxin121/mindvault) by [zhouxin121](https://github.com/zhouxin121) - Local-first agent memory: archives conversations into searchable JSONL shards, distills rules, generates project snapshots; prevents context loss across sessions. 5,000+ rounds field-tested; six-script consistency checks. MIT.
 ## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
