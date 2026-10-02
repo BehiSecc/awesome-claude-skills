@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [ad-copy-agency](https://github.com/5hyuns/ad-copy-agency-skill) - Write Korean ad headlines through an ad agency workflow of separate agents: planner brief, creative director reviews, three creative teams, and a client fact and ad-law check.
 
 
 ## 📘 Learning & Knowledge  
