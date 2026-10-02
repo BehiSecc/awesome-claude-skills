@@ -40,6 +40,7 @@
 
 
 ## 🛠 Development & Code Tools
+- [browser-extension-launch](https://github.com/xiehuan123/browser-extension-launch) - Build Chrome Manifest V3 extensions from plain-language requirements, with real-browser acceptance, repeat-use checks, and Chrome Web Store submission preparation. Shared skill for Claude Code and other agent hosts; requires an extension-capable controlled browser for runtime verification.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
