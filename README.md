@@ -275,6 +275,8 @@
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
 
 
+- [gtm-operator-skills](https://github.com/cmj-hub/gtm-operator-skills) - Free GTM operator skills for Claude Code; catalog https://jaymountconsulting.com/skills.
+
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
