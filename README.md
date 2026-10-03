@@ -263,6 +263,7 @@
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
 - [agent-starter](https://github.com/sneg55/agent-starter) - Skills, hooks, and templates for bootstrapping AI-agent-friendly projects.
 - [kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) - Traditional Chinese-first collection of 22 reusable agent skills with bilingual documentation.
+- [turkce-claude-skills](https://github.com/maderinmad/turkce-claude-skills) - 10 Turkish-language skills for everyday work in Turkey: TDK spelling check, official petitions, formal e-mail, KVKK privacy pre-check, Excel report summaries, CVs and more.
 - [goose-skills](https://github.com/gooseworks-ai/goose-skills) - 125 growth and GTM skills for ads, content, lead generation, outreach, research, and SEO.
 - [PM Skills](https://github.com/mohitagw15856/pm-claude-skills) - 771 professional skills across 35 professions, including PRDs, postmortems, and negotiation simulators.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents covering SEO, copywriting, cold email, pricing, CRO, ads, and analytics.
