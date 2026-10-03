@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [pr-proof](https://github.com/TanayK07/pr-proof) - Validates AI code review comments (from humans, CodeRabbit, Copilot or agents) against the actual code and gives each a verdict with file:line evidence. On Code Review Bench it removed 34% of CodeRabbit's noise while keeping 93.5% of real bugs.
 
 
 ## 📊 Data & Analysis
