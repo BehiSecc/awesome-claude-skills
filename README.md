@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [grill-my-work](https://github.com/Minerva67/grill-my-work) - Interviews you about your own work to surface decision logic, rejected alternatives and honest attributions, then writes retrospective notes.
 
 
 ## 📘 Learning & Knowledge  
@@ -234,6 +235,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [folder-organizer](https://github.com/Minerva67/folder-organizer) - Organizes messy folders by reading file contents first: content-based dedupe, classification and renaming, with a staging trash instead of hard deletes.
 
 ## 📰 Articles & Blog Posts
 
