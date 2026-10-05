@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [ste-data-ai](https://github.com/paukode/simplified-technical-english-data-ai-skill) - Write and check Simplified Technical English (ASD-STE100 principles) for runbooks, data contracts, model cards, and prompts in IT, cloud, data, and AI.
 
 
 ## 📘 Learning & Knowledge  
