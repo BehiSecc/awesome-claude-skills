@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [aident-skill](https://github.com/Aident-AI/aident-skill) - Skill for [Aident Loadout](https://aident.ai): lets Claude Code and other agents search and run actions across 1,000+ apps and 400+ expert-built Skills, with credentials kept in a vault and every action logged.
 
 ## 📰 Articles & Blog Posts
 
