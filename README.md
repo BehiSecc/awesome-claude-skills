@@ -36,6 +36,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [lecture-ppt-workflow](https://github.com/hhhmike240-maker/lecture-ppt-workflow) - Turn lecture notes into editable teaching slides with computed layouts, speaker notes, click reveals and template reuse.
 
 
 
