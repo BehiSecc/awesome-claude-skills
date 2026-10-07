@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Data-backed email marketing skill: automation flows, deliverability triage, copy de-slopping, AI email design, ESP control via MCP with send-safety gates, compliance and 19 industry playbooks.
 
 ## 📰 Articles & Blog Posts
 
