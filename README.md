@@ -142,6 +142,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [podcast-wiki](https://github.com/HagaiHen/podcast-wiki) - Turn the podcasts you finish on Spotify into an LLM wiki: topic pages synthesized across episodes, every claim cited, disagreements kept, plus lint and consolidation skills.
 
 
 ## 🎬 Media & Content
