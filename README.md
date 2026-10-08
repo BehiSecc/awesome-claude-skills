@@ -273,7 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
-
+- [shiji](https://github.com/ZhongQuinnKing/shiji) - Chinese-language mentor skill collection for college students and new graduates: 100+ Markdown guides across resumes, job hunting, thesis writing, workplace norms, study methods, and study-abroad planning, plus 8 fill-in templates.
 
 ## 🤝 Contribution
 
