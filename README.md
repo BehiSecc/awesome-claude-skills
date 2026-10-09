@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [bestax-skills](https://github.com/allxsmith/bestax/tree/main/skills) - Build React apps with Bestax on Bulma v1: forms, page layouts, theming and dark mode, icons, CSS size, custom components, and migration from older React Bulma libraries.
 
 
 ## 📊 Data & Analysis
