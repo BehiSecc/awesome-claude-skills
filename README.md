@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [use-telegram-serverless](https://github.com/rijans/agent-skills/tree/main/skills/use-telegram-serverless) - Build, ship, and scale simple or full-stack Telegram bots and Mini Apps on Telegram Serverless with V8 JS, SQLite (`sdk/db`), Mini App RPC, and `tgcloud`.
 
 
 ## 📊 Data & Analysis
@@ -133,6 +134,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [humanize-text](https://github.com/rijans/agent-skills/tree/main/skills/humanize-text) - Write and rewrite natural, specific, human-sounding prose while preserving voice, meaning, nuance, and facts.
 
 
 ## 📘 Learning & Knowledge  
