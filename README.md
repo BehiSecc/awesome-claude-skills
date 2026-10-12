@@ -142,6 +142,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [workshopskill](https://github.com/formlm/workshopskill) - 46 ready-to-run facilitation activity folders for workshops and trainings: a minute-by-minute run sheet, debrief script and pre/post measure in every SKILL.md.
 
 
 ## 🎬 Media & Content
