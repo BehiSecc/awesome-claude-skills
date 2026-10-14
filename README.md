@@ -120,6 +120,7 @@
 
 
 ## ✍️ Writing & Research
+- [b2b-marketing-playbooks](https://github.com/zachbrown29/lintel-marketing-playbooks) - Diagnose a B2B software marketing problem, then answer from the one framework that owns it with build steps, decision rules, and benchmarks. Seed to Series B.
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
 - [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Create internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc)
