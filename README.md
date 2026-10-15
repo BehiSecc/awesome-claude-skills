@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [rhythm](https://github.com/tadelstein9/editor-flags/tree/main/rhythm) - Gives expository prose one thesis and a topic sentence at the head of each paragraph; a companion program tests the thesis and flags sound echoes.
 
 
 ## 📘 Learning & Knowledge  
