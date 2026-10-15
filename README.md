@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [Claudio-Assistant](https://github.com/JoeBosi/Claudio-Assistant) - Claude Code project folder with 10 skills that turns Claude into an office assistant for non-technical professionals: first-start interview, learns from example documents, local plain-text memory, drafts with a review checklist. Windows/macOS/Linux, docs in EN/IT/FR/DE.
 
 ## 📰 Articles & Blog Posts
 
