@@ -288,3 +288,5 @@ You can also open an **Issue** 🐛 if you spot something that needs fixing.
 ## 📬 Contact
 
 If you want to contact me, you can reach me on [X](https://x.com/Behi_Sec).
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Skill / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure `SKILL.md` and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with Foundry EIP-1153 transient-storage smart contracts (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`), 0%-fee Morpho Blue flash-loan execution, and on-chain Merkle commitments for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
