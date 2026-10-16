@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [prodready](https://github.com/human-stuff/prodready) - Takes an app from localhost to production: finds machine-only config, packs it in Docker, boots it from a fresh clone, checks migrations and backups, writes a tested deploy manual, deploys, and checks the live URL.
 
 
 ## 📊 Data & Analysis
