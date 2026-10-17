@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [lead-finder](https://github.com/MachGTM/lead-finder) - Find B2B companies that fit your customer and are buying now, with a source and quote for every claim and a deterministic score. Checks 7 public job boards for hiring signals. No API key.
 
 
 ## 🔬 Scientific & Research Tools
