@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [cygnix-seo-skills](https://github.com/cygnixlabs-cmd/cygnix-seo-skills) - 6 no-API-key SEO and AI search skills: keyword clustering, search intent, GSC cannibalization and content decay, llms.txt and AI crawler check, and a one-page AI visibility score.
 
 
 ## 🤝 Contribution
