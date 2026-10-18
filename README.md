@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [AI-Native SDLC](https://github.com/ghiaog123/ai-native-sdlc) - Six-stage SDLC loop for Claude Code and Codex where each stage commits one Markdown artifact and stops at a human gate, with hooks that refuse source writes no approved plan covers.
 
 
 ## 🤝 Contribution
