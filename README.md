@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor) - Read-only shell script (MIT, no dependencies) with 30 checks for why scheduled AI-agent chains (cron, launchd, systemd) stop silently, plus a missed-run alarm; ships a SKILL.md and an MCP server.
 
 ## 📰 Articles & Blog Posts
 
