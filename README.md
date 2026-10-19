@@ -86,6 +86,9 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [security-audit](https://github.com/WST2002/claude-code-skills/tree/main/skills/security-audit) - Find exploitable vulnerabilities in any codebase with file:line evidence, an attack scenario and a fix.
+- [code-review](https://github.com/WST2002/claude-code-skills/tree/main/skills/code-review) - Review a PR, branch or diff for real defects, each with a concrete failing scenario.
+- [figma-design-compare](https://github.com/WST2002/claude-code-skills/tree/main/skills/figma-design-compare) - Check a built web or mobile screen against its Figma frame using screenshots and exact font, color and spacing values.
 
 
 ## 📊 Data & Analysis
