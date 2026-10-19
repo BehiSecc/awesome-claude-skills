@@ -238,6 +238,7 @@
 ## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
+- [Why you should not install unvetted AI agent skills](https://aiskills402.com/blog/agent-skills-security-risks) - Sourced guide to malicious skills (ClawHavoc, Snyk ToxicSkills, Datadog on Claude Code `!` commands) with a 7-step pre-install checklist. Disclosure: published by a skills store.
 
 ## 🗂️ Collections
 
