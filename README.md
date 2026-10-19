@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [autopilot](https://github.com/DecodedXR/claude-workflow-skills/tree/main/skills/autopilot) - Picks the next task that needs no human decision, builds it test-first, has an independent adversarial verifier check it, and lands it via a PR that auto-merges only on green CI.
 
 ## 📰 Articles & Blog Posts
 
