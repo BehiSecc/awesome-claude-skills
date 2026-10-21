@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [bro](https://github.com/luchasarie/bro-skill) - Re-explains the assistant's last reply (or pasted text) in plain language when it was too dense.
 
 
 ## 📘 Learning & Knowledge  
@@ -199,6 +200,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [guided-goal](https://github.com/luchasarie/guided-goal) - Interviews you and turns rough intent into a completion contract (objective, success criteria, verification, boundaries, stop conditions) before the agent starts.
 
 
 ## 🛡 Security & Web Testing
@@ -234,6 +236,8 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [feedback-loop](https://github.com/luchasarie/feedback-loop) - Turns frustration with an agent into an evidence-backed, approval-gated improvement plan instead of silent self-edits.
+- [agent-cleanup](https://github.com/luchasarie/agent-cleanup) - Frees disk space AI coding agents leave behind: merged git worktrees, stale branches, node_modules, package caches and session logs. Asks before deleting.
 
 ## 📰 Articles & Blog Posts
 
