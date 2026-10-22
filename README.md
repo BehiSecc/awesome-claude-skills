@@ -226,6 +226,7 @@
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 - [linkedin](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via Linked API — fetch profiles, search people/companies, send messages, manage connections, create posts. Supports Sales Navigator.
 - [moodtrip-hotel-search](https://github.com/adiny/moodtrip-hotel-search) - Hotel search, comparison, reviews, pricing, and booking handoff via MoodTrip.ai MCP server. 12 tools including semantic search, room matching, and price intelligence.
+- [roles-em-sp](https://github.com/DanRioDev/roles-em-sp-mcp) - Cultural, artistic, and gastronomic outing concierge for São Paulo, Brazil (`search_roles`, `get_role_details`, `list_categories_and_regions`) via the Rolês em SP remote OAuth 2.1 MCP server (`https://rolesemsp.com.br/mcp`) paired with live web schedule, dietary, and budget verification.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
