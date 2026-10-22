@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [hiring-skills](https://github.com/Ruzora/hiring-skills) - 21 skills for hiring software engineers: scorecards, resume triage, fake-candidate checks, interview kits and offers.
 
 
 ## 🤝 Contribution
