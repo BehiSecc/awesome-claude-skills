@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [datawebot](https://github.com/datawebot/datawebot-mcp/tree/main/skills/datawebot) - Ecommerce product data via the hosted datawebot MCP server: product search across online shops, every seller's price with direct links, and Amazon and Shopify extraction Jobs. 200 free trial credits.
 
 
 ## 🔬 Scientific & Research Tools
