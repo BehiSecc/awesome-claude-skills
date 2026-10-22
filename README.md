@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [eddyy-skill-orchestrator](https://github.com/yanmeng0113-ctrl/eddyy-skill-orchestrator) - Plans multi-step Skill/MCP pipelines with a route card, locked anchors and cost/risk confirmation gates.
 
 ## 📰 Articles & Blog Posts
 
