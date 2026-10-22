@@ -134,6 +134,7 @@
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
 
+- [amazon-listing-checker](https://github.com/MelMayssonOwen/agent-skills/tree/main/skills/amazon-listing-checker) - Local script that checks pasted listing copy for length, structure, repetition, risky claims, and keyword coverage. By [Listingtonic](https://listingtonic.com/?utm_source=behisecc&utm_medium=skill&utm_campaign=agent-skills&utm_content=amazon-listing-checker).
 
 ## 📘 Learning & Knowledge  
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
@@ -143,6 +144,7 @@
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
 
+- [clef-music-tools](https://github.com/MelMayssonOwen/agent-skills/tree/main/skills/clef-music-tools) - Transpose chords, spell piano chords, map guitar tab to notes, and run note-reading drills. By [Clef](https://clefdrills.com/?utm_source=behisecc&utm_medium=skill&utm_campaign=agent-skills&utm_content=clef-music-tools).
 
 ## 🎬 Media & Content
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
@@ -170,6 +172,8 @@
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
 
+- [timetopost-social-scheduler](https://github.com/MelMayssonOwen/agent-skills/tree/main/skills/timetopost-social-scheduler) - Draft per-platform social posts and propose times; nothing is scheduled without approval. Uses the [TimeToPost](https://timetopost.co/?utm_source=behisecc&utm_medium=skill&utm_campaign=agent-skills&utm_content=timetopost-social-scheduler) MCP.
+- [timetopost-autoseo-blog](https://github.com/MelMayssonOwen/agent-skills/tree/main/skills/timetopost-autoseo-blog) - Research topics and generate SEO blog drafts that stay in human review. Uses the [TimeToPost](https://timetopost.co/?utm_source=behisecc&utm_medium=skill&utm_campaign=agent-skills&utm_content=timetopost-autoseo-blog) MCP.
 
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
@@ -200,6 +204,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 
+- [toolfound-launch-kit](https://github.com/MelMayssonOwen/agent-skills/tree/main/skills/toolfound-launch-kit) - Research a category and prepare a confirmed product-directory submission on [Toolfound](https://toolfound.com/?utm_source=behisecc&utm_medium=skill&utm_campaign=agent-skills&utm_content=toolfound-launch-kit).
 
 ## 🛡 Security & Web Testing
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
