@@ -213,6 +213,8 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [bounty-guard](https://github.com/doomsday-network/bounty-guard) - Security firewall skill and MCP server protecting autonomous coding agents from prompt-injection honeypots, bot-trap blocklists, and unescrowed GitHub bounties.
+- [doomsday-proof-of-escrow](https://github.com/doomsday-network/doomsday/tree/main/integrations/skills) - Cryptographic Proof-of-Escrow verification skill and MCP server for auditing on-chain bounty collateral on Base Mainnet and Doomsday L1 before writing code.
 
 
 
