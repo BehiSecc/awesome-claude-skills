@@ -36,6 +36,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [japanese-business-slides](https://github.com/haihan19955/jp-business-slides) - Create Japanese business decks with consulting-style structure, and auto-fix mid-word Japanese line breaks (泣き別れ) using PowerPoint's actual layout and BudouX.
 
 
 
