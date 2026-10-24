@@ -86,7 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
-
+- [roblox-simulator-economy](https://github.com/2328312928-commits/roblox-luau-skill/tree/main/skills/roblox-simulator-economy) - Design and balance Roblox simulator/tycoon economies in Luau: upgrade cost curves, rebirth pacing, offline earnings, big-number display and paid-random-item odds disclosure, with a Lune pacing calculator.
 
 ## 📊 Data & Analysis
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
