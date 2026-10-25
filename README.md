@@ -273,7 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
-- [agent-skills](https://github.com/milad-ahmd/agent-skills) - 31 skills for developers and marketers: PR review, secret scanning, migrations, plus Instagram, TikTok, and YouTube content workflows.
+- [agent-skills](https://github.com/milad-ahmd/agent-skills) - 41 skills for developers and marketers: an agent per social platform (Instagram, TikTok, YouTube, LinkedIn, X, and more) plus dev workflows like PR review and secret scanning.
 
 
 ## 🤝 Contribution
