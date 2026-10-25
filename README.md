@@ -117,6 +117,7 @@
 - [manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus) - Delegate complex tasks to Manus AI agent for deep research, market analysis, product comparisons, stock analysis, and comprehensive report generation with parallel processing.
 - [paper-search](https://github.com/ykdojo/paper-search) - Search academic papers via OpenAlex (250M+ works, free, no API key needed). Find papers by keyword, look up details by DOI, with sorting and pagination.
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
+- [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ open skills for literature review, hypothesis design, data analysis, paper writing, citation checks, and peer review.
 
 
 ## ✍️ Writing & Research
@@ -213,6 +214,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [Skill Doctor](https://github.com/KalarisLabs/Skill-Doctor) - Offline scanner (CLI and MCP server) that checks skill files and MCP manifests for prompt injection, exfiltration, and nine other threat classes before an agent loads them.
 
 
 
