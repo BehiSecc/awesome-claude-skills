@@ -36,6 +36,8 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [ipo-offer-document-review](https://github.com/parinshahAIbuilder/ipo-offer-document-review) - Forensic review of Indian IPO offer documents (DRHP/RHP) against SEBI ICDR, LODR, Companies Act, Schedule III and Ind AS, with a severity-graded report.
+- [annual-report-review](https://github.com/parinshahAIbuilder/annual-report-review) - Pre-signing review of a listed Indian company's annual report: casting checks, note tie-out, Ind AS, Schedule III, CARO and SEBI disclosures.
 
 
 
@@ -273,6 +275,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [india-finance-agent-skills](https://github.com/parinshahAIbuilder/india-finance-agent-skills) - 8 Indian finance & accounts skills: GSTR-2B ITC, TDS, MSME 43B(h), BRS, trial balance close, budget vs actual, Ind AS 109 ECL and JE testing.
 
 
 ## 🤝 Contribution
