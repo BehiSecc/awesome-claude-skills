@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [lemonwrench](https://github.com/bpawnzZ/lemonwrench) - Automotive repair research: resolves the exact vehicle in free OEM service manuals (69 makes, 1960-2025) and returns the procedure, torque specs and labelled figures, cross-checked against a parts catalog and field notes. Stdlib Python, no API key.
 
 ## 📰 Articles & Blog Posts
 
