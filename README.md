@@ -83,6 +83,8 @@
 - [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) - Reconstruct how a feature shipped from local ax session history.
 - [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 23-skill pack for agent orchestration with WIP collision detection and rollback trees.
 - [Superdesign](https://github.com/superdesigndev/superdesign-skill) - Design skill that builds a design system from your codebase and iterates UI drafts on an infinite canvas.
+- [agy-claude-crash-guard-kit](https://github.com/jashory/agy-claude-crash-guard-kit) - Prevents and diagnoses HTTP 400 INVALID_ARGUMENT crashes, encrypted PDF trajectory poisoning, and infinite stop-hook loops in Claude Code and multi-agent workflows.
+- [infinite-llm-fallback-router](https://github.com/jashory/infinite-llm-fallback-router) - Zero-dependency intelligent multi-provider LLM fallback router with exponential backoff, health scoring, and local proxy support for autonomous agents.
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
@@ -213,6 +215,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [mcp-agent-security-auditor](https://github.com/jashory/mcp-agent-security-auditor) - Static security analyzer and hardening skill for Model Context Protocol (MCP) server configs, agent hooks, and SKILL.md files.
 
 
 
