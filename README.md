@@ -238,6 +238,7 @@
 ## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
+- [Claude finance plugin, skill by skill](https://agentsfinance.io/entries/guide-claude-finance-plugin-skills-prompts-2026/) - Guide to the eight skills in Anthropic's open-source finance plugin (journal entries and JE review, reconciliation, financial statements, variance analysis, SOX testing, close management, audit support), each with a worked example and a copy-ready prompt
 
 ## 🗂️ Collections
 
