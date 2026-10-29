@@ -199,6 +199,8 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [session-handoff](https://github.com/happy-program-zero/loop-stop/tree/main/session-handoff) - Writes a short HANDOFF.md from real command output so the next session can pick up where you stopped.
+- [ask-before-building](https://github.com/happy-program-zero/loop-stop/tree/main/ask-before-building) - Asks up to 5 questions with a recommended answer, agrees a 5-line plan, then builds.
 
 
 ## 🛡 Security & Web Testing
@@ -234,6 +236,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [loop-stop](https://github.com/happy-program-zero/loop-stop/tree/main/loop-stop) - Gives long-running sub-tasks a brief, a limit and a stop rule so loops stop burning quota.
 
 ## 📰 Articles & Blog Posts
 
