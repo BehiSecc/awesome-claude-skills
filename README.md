@@ -171,6 +171,8 @@
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
 
 
+- [Tellers video-player](https://github.com/tellers-ai/skills/tree/main/plugins/video-player/skills/video-player) - Edit local videos with cuts, titles, layers and effects; preview, manually refine the timeline and export MP4 in the browser. No account or footage upload required. [Demo and setup](https://tellers.ai/skills).
+
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
