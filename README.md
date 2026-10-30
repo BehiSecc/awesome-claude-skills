@@ -89,6 +89,7 @@
 
 
 ## 📊 Data & Analysis
+- [ComputeFirst](https://github.com/321zz321/computefirst-skill) - Agent skill for deterministic calculations, identifier validation, and data transforms through a free hosted MCP service; no API key required.
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
