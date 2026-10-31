@@ -36,6 +36,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [signbee](https://github.com/signbee/skill) - Document signing for AI agents — send Markdown or PDF contracts for two-party e-signing with SHA-256 certified audit trails, OTP verification, and webhooks.
 
 
 
