@@ -213,6 +213,9 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [flutter-audit-agent](https://github.com/MBotirjonDev/flutter-audit-agent) - Security audit skill for Flutter and Dart apps with a zero-dependency scanner: secrets in the binary, insecure storage, disabled TLS checks, WebView and deep link chains, open Firebase rules. Mapped to OWASP MASVS.
+- [supabase-rls-audit](https://github.com/MBotirjonDev/supabase-rls-audit) - Audit Supabase Row Level Security by replaying migrations: tables without RLS, permissive policies, user_metadata checks, security definer views and functions, leaked service_role keys.
+- [telegram-miniapp-audit](https://github.com/MBotirjonDev/telegram-miniapp-audit) - Security audit skill for Telegram bots and Mini Apps: initData validation, bot token leaks, webhook secrets and Stars payment flows.
 
 
 
