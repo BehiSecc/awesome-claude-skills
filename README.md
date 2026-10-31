@@ -40,6 +40,7 @@
 
 
 ## 🛠 Development & Code Tools
+- [SDD](https://github.com/fpapleux/sdd-skill) - Spec-driven development for Claude Code and Codex with operator approval gates, test-first evidence, and living specifications.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
