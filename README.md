@@ -89,6 +89,7 @@
 
 
 ## 📊 Data & Analysis
+- [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/arcmira) - Search indexed YouTube and podcast transcripts for timestamped quotes, speaker appearances, sponsors and recommendations through MCP. Requires an Arcmira account. [Arcmira](https://arcmira.com) · [API docs](https://arcmira.com/docs).
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
