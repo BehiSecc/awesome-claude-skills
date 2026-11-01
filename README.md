@@ -278,6 +278,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [Headcount](https://github.com/cbrock84/headcount) - Agent organization structured as a company: 15+ departments and 125+ skills (legal, finance, security, ops), each citing the standards and regulators it relies on.
 
 
 ## 🤝 Contribution
