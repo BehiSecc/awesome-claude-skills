@@ -124,6 +124,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [allratestoday](https://github.com/AllRates-Today/claude-code-plugin/tree/main/skills) - Exchange-rate skills: fetch or convert rates and add multi-currency support without hardcoding a rate, plus official central-bank and tax-authority rates for invoices, VAT, customs, and audit.
 
 
 ## 🔬 Scientific & Research Tools
