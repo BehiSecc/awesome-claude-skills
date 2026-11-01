@@ -42,6 +42,7 @@
 
 
 ## 🛠 Development & Code Tools
+- [agent-speedup-estimator](https://github.com/hnewcity/agent-speedup-estimator) - Estimate hardware upgrade speedups for Claude Code and Codex from local transcript timings, separating remote model time from local tool work and generating offline reports.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) - Creates isolated git worktrees with smart directory selection and safety verification.
