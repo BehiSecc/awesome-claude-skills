@@ -85,6 +85,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [prefixer](https://github.com/Albisourous/prefixer) - Gives agents a namespace map of the repo so code searches start in the right directory instead of grepping everything. Measured 79% less search output across 18 public repos.
 - [Archcore skills](https://github.com/archcore-ai/archcore/tree/main/plugins/archcore/skills) - Plan, document, and review spec-driven development with Claude Code skills.
 - [Birdview](https://github.com/Qiuner/birdview) - Map code architecture, scope changes, and review implementation constraints.
 - [genjutsu](https://github.com/AThevon/genjutsu) - Design interfaces with motion and creative coding across web and mobile.
