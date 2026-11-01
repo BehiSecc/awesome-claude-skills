@@ -130,6 +130,7 @@
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [zero-slop](https://github.com/manavmishra/ZeroSlop) - Scores drafts for AI writing tells, rewrites the flagged passages, and verifies every name, number, quote and link survived.
 
 
 ## 📘 Learning & Knowledge  
