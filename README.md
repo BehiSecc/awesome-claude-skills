@@ -42,13 +42,11 @@
 ## 🛠 Development & Code Tools
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
-- [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
+- [using-git-worktrees](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) - Guides completion of development work by presenting clear options and handling chosen workflow.
 - [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
-- [claude-starter](https://github.com/raintree-technology/claude-starter) - Production-ready Claude Code configuration template with 40 auto-activating skills across 8 domains, TOON format support for 30-60% token savings, and native Zig encoder/decoder.
 - [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
-- [oiloil-ui-ux-guide](https://github.com/oil-oil/oiloil-ui-ux-guide) - Modern UI/UX guidance and review skill with `guide` and `review` modes. Covers CRAP, task-first UX, HCI laws, interaction psychology, and modern minimal style.
 - [claude-code-terminal-title](https://github.com/bluzername/claude-code-terminal-title) - Gives each Claud Code terminal window a dynamic title that describes the work being done so you don't lose track of what terminal window is doing what.
 - [charles-proxy-extract](https://github.com/wannabehero/charles-proxy-extract-skill) - Claude is able to extract and analyze HTTP traffic from Charles Proxy session files.
 - [debug-skill](https://github.com/AlmogBaku/debug-skill) - Give your AI agent a real debugger — breakpoints, stepping, variable inspection, and stack traces via CLI.
@@ -120,7 +118,7 @@
 
 
 ## ✍️ Writing & Research
-- [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
+- [article-extractor](https://github.com/michalparkola/tapestry-skills/tree/main/article-extractor) - Extract full article text and metadata from web pages.
 - [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Create internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc)
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
@@ -130,22 +128,21 @@
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
-- [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
 
 
 ## 📘 Learning & Knowledge  
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
-- [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
-- [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
+- [learn-this](https://github.com/michalparkola/tapestry-skills/tree/main/learn-this) - Extract web content and create an action plan.
+- [ship-learn-next](https://github.com/michalparkola/tapestry-skills/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
 
 
 ## 🎬 Media & Content
-- [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
+- [youtube-transcript](https://github.com/michalparkola/tapestry-skills/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 - [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival.
 - [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves the quality of images, especially screenshots.
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, and visual assets.
@@ -154,7 +151,6 @@
 - [NoizAI/skills](https://github.com/NoizAI/skills) - Human-like TTS workflows with local/cloud backends, style presets, and app delivery scripts.
 - [claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Convert markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to Kindle.
 - [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
-- [find-scene](https://github.com/uriva/find-scene-skill) - Search and download movie/TV show scenes by dialog, time, or visual description using the FindScene API.
 - [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: generate images (Flux), text-to-speech, transcribe YouTube/audio, OCR, video generation, upscale, and remove backgrounds via deAPI. Works with Cursor, Windsurf & Continue.dev.
 - [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) — AI-native video production workspace for Claude Code with Remotion, ElevenLabs, FFmpeg, and Playwright skills.
 - [VideoDB Skills](https://github.com/video-db/skills) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB.
@@ -168,7 +164,7 @@
 - [Vox Director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer or ad video.
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
-- [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
 
 
 ## 🏥 Health & Life Sciences
@@ -178,12 +174,11 @@
 
 
 ## 🤝 Collaboration & Project Management
-- [agent-manager-skill](https://github.com/fractalmind-ai/agent-manager-skill) - Manage multiple local CLI AI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling; no server required.
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
 - [kanban-skill](https://github.com/mattjoyce/kanban-skill) - Markdown-based Kanban board with file-based cards, YAML frontmatter for status/priority/dependencies, and no database required.
 - [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks for reliable project tracking.
 - [linear-cli-skill](https://github.com/Valian/linear-cli-skill) - A skill teaching claude how to use linear-CLI (provided alongside the skill), meant to replace linear MCP.
-- [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/meeting-insights-analyzer/) - Transforms your meeting transcripts into actionable insights about your communication patterns
+- [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer) - Transforms your meeting transcripts into actionable insights about your communication patterns
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
 - [Factory-Floor](https://github.com/Swiftner/Factory-Floor) - Startup coaching skill combining Theory of Constraints, Customer Factory, How Brands Grow, and Marketing Strategy Discipline to help founders find and work their bottleneck.
@@ -203,15 +198,13 @@
 
 ## 🛡 Security & Web Testing
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
-- [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) - Implement multi-layered testing and security best practices.
 - [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
 - [owasp-security](https://github.com/agamm/claude-code-owasp) - OWASP Top 10:2025, ASVS 5.0, and Agentic AI security (2026) with code review checklists, secure patterns, and language-specific quirks for 20+ languages.
-- [systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging) - Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+- [systematic-debugging](https://github.com/obra/superpowers/tree/main/skills/systematic-debugging) - Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 - [Trail of Bits Security Skills](https://github.com/trailofbits/skills) - Security skills for static analysis with CodeQL/Semgrep, variant analysis, code auditing, and fix verification.
 - [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
-- [sanitize](https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
+- [sanitize](https://github.com/agentward-ai/agentward/tree/main/agentward-sanitize-skill) - Detect and redact PII from text files — 15 categories (SSNs, credit cards, API keys, etc.), zero dependencies, all processing local.
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
-- [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 
 
@@ -223,7 +216,7 @@
 - [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for a new skill project structure.
 - [agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments.
 - [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - A meta-skill that builds and improves all your skills, including itself.
-- [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
+- [glitternetwork/pinme](https://github.com/glitternetwork/pinme/tree/main/skills/pinme) - Deploy static sites or full-stack projects with PinMe.
 - [linkedin](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via Linked API — fetch profiles, search people/companies, send messages, manage connections, create posts. Supports Sales Navigator.
 - [moodtrip-hotel-search](https://github.com/adiny/moodtrip-hotel-search) - Hotel search, comparison, reviews, pricing, and booking handoff via MoodTrip.ai MCP server. 12 tools including semantic search, room matching, and price intelligence.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
