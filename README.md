@@ -228,6 +228,7 @@
 - [moodtrip-hotel-search](https://github.com/adiny/moodtrip-hotel-search) - Hotel search, comparison, reviews, pricing, and booking handoff via MoodTrip.ai MCP server. 12 tools including semantic search, room matching, and price intelligence.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
 - [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow.
+- [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) - B2B outbound sales MCP server for software teams: build ICPs, research prospects with verified signals, score leads 0-100, draft personalised cold email/LinkedIn (1-3-1 framework), and build multi-touch sequences. Powered by [Mach GTM](https://machgtm.com). Install: `npx mach-gtm-mcp`
 - [SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills.
 - [Imprint](https://github.com/ilang-ai/Imprint) - Portable AI collaboration profile for memory, planning, review, debugging, testing, and workflow habits.
 - [pua](https://github.com/tanweai/pua) - Corporate motivation skill that pushes AI agents to exhaust options before giving up.
