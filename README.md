@@ -124,6 +124,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [leadyol-skill](https://github.com/afrikyol/leadyol-skill) - Build business lead lists by category and place from open data, find website contacts, remove duplicates, check e-mails and export to Excel or CSV. Skill is MIT; requires the paid Leadyol desktop app (7-day trial).
 
 
 ## 🔬 Scientific & Research Tools
