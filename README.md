@@ -138,6 +138,7 @@
 
 
 ## 📘 Learning & Knowledge  
+- [DeepRead](https://github.com/xiehuan123/dsh-deepread) - Evidence-first deep reading for articles, books, PDFs, and document sets, with traceable claims, confidence levels, knowledge maps, cross-document comparison, and Feynman review plans.
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
 - [learn-this](https://github.com/michalparkola/tapestry-skills/tree/main/learn-this) - Extract web content and create an action plan.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
