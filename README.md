@@ -284,6 +284,8 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [mac-network-troubleshooting](https://github.com/seifip/kilobat-skills/tree/main/skills/mac-network-troubleshooting) - Diagnose Mac Wi-Fi, DNS, router and internet problems using Kilobat measurements.
+
 
 ## 📰 Articles & Blog Posts
 
