@@ -97,6 +97,7 @@
 - [aria-icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search and add open-source SVG icons to frontend projects.
 - [chisle](https://github.com/JayPokale/Chisle) - Keep coding-agent responses and changes concise with efficiency-focused rules.
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
+- [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Check and drive an Android app's UI on an emulator or phone via the Oh My Android MCP tools (dp coordinates, dark mode, large fonts, RTL).
 
 
 ## 📊 Data & Analysis
