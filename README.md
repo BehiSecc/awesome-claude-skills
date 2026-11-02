@@ -285,6 +285,8 @@
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
 
+- [tv-box-setup (TV Box Tools)](https://github.com/smartago/tvboxtools-plugin/tree/main/skills/tv-box-setup) - Set up and manage Android TV, Google TV, and Fire TV boxes over ADB: discover boxes on LAN, pair, set any third-party launcher as the persistent HOME app without root, install APKs, capture screenshots, and run diagnostics ([tvboxtools.com](https://tvboxtools.com) | [Google Play](https://play.google.com/store/apps/details?id=com.tv.launcher.manager.adb.tvboxtools&gl=us)).
+
 ## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
