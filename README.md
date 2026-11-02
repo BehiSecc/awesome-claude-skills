@@ -97,6 +97,7 @@
 - [aria-icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search and add open-source SVG icons to frontend projects.
 - [chisle](https://github.com/JayPokale/Chisle) - Keep coding-agent responses and changes concise with efficiency-focused rules.
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
+- [code-review-skill](https://github.com/kyy-logs/code-review-skill) - Static-first code review skill for Claude Code and Codex with four independent probes, evidence-backed findings, and a JSON-derived merge gate.
 
 
 ## 📊 Data & Analysis
