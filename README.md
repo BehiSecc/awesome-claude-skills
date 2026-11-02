@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [boxing (Boxerbook)](https://github.com/maxvotek/boxerbook-skill) - Live, cited boxing records, fight nights, results and rankings from the open Boxerbook database; bundles a remote MCP server.
 
 
 ## 🔬 Scientific & Research Tools
