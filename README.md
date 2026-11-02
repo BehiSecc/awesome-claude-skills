@@ -97,6 +97,7 @@
 - [aria-icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search and add open-source SVG icons to frontend projects.
 - [chisle](https://github.com/JayPokale/Chisle) - Keep coding-agent responses and changes concise with efficiency-focused rules.
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
+- [polythis](https://github.com/marquezinii/polythis) - Language-fit audit that finds which modules belong in another language (C++, Rust, C#, Go, WASM) and which should stay.
 
 
 ## 📊 Data & Analysis
