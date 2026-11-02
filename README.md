@@ -210,6 +210,7 @@
 - [ecommerce-video-skills](https://github.com/xianyu110/ecommerce-video-skills) - Ecommerce video skills for hooks, storyboards, voice-overs, and subtitles.
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
+- [wireflow-skills](https://github.com/wireflowINC/skills) - Plan image, video and audio jobs in Claude Code, confirm the credit cost, then run them through Wireflow over MCP.
 
 
 ## 🏥 Health & Life Sciences
