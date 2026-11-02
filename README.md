@@ -97,6 +97,8 @@
 - [aria-icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search and add open-source SVG icons to frontend projects.
 - [chisle](https://github.com/JayPokale/Chisle) - Keep coding-agent responses and changes concise with efficiency-focused rules.
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
+- [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
+- [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
 
 
 ## 📊 Data & Analysis
@@ -210,6 +212,7 @@
 - [ecommerce-video-skills](https://github.com/xianyu110/ecommerce-video-skills) - Ecommerce video skills for hooks, storyboards, voice-overs, and subtitles.
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
+- [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
 
 
 ## 🏥 Health & Life Sciences
