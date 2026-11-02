@@ -329,6 +329,9 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [Run Club Skills](https://github.com/nickmerich/run-club-skills) - 13 skills for running a run club: weekly ritual, newcomer welcome, buddy system, drifter saves, bring-a-friend, and an honest attendance scorecard from a check-in CSV.
+- [Artist-Led Events Skills](https://github.com/nickmerich/artist-led-events-skills) - 13 skills for producing artist-led athletic events: artist fit and deal terms, budget and P&L, sponsor inventory, permits and risk, run of show, recap. Seven sport formats.
+- [Music Tech Growth Skills](https://github.com/nickmerich/music-tech-growth-skills) - 13 skills for growing plugins, instruments, and music apps: creator research, first-output activation, creator partner programs, launch, pricing, attribution.
 
 
 ## 🤝 Contribution
