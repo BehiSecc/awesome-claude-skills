@@ -97,6 +97,7 @@
 - [aria-icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search and add open-source SVG icons to frontend projects.
 - [chisle](https://github.com/JayPokale/Chisle) - Keep coding-agent responses and changes concise with efficiency-focused rules.
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
+- [airflow-software-factory](https://github.com/zozo123/ariflow-swfactory/tree/main/skills/airflow-software-factory) - Operate an Apache Airflow software factory that turns GitHub issues into tested, reviewed PRs with human gates and evidence.
 
 
 ## 📊 Data & Analysis
