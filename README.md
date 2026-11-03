@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [factlot](https://github.com/9mp96ygnbk-alt/factlot/tree/main/plugins/factlot) - Eight commercial real estate skills (loan sizing, lease economics, CAM, ASC 842, returns) that call audited calculators through a free hosted MCP server and cite the formula ID.
 
 
 ## 🔬 Scientific & Research Tools
