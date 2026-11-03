@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [Homingo Learn Agent Skills](https://learn.homingo.co.in/agent-skills?utm_source=github&utm_medium=list&utm_campaign=behisecc) - Paid Claude Code skills for animated vertical horror reels and interactive isometric explainer figures.
 
 
 ## 🤝 Contribution
