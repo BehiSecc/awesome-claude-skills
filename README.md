@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [handsy](https://github.com/onehumanbeing/esp32-iphone-agent/tree/main/skills/handsy) - See and operate a real iPhone through an ESP32-S3 board with the esp32agent CLI or MCP server.
 
 
 ## 📊 Data & Analysis
