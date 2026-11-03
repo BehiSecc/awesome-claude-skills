@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [skim-markdown-quiz](https://github.com/skim-md/skim/tree/main/skills/skim-markdown-quiz) - Write interactive quizzes into Markdown notes, hidden in a comment and rendered by the Skim viewer.
 
 
 ## 🎬 Media & Content
