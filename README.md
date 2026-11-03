@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [html-to-video](https://github.com/wx4766/html-to-video) - Render HTML / Canvas animations to MP4 frame by frame: seek to frame time, screenshot, encode. Output is deterministic, one command exports several aspect ratios, and duration can follow an audio track.
 
 
 ## 🏥 Health & Life Sciences
