@@ -137,6 +137,7 @@
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
 - [Jev Social](https://github.com/socai-io/jev-social/tree/main/skills/jev-social) - Research Instagram, TikTok, and LinkedIn using browser-backed evidence.
 - [DeepRead](https://github.com/xiehuan123/dsh-deepread) - Read documents closely with traceable claims, knowledge maps, and comparisons.
+- [brainhound](https://github.com/stanczykwyatt/brainhound) - Find and read public neuroscience data: search DANDI, OpenNeuro and NeuroMorpho, read slices of remote NWB files, look up Allen brain regions and neuron morphologies, with each dataset's license and citation. Four skills plus an MCP server and CLI.
 
 
 ## ✍️ Writing & Research
