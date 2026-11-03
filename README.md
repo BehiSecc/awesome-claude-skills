@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [blogger-portfolio](https://github.com/111seek/blogger-portfolio) - Turn a content creator's account data into a single-file, image-inlined HTML portfolio for job interviews; bundled Xiaohongshu CLI for data collection, python3-only build with no runtime dependencies.
 
 ## 📰 Articles & Blog Posts
 
