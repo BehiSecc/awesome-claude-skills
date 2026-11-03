@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [cloro-skills](https://github.com/cloro-dev/skills) - ChatGPT, Perplexity, Gemini, Copilot, Google AI Mode and Google Search answers as structured JSON, with rank tracking and AI visibility workflows.
 
 
 ## 🔬 Scientific & Research Tools
