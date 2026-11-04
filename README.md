@@ -158,6 +158,7 @@
 - [Research Toolkit](https://github.com/rrrrrredy/research-toolkit) - Plan and review source-backed research reports and revisions.
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
+- [ajay-prakash-playbook](https://github.com/thatsheaps/ajay-prakash-playbook/tree/main/ajay-prakash-playbook) - Rewrite Slack and email updates into labelled FYI, Approval, Decision, Action, CTL and Feedback items, from Ajay Prakash's newsletter.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
 
 
