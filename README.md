@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [clickwise-affiliate-links](https://github.com/softdevfz/clickwise-api/tree/main/skills/clickwise-affiliate-links) - Affiliate programs, deals, tracked links and product search, plus merchant program setup tools.
 
 ## 📰 Articles & Blog Posts
 
