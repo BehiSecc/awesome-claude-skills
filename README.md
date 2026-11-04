@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [coldstart](https://github.com/thomasog/coldstart) - Set up any folder, code or not, so AI agents can resume it from plain AGENTS.md, handoff and memory files.
 
 
 ## 🛡 Security & Web Testing
