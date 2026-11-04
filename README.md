@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills) - Draft, review, de-AI-ify, and GB/T 9704-format Chinese official documents with 22 skills; no-fabrication and confidentiality guardrails (noncommercial license).
 
 
 ## 📘 Learning & Knowledge  
