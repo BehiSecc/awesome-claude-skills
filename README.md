@@ -287,6 +287,10 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [gaffa-authoring](https://github.com/GaffaAI/gaffa-for-ai/tree/main/skills/gaffa-authoring) - Writes and reviews code that calls the gaffa.dev browser automation API, grounded in the live docs.
+- [gaffa-find](https://github.com/GaffaAI/gaffa-for-ai/tree/main/skills/gaffa-find) - Finds one piece of information on a site from a URL and a plain-language goal, through gaffa browser requests.
+- [gaffa-debug](https://github.com/GaffaAI/gaffa-for-ai/tree/main/skills/gaffa-debug) - Diagnoses a failing gaffa request from its recording and proposes a minimal fix.
+- [gaffa-support](https://github.com/GaffaAI/gaffa-for-ai/tree/main/skills/gaffa-support) - Helps when stuck with the gaffa skills, then packages a redacted local report to email to support.
 
 ## 📰 Articles & Blog Posts
 
