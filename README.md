@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [edit-reel](https://github.com/artemisln/edit-reel) - Edit raw talking-head footage into short-form reels: cut silences and retakes, word-by-word subtitles in any language, zooms and sound effects. A plugin of 6 skills, including demo capture and shot lists.
 
 
 ## 🏥 Health & Life Sciences
