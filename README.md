@@ -154,6 +154,7 @@
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
 - [zero-slop](https://github.com/manavmishra/ZeroSlop) - Revise AI-sounding drafts while preserving names, numbers, quotations, and links.
 - [story-skills](https://github.com/danjdewhurst/story-skills) - Plan and write fiction with skills for characters, scenes, plots, and continuity.
+- [mckee-story-engine](https://github.com/elevchuk-lab/mckee-story-engine) - Storytelling, script-doctoring, Storynomics (6-page Bezos memos), and film teardown engine built on Robert McKee's complete tetralogy.
 - [jp-essay](https://github.com/lucasbabur/jp-essay) - Research, draft, revise, and fact-check essays using structured writing steps.
 - [Research Toolkit](https://github.com/rrrrrredy/research-toolkit) - Plan and review source-backed research reports and revisions.
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
