@@ -334,6 +334,8 @@
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
 
 
+- [AgentKit Dev Skills](https://github.com/agentkitco/agentkit-dev-skills) - 13 MIT `SKILL.md` skills for coding agents: self-review, repro-first debugging, PR descriptions, dependency upgrades, AGENTS.md audit, and session handoff.
+
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
