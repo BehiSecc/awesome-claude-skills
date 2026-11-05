@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [deja-vu](https://github.com/vshulcz/deja-vu) - Cross-agent coding session memory skills (`deja-history`, `deja-search`, `deja-reflect`), hooks, and MCP server indexing local transcripts across Claude Code, Codex, Cursor, and 43 agents with zero embeddings or API calls.
 
 
 ## 📊 Data & Analysis
