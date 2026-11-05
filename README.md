@@ -218,6 +218,7 @@
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
+- [running-coach](https://github.com/tomasstankovic/running-coach) - Running coach that plans seasons and weeks, checks morning readiness from HRV and sleep, analyses runs and intervals, and builds race predictions and race plans by course and weather. Works with TrainingPeaks, Strava or no data; paces and load limits come from bundled Python scripts.
 - [Satori](https://github.com/MetcalfSolutions/Satori) - Support reflective dialogue about stress, relationships, and life decisions.
 
 
