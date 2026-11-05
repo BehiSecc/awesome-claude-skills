@@ -148,6 +148,8 @@
 - [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Audits and rewrites content to remove 21 categories of AI writing patterns with a 43-entry replacement table and two-pass detection.
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming for products, SaaS, brands, bots, and open source projects. Structured process that produces memorable, meaningful names.
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
+- [boolean-sourcing](https://github.com/VelocityBranding/claude-skills-for-recruiters/tree/main/boolean-sourcing) - Turn a job spec into LinkedIn Boolean strings (tight/medium/wide) and a Google X-ray string for recruiters.
+- [client-onboarding](https://github.com/VelocityBranding/claude-skills-for-social-media-managers/tree/main/client-onboarding) - Welcome note, onboarding questionnaire, asset list and safe access steps for new social media clients.
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Convert Markdown into WeChat Official Account drafts with preview, image, and cover handling.
 - [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) - Evaluate B2B vendors by interrogating agents, checking claims, and scoring weighted criteria.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
