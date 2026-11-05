@@ -153,6 +153,7 @@
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
 - [zero-slop](https://github.com/manavmishra/ZeroSlop) - Revise AI-sounding drafts while preserving names, numbers, quotations, and links.
+- [write-like-a-human](https://github.com/neftgazbur-prog/write-like-a-human) - Rewrites machine-flavored, AI-sounding prose into human-sounding text with a regex sweep of ~50 tells and 21 fix rules in five families.
 - [story-skills](https://github.com/danjdewhurst/story-skills) - Plan and write fiction with skills for characters, scenes, plots, and continuity.
 - [jp-essay](https://github.com/lucasbabur/jp-essay) - Research, draft, revise, and fact-check essays using structured writing steps.
 - [Research Toolkit](https://github.com/rrrrrredy/research-toolkit) - Plan and review source-backed research reports and revisions.
