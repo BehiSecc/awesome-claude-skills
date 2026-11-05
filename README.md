@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [sync. labs skills](https://github.com/synchronicity-labs/skills) - Lipsync videos, make photos and AI characters talk, dub videos into other languages, and fix spoken words with sync. labs. Requires a sync. account.
 
 
 ## 🏥 Health & Life Sciences
