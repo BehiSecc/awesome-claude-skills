@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [crakseo-seo](https://github.com/CrakSEO/crakseo-mcp-plugins/tree/main/seo-tools-by-crakseo/skills/seo) - Keyword research, Google rankings, backlinks, competitor gaps and site audits through the CrakSEO SEO MCP server, with a free balance check before any paid call.
 
 
 ## 🔬 Scientific & Research Tools
