@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [cantiere](https://github.com/Wolftux/cantiere) - From a rough idea to a finished product: 12-juror trial and grilling produce a design document, then production as software, text, or slides (Italian-language).
 
 
 ## 🛡 Security & Web Testing
