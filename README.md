@@ -245,6 +245,7 @@
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
 
 
+- [aanet-skill](https://github.com/Kuasar137/aanet-skill) - Operational know-how for coordinating a swarm of agents through AANet (locks, budgeted sub-keys, shared files, low-balance warnings), with the remote MCP server bundled.
 ## 🛡 Security & Web Testing
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
 - [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
