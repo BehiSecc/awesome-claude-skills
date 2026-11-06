@@ -256,6 +256,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
+- [kintsugi-core-guard-free](https://github.com/tunguyen1993/kintsugi-harness/tree/main/free-skill-pack) - Deterministic AST + Regex verification guard, `@KML/1` symbolic rule wire, and 7-layer Zero-Trust MCP PreToolUse DLP shield for Claude Code.
 
 
 
