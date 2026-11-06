@@ -198,6 +198,7 @@
 - [Vox Director](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer or ad video.
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
+- [premiere-rough-cut](https://github.com/ThomasHMD/premiere-rough-cut) - Rough-cut talking-head footage into an editable Adobe Premiere Pro sequence: retakes, stumbles and long silences removed, doubts flagged with markers, captions fixed, overlays timed on the spoken word. Runs locally with whisper.cpp and Premiere's own transcript.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
 - [video-to-music](https://github.com/sonilo-ai/skills/tree/main/video-to-music) - Compose original soundtracks for finished videos with Sonilo.
 - [anidoodle](https://github.com/alexgreensh/anidoodle) - Create hand-drawn illustrations, animations, stickers, and short films as code.
