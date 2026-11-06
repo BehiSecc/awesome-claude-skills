@@ -227,6 +227,7 @@
 - [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks for reliable project tracking.
 - [linear-cli-skill](https://github.com/Valian/linear-cli-skill) - A skill teaching claude how to use linear-CLI (provided alongside the skill), meant to replace linear MCP.
 - [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer) - Transforms your meeting transcripts into actionable insights about your communication patterns
+- [onemira-meeting-memory](https://github.com/onemira-space/onemira-meeting-memory-skill) - Query, summarize, and maintain a local Markdown Wiki from speaker-diarized meeting transcripts captured by [OneMira C1](https://onemira.com/products/c1) and [OneMira Desktop](https://onemira.com/download) via CLI and MCP.
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
 - [Factory-Floor](https://github.com/Swiftner/Factory-Floor) - Startup coaching skill combining Theory of Constraints, Customer Factory, How Brands Grow, and Marketing Strategy Discipline to help founders find and work their bottleneck.
