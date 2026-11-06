@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [lookbk-skills](https://github.com/lookbkdev/lookbk-skills) - Eight local skills that render a title video, an 8-bit promo, a slide deck, OG images, a diagram, and landing pages.
 
 
 ## 🏥 Health & Life Sciences
