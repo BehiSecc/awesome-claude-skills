@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [recruiter-boolean-sourcing](https://github.com/VelocityBranding/recruiter-claude-skills/tree/main/skills/sourcing-candidates-with-boolean) - Turn a job spec into tight, medium and wide Boolean strings for LinkedIn, Google X-ray and CV databases, with title synonyms and where else to look.
 
 
 ## 🛡 Security & Web Testing
