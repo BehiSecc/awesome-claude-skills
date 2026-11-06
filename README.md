@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [printresize-skill](https://github.com/ivanvolt-labs/printresize-skill) - Turn images into print files: exact sizes in cm, 2K to 8K upscale, seamless repeats, textile mockups. Needs a PrintResize account and credits.
 
 
 ## 🏥 Health & Life Sciences
