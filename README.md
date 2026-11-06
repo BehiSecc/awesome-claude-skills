@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [archlang](https://github.com/ChanMeng666/archlang/tree/main/skills/archlang) - Write and edit floor plans as ArchLang `.arch` text and compile them to SVG, PNG, PDF or DXF through the archlang CLI, fixing what the compiler reports.
 
 
 ## 📊 Data & Analysis
