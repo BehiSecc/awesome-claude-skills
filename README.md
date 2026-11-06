@@ -281,6 +281,7 @@
 - [unbrowse](https://github.com/unbrowse-ai/unbrowse/tree/main/skill) - Browse websites, reuse site tools, and call their APIs through Unbrowse.
 - [webcmd-browser](https://github.com/agentrhq/webcmd/tree/main/skills/webcmd-browser) - Inspect pages and interact with websites in a live browser using webcmd.
 - [job-application-agent](https://github.com/vaibhavarora14/job-application-agent) - Discover, evaluate, prepare, and track job applications using verified facts.
+- [hh-resume-tailor](https://github.com/Dariap5/hh-resume-tailor) - Russian-language skill that tailors a resume to several hh.ru vacancies: shared requirements, missing keywords, before/after rewrites, no invented experience.
 - [screenpipe-api](https://github.com/screenpipe/screenpipe/tree/main/crates/screenpipe-core/assets/skills/screenpipe-api) - Query locally recorded screen, audio, meeting, and interface context.
 - [self-host](https://github.com/ajnart/self-host) - Set up self-hosted applications and connect services on your hardware.
 - [skills-manager](https://github.com/shenysun/skills-manager/tree/main/skills/skills-manager) - Manage, update, and distribute local agent skills with the skills-manager CLI.
