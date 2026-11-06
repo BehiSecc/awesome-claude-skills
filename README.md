@@ -101,6 +101,8 @@
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
 
 
+- [faber-language](https://github.com/faberlang/faberlang.dev/tree/main/static/.well-known/agent-skills/language) - Write and check Faber, a statically typed language for coding agents and human authors (emits Rust, TypeScript, Go, Swift and more).
+
 ## 📊 Data & Analysis
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
