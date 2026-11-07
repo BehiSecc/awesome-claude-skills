@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [byagent](https://github.com/anup-a/byagent/tree/main/skill) - Publish Markdown or HTML that Claude makes to a shareable link that keeps its URL across versions, using the byagent CLI.
 
 
 ## 🛡 Security & Web Testing
