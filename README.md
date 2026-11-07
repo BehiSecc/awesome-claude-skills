@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [imagera-skills](https://github.com/alexadams6ix/imagera-skills) - 37 skills for product photo sets, ads, storyboards, reels and consistent characters, run through the Imagera MCP server.
 
 
 ## 🏥 Health & Life Sciences
