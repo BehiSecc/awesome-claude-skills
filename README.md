@@ -392,6 +392,7 @@ Browse these repositories when you want a related set of skills.
 | Collection | Focus |
 | --- | --- |
 | [Anthropic skills](https://github.com/anthropics/skills) | Document processing, design, development, and skill examples. |
+| [Imagera skills](https://github.com/alexadams6ix/imagera-skills) | Product photo sets, ads, storyboards, reels and consistent characters through the hosted Imagera MCP server (paid credits). |
 | [Superpowers](https://github.com/obra/superpowers) | Planning, testing, debugging, and development workflows. |
 | [adologyai/content-intelligence-plugin](https://github.com/adologyai/content-intelligence-plugin) | Competitive ad research, brand tracking, and audience analysis through Adology hosted MCP tools. |
 | [Affiliate Skills](https://github.com/Affitor/affiliate-skills) | Affiliate research, content, distribution, and analytics. |
