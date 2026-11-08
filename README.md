@@ -332,6 +332,8 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [product-marketing-toolkit](https://github.com/Hyde-and-Larkin/product-marketing-toolkit) - 8 product marketing skills: positioning review, claims audit, competitive intel, launch readiness, battlecards, and more.
+- [product-marketing-interview-kit](https://github.com/Hyde-and-Larkin/product-marketing-interview-kit) - 8 skills for product marketing job interviews, from reading the job description to reviewing the offer.
 
 
 ## 🤝 Contribution
