@@ -99,6 +99,8 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [product-engineering](https://github.com/phuryn/product-engineering) - Build, review, and ship a product with coding agents: 44 skills from proposal to production.
+- [uptime-monitoring](https://github.com/phuryn/product-engineering/tree/main/app-stack/skills/uptime-monitoring) - Set up uptime checks, heartbeats, and status pages; defaults to Staygreen, by the same author.
 
 
 ## 📊 Data & Analysis
@@ -243,6 +245,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - 70+ product management skills and 42 chained workflows across 9 Claude Code plugins, from discovery to go-to-market.
 
 
 ## 🛡 Security & Web Testing
