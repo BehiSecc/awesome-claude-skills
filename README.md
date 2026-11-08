@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [agentpace](https://github.com/mohamedzhioua/agentpace) - Estimate how long software work will take when coding agents do it, as P50/P80/P90 ranges from measured agent runs, with the human part stated separately.
 
 
 ## 🛡 Security & Web Testing
