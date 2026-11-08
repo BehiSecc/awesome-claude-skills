@@ -204,7 +204,7 @@
 - [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) - Fetch YouTube transcripts and search videos, channels, and playlists.
 - [OrkasVideoStudio video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/blob/7387d99d468e0cce22508854ba8bca04e79657e1/packages/skills/video-router/SKILL.md) - Route video briefs to generation, composition, editing, or mixed workflows.
 - [awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) - Plan storyboards and create Seedance video prompts with agent skills.
-- [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/arcmira) - Search YouTube and podcast transcripts for quotes, mentions, and sponsors.
+- [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/arcmira) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.
 - [genai-mesh-gradient](https://github.com/9929y/genai-mesh-gradient) - Create editable mesh gradients for websites, presentations, and brand visuals.
 - [design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) - Build and verify parametric 3D models in Blender for export.
 - [product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) - Create animated product launch videos from a website URL.
