@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [sms-verification-codes](https://github.com/alanwtom/fwrd-sms-mcp/tree/main/skills/sms-verification-codes) - Let an agent wait for and read the SMS verification code a site just texted to your iPhone, through the Fwrd app and an MCP server you deploy.
 
 ## 📰 Articles & Blog Posts
 
