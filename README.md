@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [SkillArena](https://skillarena.dev) - Side-by-side comparison of 67 UI skills on the same 5 briefs and model, with a no-skill control and install commands.
 
 
 ## 🤝 Contribution
