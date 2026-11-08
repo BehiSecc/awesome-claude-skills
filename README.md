@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [windows-debloat](https://github.com/ArmenSl/windows-debloat) - Safely debloat a Windows 10/11 PC and prepare it as a server or agent machine: survey, archive personal files, remove bloatware under one UAC prompt with dry-run, trim startup with backups.
 
 ## 📰 Articles & Blog Posts
 
