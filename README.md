@@ -126,6 +126,9 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [google-maps-scraper](https://github.com/maxouf/sherwood-skills/tree/main/skills/google-maps-scraper) - Scrape Google Maps places into CSV; compares an Apify actor, the Places API and a local open-source scraper.
+- [trustpilot-scraper](https://github.com/maxouf/sherwood-skills/tree/main/skills/trustpilot-scraper) - Scrape a company's Trustpilot reviews past the 200-review cap, with incremental syncs, through Apify.
+- [youtube-transcript](https://github.com/maxouf/sherwood-skills/tree/main/skills/youtube-transcript) - Get YouTube transcripts as text, SRT or VTT for videos, channels and playlists, via a free library or Apify.
 
 
 ## 🔬 Scientific & Research Tools
@@ -332,6 +335,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [sherwood-skills](https://github.com/maxouf/sherwood-skills) - Task skills for scraping and media (Google Maps, Trustpilot, YouTube transcripts, upscaling, TTS) that compare Apify actors with alternatives.
 
 
 ## 🤝 Contribution
