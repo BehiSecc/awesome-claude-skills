@@ -287,6 +287,8 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [one-pass](https://github.com/RabbitDesigns22/one-pass) - Cuts rework: acceptance list before starting, read each source once, cap blind retries, self-check before done.
+- [session-watchdog](https://github.com/RabbitDesigns22/session-watchdog) - Wakes Claude Code sessions stuck mid-task on a schedule; never wakes finished sessions or ones waiting on the user.
 
 ## 📰 Articles & Blog Posts
 
