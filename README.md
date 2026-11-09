@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [multi-ai-skills](https://github.com/xuyewild/multi-ai-skills) - Coordinate several AIs on one long project: hand off through files, have a second AI check the work, and log paid generations before running them. English and Chinese.
 
 
 ## 📊 Data & Analysis
@@ -213,6 +214,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [ai-video-skills](https://github.com/xuyewild/ai-video-skills) - Keep AI video clips looking like one show, write fight scenes that land, and fix Seedance 2.5 prompts with 16 tested before/after examples. English and Chinese.
 
 
 ## 🏥 Health & Life Sciences
