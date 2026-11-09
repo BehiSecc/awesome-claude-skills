@@ -108,6 +108,7 @@
 - [mysql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mysql) - Safe read-only SQL queries against MySQL databases.
 - [mssql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mssql) - Safe read-only SQL queries against Microsoft SQL Server databases.
 - [kaggle-skill](https://github.com/shepsci/kaggle-skill) - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection.
+- [x-trends-history-skill](https://github.com/twtdata/x-trends-history-skill) - What was trending on X (Twitter) in a given country on a given date, from twtData's free dated trends archive.
 - [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - Query Octav's crypto portfolio API: wallet balances, transaction history, DeFi protocol positions, and token analytics across 20+ chains.
 - [elicitation](https://github.com/tasteray/skills/tree/main/elicitation) - Psychological profiling through natural conversation using narrative identity and Motivational Interviewing techniques.
 - [recommendations](https://github.com/tasteray/skills/tree/main/recommendations) - Personalized recommendations across movies, restaurants, products, travel, and jobs via the TasteRay API.
