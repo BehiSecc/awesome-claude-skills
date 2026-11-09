@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [legwise](https://github.com/zhanggangyi1224/legwise) - Road trip planner: plan, check and repair multi-day road trips with multiple-choice intake, OpenStreetMap distances, a deterministic checker for sunset, fuel and opening hours, and PDF or Markdown reports.
 
 ## 📰 Articles & Blog Posts
 
