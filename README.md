@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [leadmerlin-leads](https://github.com/HalberdLLC/leadmerlin-skill/tree/main/skills/leads) - Find local businesses on Google Maps by niche and city, enrich them (owner names, checked emails, phone types, tech stack) and export a CSV via the LeadMerlin API. 100 free leads.
 
 
 ## 🔬 Scientific & Research Tools
