@@ -78,6 +78,7 @@
 - [skill-optimizer](https://github.com/hqhq1025/skill-optimizer) - Diagnose and improve Agent Skills using session data and static analysis.
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs.
 - [upload-post](https://github.com/Upload-Post/upload-post-skill) - Publish and schedule media across 10+ social platforms from a single agent workflow.
+- [publora/skills](https://github.com/publora/skills) - Draft, schedule and publish posts to 10 social networks through the Publora MCP server.
 - [vibe-replay](https://github.com/tuo-lei/vibe-replay) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links.
 - [crit](https://github.com/tomasz-tomczyk/crit) - Review and comment on plans, code diffs, and frontend, then send feedback directly to your agent.
 - [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) - Reconstruct how a feature shipped from local ax session history.
