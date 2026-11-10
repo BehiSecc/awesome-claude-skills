@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [myco-notes](https://github.com/LuzianMe/myco-notes) - Git-versioned, cross-referenced Markdown project notes that the agent keeps accurate, with a secret-refusing commit hook, a lint and a mycelium graph view.
 
 
 ## 🎬 Media & Content
