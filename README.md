@@ -126,6 +126,8 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [option-desk](https://github.com/Iman/agent-driven-options-desk-and-skills) - Skills for option analytics from a supplied chain: Greeks, dealer positioning, strategy payoffs, simulation and backtests, backed by a local MCP server.
+- [risk-desk](https://github.com/Iman/agent-driven-risk-desk-and-skills) - Skills for portfolio risk from supplied data: VaR and Expected Shortfall, backtests, stress tests, counterparty and credit risk, backed by a local MCP server.
 
 
 ## 🔬 Scientific & Research Tools
