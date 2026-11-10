@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [unslop](https://github.com/avivgerz-hue/unslop) - 72-rule UI design linter that flags generic AI-generated interfaces, with a design DNA extractor and design token exporter.
 
 
 ## 📊 Data & Analysis
@@ -256,6 +257,8 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
+- [vibe-shield](https://github.com/avivgerz-hue/vibe-shield) - Static security scanner for AI-generated code with 85+ rules for leaked secrets, unguarded API routes, Supabase RLS, prompt injection sinks, and SKILL.md/MCP poisoning.
+- [ghost-qa](https://github.com/avivgerz-hue/ghost-qa) - Autonomous headless Playwright QA with an 8-trap browser inspection engine for console, network, layout, touch target, accessibility, performance, and theme issues.
 
 
 
