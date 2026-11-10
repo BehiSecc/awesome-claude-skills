@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [ReplyDNA](https://github.com/AlcubiX/replydna/tree/main/skills/replydna) - Reply to YouTube comments in the creator's own voice and each viewer's language, hold scam accounts, and get a monthly keep/improve/avoid report with next-video ideas.
 
 
 ## 🏥 Health & Life Sciences
