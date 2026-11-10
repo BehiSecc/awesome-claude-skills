@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [nexscope-ecommerce-skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills) - 127 portable ecommerce skills for marketplace research, keywords, sourcing, and listing workflows.
 
 
 ## 🤝 Contribution
