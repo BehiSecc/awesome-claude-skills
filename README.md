@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [HoneyVid](https://github.com/HoneyVid/skills) - Make AI videos and images with HoneyVid: put a person, pet or character into a trending video template, or generate with Kling, Veo, Seedance and image models within a credit budget.
 
 
 ## 🏥 Health & Life Sciences
