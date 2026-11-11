@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [readgzh](https://github.com/sweesama/readgzh/tree/main/public/plugin/skills/readgzh) - Read WeChat Official Account (微信公众号) article links as Markdown so Claude can summarize, translate, or quote them.
 
 
 ## 📘 Learning & Knowledge  
