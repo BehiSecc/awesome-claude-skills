@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [imagegen-swarm](https://github.com/Ekko237/imagegen-swarm) - Run Codex, Jimeng, Grok, Gemini, Muse and Lovart in parallel on one quota-aware, resumable image queue for Claude Code and Codex.
 
 
 ## 🏥 Health & Life Sciences
