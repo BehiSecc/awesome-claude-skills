@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [data-quality-check](https://github.com/Restoration-Scope/skills/tree/main/skills/data-quality-check) - Checks whether a nature project's data holds up (field-app exports, beneficiary lists, maps) and reports every gap with example rows.
 
 
 ## 🔬 Scientific & Research Tools
