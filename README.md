@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [FlashData research skills](https://github.com/rocosen/flashdata-mcp/tree/main/skills) - 15 task Skills for Google Search and YouTube research through MCP/CLI; an API key and paid credits are required. [Docs](https://flashdata.dev/mcp).
 
 
 ## 🤝 Contribution
