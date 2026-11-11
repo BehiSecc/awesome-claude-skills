@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [genaya](https://github.com/genaya-app/genaya-claude-plugins/tree/main/plugins/genaya/skills) - Ask Genaya AI about your own service business (schedule, who owes you, revenue, calls, clients, team) and prepare changes that run only after you confirm. Needs a Genaya account.
 
 ## 📰 Articles & Blog Posts
 
