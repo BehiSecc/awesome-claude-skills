@@ -287,6 +287,8 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [find-hiring-manager](https://github.com/johnisanerd/claude-skill-find-hiring-manager) - Find who is hiring for a job posting (hiring manager, recruiter, possible referrers) with evidence for each name.
+- [plan-a-trip](https://github.com/johnisanerd/claude-skill-plan-a-trip) - Turn a destination and rough dates into a costed itinerary with flights and hotels.
 
 ## 📰 Articles & Blog Posts
 
