@@ -38,6 +38,7 @@
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
 - [humanpen-skill](https://github.com/humanpen/humanpen-skill) - Revise AI-generated text in Word documents and PowerPoint presentations.
 - [docx-cli](https://github.com/kklimuk/docx-cli/tree/main/skills/docx-cli) - Edit Word documents with tracked changes, comments, tables, and formatting.
+- [scanned-pdf-cleaner](https://github.com/shlomsh/scanned-pdf-cleaner/tree/main/plugins/scanned-pdf-cleaner/skills/scanned-pdf-cleaner) - Turn phone photos or scans of book pages and papers into a flat, clean PDF: straightens curved lines, removes fingers, shadows and smudges, evens out margins.
 
 
 
