@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [linkedin-prospecting-skills](https://github.com/bereach-ai/linkedin-prospecting-skills) - 6 Claude skills for LinkedIn prospecting and cold email: personas, your voice, invitations, first messages, follow-ups and 7-day reply tracking.
 
 
 ## 🤝 Contribution
