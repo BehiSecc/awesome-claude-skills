@@ -126,7 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
-
+- [b2b-lead-enrichment](https://github.com/ocakciomursel-pixel/lucacelli-b2b-mcp-server/tree/main/skills/b2b-lead-enrichment) - B2B lead generation and competitive intelligence for AI coding agents: Google Maps local lead scraping, company domain email/tech-stack enrichment, DNS MX bulk email verification, ad pixel detection, and cold outreach icebreakers.
 
 ## 🔬 Scientific & Research Tools
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - 125+ scientific skills for bioinformatics, cheminformatics, clinical research, and machine learning.
