@@ -333,6 +333,7 @@
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
 
+- [skills.pub](https://skills.pub?utm_source=awesome-claude-skills&utm_medium=referral&utm_campaign=directory-listing) - Searchable directory of 7,600+ Claude Code skills with install commands, repository sync, and health checks.
 
 ## 🤝 Contribution
 
