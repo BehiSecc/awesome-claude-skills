@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [Super-Skills Kit](https://github.com/GrowingGold/super-skills-kit) - 300+ open-source skills merged into 29 super-skills for Claude Code, with an automatic skill picker, prompt optimizer, token-saving rules and one-command undo.
 
 
 ## 🤝 Contribution
