@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [apex-twin-suite](https://github.com/phanvietanh102/apex-twin-suite) - Symmetric twin-engine skill suite for Greenfield idea-to-product development and Brownfield forensic workspace auditing with 6-role C-Suite red-teaming, 7 industry playbooks, and Python verification gates.
 
 
 ## 📊 Data & Analysis
