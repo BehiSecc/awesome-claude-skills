@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [ai-interview-practice](https://github.com/DPWonder/ai-interview-practice) - Practise an AI screening interview for developer roles: questions by role and level, each answer checked with your own words quoted back. English and Spanish.
 
 
 ## 🎬 Media & Content
