@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [fable-5-2-prompting](https://github.com/sktjgudals/fable-5-2-prompting) - Audit and tune prompts, CLAUDE.md files, and harnesses for Claude Fable 5.2 with the fixes and measured costs from Anthropic's prompting guide (unofficial).
 
 
 ## 📊 Data & Analysis
