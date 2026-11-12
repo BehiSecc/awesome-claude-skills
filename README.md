@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [music-skill](https://github.com/owoevan-dev/music-skill) - Compose, arrange and render original instrumental music as editable notes: MIDI, stems and MP3 from sampled instruments and synthesizers, with seamless loops for games. No audio-generation model, fully headless, comes with free sound libraries, and the music you make is yours to use freely.
 
 
 ## 🏥 Health & Life Sciences
