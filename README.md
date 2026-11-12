@@ -256,8 +256,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
-
-
+- [e2e](https://github.com/e2e-inc/e2e/tree/main/skills/e2e) - Write, run, and debug end-to-end tests for web and mobile apps using agent steps, locator assertions, and failure traces.
 
 ## 🔧 Utility & Automation  
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
