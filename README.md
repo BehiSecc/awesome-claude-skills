@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [wavegrain](https://github.com/wavegrain/wavegrain-mcp/tree/main/skills/wavegrain) - Make, schedule and post TikTok slideshows and Instagram carousels for a brand through the Wavegrain MCP server.
 
 
 ## 🏥 Health & Life Sciences
