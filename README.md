@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [morning-newspaper](https://github.com/oantuneshenriqueo/morning-newspaper) - Personal retro morning newspaper with your agenda, emails awaiting a reply, weather and news on your interests, in your own language.
 
 ## 📰 Articles & Blog Posts
 
