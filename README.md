@@ -215,6 +215,8 @@
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
 
 
+- [omnicreator](https://github.com/wangneo276-lgtm/omnicreator-mcp) - Use Omni Creator (https://omnicreator.art), an AI Photo Editor Online free to try. Edit photos by typing.
+
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
