@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [toolgate](https://github.com/caelum0x/toolgate) - Search 27 priced agent tools (18 free: DNS, WHOIS, geocoding, weather, SEC filings, papers, web reads) by task, read the micro-USD price, call through one key.
 
 
 ## 📊 Data & Analysis
