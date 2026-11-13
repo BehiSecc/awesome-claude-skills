@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [filo](https://github.com/marco-bertelli/filo) - Flow design interview run before code: reads the codebase, asks one question at a time, flags contradictory answers, then draws the decided flow as a visual page and saves it in the repo.
 
 
 ## 🛡 Security & Web Testing
