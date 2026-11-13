@@ -213,6 +213,8 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [beta-version-toon-studio](https://github.com/ezpeezee/beta-version-toon-studio) - Turn an idea or script into a 9:16 cartoon short with inked characters in Blender 3D worlds, word-timed captions and SFX.
+- [beta-version-blox-studio](https://github.com/ezpeezee/beta-version-blox-studio) - Turn an idea or script into a 9:16 blocky 3D animated short in Blender with free TTS, lip-sync, captions and music.
 
 
 ## 🏥 Health & Life Sciences
