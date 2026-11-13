@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [make.pictures](https://github.com/make-pictures/make-pictures-studio) - Direct 60 FPS 2D/3D animations in Remotion and Three.js with 9 agent skills, Studio Web timeline, ElevenLabs voiceover, and music ducking.
 
 
 ## 🏥 Health & Life Sciences
