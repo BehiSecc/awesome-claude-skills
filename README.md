@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [osmo-phone-calls](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins/tree/main/skills/osmo-phone-calls) - Place real phone calls to businesses and helplines through OsmO, then read the summary and transcript.
 
 ## 📰 Articles & Blog Posts
 
