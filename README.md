@@ -97,6 +97,7 @@
 - [aria-icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) - Search and add open-source SVG icons to frontend projects.
 - [chisle](https://github.com/JayPokale/Chisle) - Keep coding-agent responses and changes concise with efficiency-focused rules.
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
+- [agent-memory-workbench](https://github.com/A-Tao990/agent-memory-workbench) - Local, source-linked memory and handoff tooling for Claude Code and Codex: verified provenance for user messages, task-scoped stops, and current-state recovery across windows.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
 
