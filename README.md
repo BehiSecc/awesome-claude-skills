@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [ad-spend-review-lite](https://github.com/cmotwere/ad-spend-review-lite/tree/main/skills/ad-spend-review-lite) - Weekly Google, Meta and Microsoft Ads review from CSV exports: flags campaigns over target cost, overspend and tracking breaks, and writes a client-ready report.
 
 
 ## 🔬 Scientific & Research Tools
