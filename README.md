@@ -256,6 +256,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
+- [hshield](https://github.com/Hephaestus-Zero/hshield) - Zero-overhead Linux Landlock LSM sandbox (ABI v5/v6 filesystem + TCP port confinement) and AST supply-chain auditor for isolating untrusted coding agent executions.
 
 
 
