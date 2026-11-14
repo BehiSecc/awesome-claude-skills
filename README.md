@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [woo-weekly-store-review](https://github.com/t-nguyen2107/winsols-free-skills/tree/main/woo-weekly-store-review) - Turn a WooCommerce orders CSV export into a weekly store review: revenue, AOV, problem orders, top products, COD vs online split, and next actions. No API key.
 
 
 ## 🔬 Scientific & Research Tools
