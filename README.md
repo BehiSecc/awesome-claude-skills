@@ -140,6 +140,7 @@
 
 
 ## ✍️ Writing & Research
+- [aihot](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot) - Search Chinese-language AI industry news and retrieve daily briefings with Claude Code.
 - [article-extractor](https://github.com/michalparkola/tapestry-skills/tree/main/article-extractor) - Extract full article text and metadata from web pages.
 - [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Create internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc)
