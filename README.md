@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [start-a-business](https://github.com/bragoatski/foundit-business-fees/tree/main/skills/start-a-business) - Walks a person through starting and keeping a US LLC, corporation or nonprofit in any state, with each state's real filing fees, due dates and official links from an open CC BY 4.0 dataset.
 
 
 ## 🛡 Security & Web Testing
