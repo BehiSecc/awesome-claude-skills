@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [hslice](https://github.com/Hephaestus-Zero/hslice) - Sub-2ms C11 mmap trigram code indexer and structural AST symbol slicer that cuts coding agent file-read tokens by ~94% across C/C++, Python, TypeScript, Rust, and Go.
 
 
 ## 📊 Data & Analysis
