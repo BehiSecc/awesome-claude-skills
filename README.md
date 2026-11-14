@@ -317,6 +317,7 @@
 - [agent-starter](https://github.com/sneg55/agent-starter) - Skills, hooks, and templates for bootstrapping AI-agent-friendly projects.
 - [kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) - Traditional Chinese-first collection of 22 reusable agent skills with bilingual documentation.
 - [goose-skills](https://github.com/gooseworks-ai/goose-skills) - 125 growth and GTM skills for ads, content, lead generation, outreach, research, and SEO.
+- [GoVisit Toolkit](https://github.com/inhotel-io/govisit-toolkit) - 22 MIT-licensed Agent Skills for travel discovery and structured content retrieval with GoVisit's hosted tools ([developer docs](https://govisit.ai/en/docs/developers/mcp/overview)).
 - [PM Skills](https://github.com/mohitagw15856/pm-claude-skills) - 1,100+ professional skills across 35 professions, including PRDs, postmortems, and negotiation.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents covering SEO, copywriting, cold email, pricing, CRO, ads, and analytics.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads with live data connectors.
