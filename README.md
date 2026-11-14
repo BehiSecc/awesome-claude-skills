@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [pulse](https://github.com/muhammademanaftab/pulse) - Turn your Claude Code sessions into daily notes, project pages, and a weekly recap in Markdown, then ask questions about past work with a recall skill.
 
 
 ## 🎬 Media & Content
