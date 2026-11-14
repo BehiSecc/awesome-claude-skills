@@ -327,6 +327,7 @@
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
 - [awesome-agentic-ai skills](https://github.com/adriannoes/awesome-agentic-ai/tree/main/cursor-claude-codex/skills) - Agent skills for development, design, research, and product work.
+- [Ballet](https://github.com/brainfish-ai/ballet-agent-plugins) - Plugin marketplace with 7 Ballet skills and the Ballet MCP server, for Claude Code, Cursor, and Codex.
 - [claude-toolbox skills](https://github.com/serpro69/claude-toolbox/tree/master/klaude-plugin/skills) - Claude Code skills for planning, implementation, documentation, and code review.
 - [Headcount](https://github.com/cbrock84/headcount) - Business role skills for strategy, finance, operations, security, and more.
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
