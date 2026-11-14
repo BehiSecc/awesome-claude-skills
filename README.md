@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [x402-pilot](https://github.com/DrVelvetFog/x402-pilot) - Skills for building, reviewing and testing x402 payment-protocol code, with the x402 spec corpus bundled so answers cite the spec instead of memory.
 
 
 ## 📊 Data & Analysis
