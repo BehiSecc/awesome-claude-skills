@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [alphadrama-short-drama-skill](https://github.com/Alwzc/alphadrama-short-drama-skill) - Turn web novels or scripts into 60-second 9:16 vertical short-drama episodes with three-view character sheets, 12–18 shot storyboards, and multi-model video prompts (Seedance, MiniMax H3, Kling, Wan).
 
 
 ## 🏥 Health & Life Sciences
