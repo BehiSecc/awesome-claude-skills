@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [reference-to-video-prompts](https://github.com/refvid/awesome-reference-to-video-prompts/tree/main/skills/reference-to-video-prompts) - Write Kling, Seedance, Wan or Vidu prompts that keep the same person, pet or product in every shot, with 71 tested examples.
 
 
 ## 🏥 Health & Life Sciences
