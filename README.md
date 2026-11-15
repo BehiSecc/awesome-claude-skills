@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [email-testing](https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing) - Preview and check any HTML email as Outlook, Gmail, Apple Mail, Yahoo Mail and AOL Mail draw it, light and dark, locally with no account.
 
 
 ## 📊 Data & Analysis
