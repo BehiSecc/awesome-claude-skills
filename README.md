@@ -42,6 +42,7 @@
 
 
 ## 🛠 Development & Code Tools
+- [telegram-bot-ui](https://github.com/hlibsuslov/telegram-bot-ui) - Agent skill for designing Telegram bot interfaces, keyboards, navigation, streaming replies, and Bot API integrations.
 - [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code
 - [using-git-worktrees](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) - Creates isolated git worktrees with smart directory selection and safety verification.
