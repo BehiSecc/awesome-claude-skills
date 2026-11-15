@@ -211,6 +211,7 @@
 - [papercut-explainer](https://github.com/0xS4N4TG/papercut-explainer) - Turn links into narrated cut-paper explainer videos using Remotion.
 - [ecommerce-video-skills](https://github.com/xianyu110/ecommerce-video-skills) - Ecommerce video skills for hooks, storyboards, voice-overs, and subtitles.
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
+- [easyrender-image-to-3d](https://github.com/easyrenderai/easyrender.ai/tree/main/skills/easyrender-image-to-3d) - Turn one product photo into a textured 3D model (GLB), with a free preview before spending credits.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
 
