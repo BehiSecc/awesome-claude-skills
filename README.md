@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [tufte-skill](https://github.com/mayar-ariss/tufte-skill) - Applies Edward Tufte's principles to charts, maps and diagrams in matplotlib, Plotly, ggplot2, D3 and more, with every rule sourced to his books.
 
 
 ## 🔬 Scientific & Research Tools
