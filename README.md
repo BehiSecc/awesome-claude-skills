@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [Sponge](https://github.com/hraness/product-skills/tree/main/skills/sponge) - Search, save, and annotate a local reading library through Sponge’s CLI or MCP server.
 
 
 ## 🎬 Media & Content
@@ -213,6 +214,9 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [Dawn](https://github.com/hraness/product-skills/tree/main/skills/dawn) - Compose music in TypeScript with an authorized Dawn private-preview installation.
+- [Textmock](https://github.com/hraness/product-skills/tree/main/skills/textmock) - Create editable fictional conversation links with a bundled local Node.js helper.
+- [Yaptake](https://github.com/hraness/product-skills/tree/main/skills/yaptake) - Edit a local Yaptake video project through its transcript with the installed Mac app.
 
 
 ## 🏥 Health & Life Sciences
