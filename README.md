@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [Transformer.gg](https://github.com/NBV-AppFactory/transformer-mcp/tree/main/skills/transformer-brand) - Find X creators who fit a brand, send them paid sponsored-post offers and track results on [Transformer.gg](https://transformer.gg/?utm_source=github&utm_medium=referral&utm_campaign=backlinks&utm_content=listing). Asks before sending any offer or payment.
 
 
 ## 🛡 Security & Web Testing
