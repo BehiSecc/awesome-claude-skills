@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [claude-editing-skills](https://github.com/pihu26112005/claude-editing-skills) - 76 skills that edit your own video into a styled reel: motion styles, animated captions and motion graphics, rendered with FFmpeg with the footage untouched.
 
 
 ## 🏥 Health & Life Sciences
