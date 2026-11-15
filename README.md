@@ -177,7 +177,7 @@
 
 
 ## 💼 Business & Career
-- [monetize](https://github.com/zhengqiuyang/monetize-skill) - Turn a career history into an honest, side-income plan: skills audit, opportunity scan with sourced numbers, one leverage action, 30-day verifiable checklist.
+- [extra-income](https://github.com/zhengqiuyang/extra-income-skill) - Turn a career history into an honest, extra-income plan: skills audit, opportunity scan with sourced numbers, one leverage action, 30-day verifiable checklist.
 
 
 ## 🎬 Media & Content
