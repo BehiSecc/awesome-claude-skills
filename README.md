@@ -213,6 +213,8 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [remotion-voiceover](https://github.com/RTY2345RR/miragea-agent-skills/tree/main/skills/remotion-voiceover) - Add AI voiceover and captions to a Remotion project: per-scene narration with voice cloning, a frame-accurate `voiceover.json` timeline and `@remotion/captions` captions plus SRT/VTT.
+- [ai-podcast-generator](https://github.com/RTY2345RR/miragea-agent-skills/tree/main/skills/ai-podcast-generator) - Turn a PDF, web page or notes into a two-host podcast episode (MP3 with chapters, transcript, show notes) with cloned host voices; an open-source NotebookLM Audio Overview alternative.
 
 
 ## 🏥 Health & Life Sciences
