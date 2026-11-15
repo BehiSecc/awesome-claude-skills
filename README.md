@@ -14,6 +14,7 @@
   - [🔬 Scientific \& Research Tools](#-scientific--research-tools)
   - [✍️ Writing \& Research](#️-writing--research)
   - [📘 Learning \& Knowledge](#-learning--knowledge)
+  - [💼 Business & Career](#-business--career)
   - [🎬 Media \& Content](#-media--content)
   - [🏥 Health \& Life Sciences](#-health--life-sciences)
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
@@ -173,6 +174,10 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+
+
+## 💼 Business & Career
+- [monetize](https://github.com/zhengqiuyang/monetize-skill) - Turn a career history into an honest, side-income plan: skills audit, opportunity scan with sourced numbers, one leverage action, 30-day verifiable checklist.
 
 
 ## 🎬 Media & Content
