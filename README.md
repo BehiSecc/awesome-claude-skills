@@ -174,6 +174,7 @@
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
 
+- [english-reading-analysis](https://github.com/MelanthaCode/english-reading-analysis) - Turn English passages and exam papers into Chinese analysis with a print-ready A4 PDF.
 
 ## 🎬 Media & Content
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
