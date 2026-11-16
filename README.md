@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [humanize-document](https://github.com/Walid-Ahmed/claude-skills/tree/main/humanize-document) - Bring a Word, Markdown or text document under a target AI score in the JustDone detector by rewriting its most-flagged paragraphs in Grubby, with Claude checking every rewrite for meaning. Needs paid Grubby and JustDone accounts.
 
 
 ## 📘 Learning & Knowledge  
@@ -173,6 +174,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [flashcard-deck](https://github.com/Walid-Ahmed/claude-skills/tree/main/flashcard-deck) - Turn any subject, or your own lecture PDFs, slides, notes, repos or Anki exports, into print-friendly A4 question-and-answer flashcards grouped by topic, with per-topic PDFs and optional YouTube videos and thumbnails.
 
 
 ## 🎬 Media & Content
