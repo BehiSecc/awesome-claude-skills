@@ -176,6 +176,7 @@
 
 
 ## 🎬 Media & Content
+- [SurgePix Agent Skills](https://github.com/SurgePix/agent-skills) - Agent-callable visual skills for presentations, image editing, background removal, translation, inpainting, logos, posters and storyboards.
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 - [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival.
 - [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves the quality of images, especially screenshots.
