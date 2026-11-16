@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [based-loans](https://github.com/0xVarius/basedloans-skill) - Borrow USDC against Base tokens with no liquidations, or lend USDC: live quotes, token risk reports and ready-to-sign transactions.
 
 
 ## 🔬 Scientific & Research Tools
