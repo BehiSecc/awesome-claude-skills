@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [skill-hive](https://github.com/hashgesh/skill-hive) - 13 skills in three Claude Code plugins for git workflow, linting, refactoring, tech debt, and codebase tours; also work in OpenCode.
 
 
 ## 🤝 Contribution
