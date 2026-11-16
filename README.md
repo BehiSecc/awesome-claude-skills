@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [veille](https://github.com/veilleio/skills) - Validate emails, phone numbers, IBANs and VAT numbers, check domains and IP reputation, and get exchange rates through the Veille API.
 
 ## 📰 Articles & Blog Posts
 
