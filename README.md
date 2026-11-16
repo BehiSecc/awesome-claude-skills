@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [saudi-legal](https://github.com/Sulaimannnnnn/saudi-legal) - Saudi law research in Arabic or English with verbatim, status-checked article citations from official sources, plain-language explanation, and judicial precedent where no text exists.
 
 
 ## 📘 Learning & Knowledge  
@@ -219,6 +220,7 @@
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
 - [Satori](https://github.com/MetcalfSolutions/Satori) - Support reflective dialogue about stress, relationships, and life decisions.
+- [whoop-full-analysis](https://github.com/Sulaimannnnnn/Whoop-full-analysis) - Analyze a full WHOOP data export: Recovery, HRV, sleep, strain and journal links, hidden patterns the app does not show, and your top 3 levers, in any language.
 
 
 ## 🤝 Collaboration & Project Management
