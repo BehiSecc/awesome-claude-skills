@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [how-to](https://github.com/mykhailus/how-to-skill) - Turn any "how do I do X" question into a one-page instruction with an ink drawing the reader operates by hand; steps tick off as they are performed.
 
 
 ## 🎬 Media & Content
