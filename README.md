@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [equibles-research](https://github.com/daniel3303/stock-market-mcp-server/tree/master/skills/equibles-research) - Research US stocks with sourced numbers: SEC filings, financial statements, earnings call transcripts, insider trades, 13F holders, short interest and option chains, through the Equibles MCP server.
 
 
 ## 🔬 Scientific & Research Tools
