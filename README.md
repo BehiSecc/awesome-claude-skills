@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [integral-lens](https://github.com/nftvity/integral-lens) - Analyze any problem, decision, or project through Ken Wilber's AQAL map (quadrants, levels, lines, states, types), find the blind spot, and turn it into a prioritized task plan.
 
 
 ## 📘 Learning & Knowledge  
