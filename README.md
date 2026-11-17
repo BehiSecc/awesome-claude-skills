@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [aigent-talking-head](https://github.com/wrg32786/aigent-talking-head) - Turn a phone clip into a captioned 9:16 talking-head reel locally, with kinetic captions, graphics planned from the transcript, and TikTok, Reels and Shorts exports.
 
 
 ## 🏥 Health & Life Sciences
