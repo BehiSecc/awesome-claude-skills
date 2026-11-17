@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [okdata-skills](https://github.com/okdataapi/skills) - 35 skills for social and e-commerce research: competitor posts, comments, brand mentions, trends, creators, transcripts, ads and product reviews on TikTok, YouTube, X, Reddit, Amazon, Douyin and Xiaohongshu. Needs an okdata API key (pay per call).
 
 
 ## 🔬 Scientific & Research Tools
