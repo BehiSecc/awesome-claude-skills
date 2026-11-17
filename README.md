@@ -256,6 +256,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
+- [kosa8-sandbox](https://github.com/kosa8ai/kosa8-claude-plugin/tree/main/skills/kosa8-sandbox) - Run untrusted or agent-written code in a sealed microVM instead of on the host, keep API keys outside it behind an egress allow-list, and checkpoint, rewind or fork before risky steps (needs the commercial kosa8 CLI or a kosa8 Cloud key).
 
 
 
