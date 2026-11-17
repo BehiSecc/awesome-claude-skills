@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [explain](https://github.com/NG-Bullseye/explain-skill) - Explain a mechanism as a causal chain in the user's own vocabulary: problem first, every claim with its because, no analogies.
 
 
 ## 🎬 Media & Content
