@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [taller](https://github.com/contenidoinmobiliario79-tech/taller) - Pack of 16 skills that scales effort to the request, with a visible budget and proof before "done"; also short-form video hooks, scripts and calendars.
 
 
 ## 📊 Data & Analysis
