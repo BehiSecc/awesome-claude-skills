@@ -279,6 +279,7 @@
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
 - [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) - Read, search, and manage Telegram conversations through the tlgr CLI.
 - [unbrowse](https://github.com/unbrowse-ai/unbrowse/tree/main/skill) - Browse websites, reuse site tools, and call their APIs through Unbrowse.
+- [oppi-digital-products](https://github.com/Reggiebro/oppi-digital-products/tree/master/skills/oppi-digital-products) - Agent commerce skill: browse a digital product catalog, test free sample prompts, pay with crypto, verify payments on-chain.
 - [webcmd-browser](https://github.com/agentrhq/webcmd/tree/main/skills/webcmd-browser) - Inspect pages and interact with websites in a live browser using webcmd.
 - [job-application-agent](https://github.com/vaibhavarora14/job-application-agent) - Discover, evaluate, prepare, and track job applications using verified facts.
 - [screenpipe-api](https://github.com/screenpipe/screenpipe/tree/main/crates/screenpipe-core/assets/skills/screenpipe-api) - Query locally recorded screen, audio, meeting, and interface context.
