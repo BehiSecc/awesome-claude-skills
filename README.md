@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [chat-human](https://github.com/NB-Corp/chat-human) - Delivers natural thumb-typed IM bubbles and mobile key-value/code cards instead of raw pipe tables or 250-word essays (plain text by default; voice notes off by default).
 
 
 ## 📘 Learning & Knowledge  
