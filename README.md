@@ -102,6 +102,7 @@
 
 
 ## 📊 Data & Analysis
+- [b2b-hiring-intent-radar](https://github.com/yan0lovesha/hiring-intent-mcp/tree/main/skills/b2b-hiring-intent-radar) - Zero-dependency live 9-ATS job board scanner (Greenhouse, Lever, Ashby, Personio, Teamtailor, Workable+) extracting 125+ enterprise tech-stack tags, disclosed salary bands, 0-100 buying-intent scores, and sales icebreakers via Python stdlib or MCP. [Cloud PPE APIs](https://apify.com/yan0lovesha) · [Agensi Pro Skill](https://www.agensi.io/skills/b2b-signal-to-cold-email-autopilot-pro-clay-n8n).
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
