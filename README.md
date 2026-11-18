@@ -126,7 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
-
+- [arpent](https://github.com/Alexandre-LPZ/arpent) - French real estate and resale assets with open public data (DVF sales, cadastre, BODACC, Sirene, INPI accounts and trademarks): deal appraisals, comparable-based valuations, market readings. Every figure cites its dataset and date.
 
 ## 🔬 Scientific & Research Tools
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - 125+ scientific skills for bioinformatics, cheminformatics, clinical research, and machine learning.
