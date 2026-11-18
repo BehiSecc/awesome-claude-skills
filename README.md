@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [limits-window-shift](https://github.com/Spoki-App/claude-limits-window-shift) - Starts Claude's 5-hour usage window before the workday, so a 9-to-6 day gets 3 fresh windows instead of 2.
 
 ## 📰 Articles & Blog Posts
 
