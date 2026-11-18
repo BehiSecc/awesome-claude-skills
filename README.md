@@ -260,6 +260,7 @@
 
 
 ## 🔧 Utility & Automation  
+- [ai-employee-skills](https://github.com/Tommyapi/ai-employee-skills) - Eight skills for unattended AI agents: fact rotation, blind-judge gate, lead triage, inbox ledger, shift lock, login self-heal, daily report.
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
