@@ -213,6 +213,8 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [reverse-video](https://github.com/kjagsadvisors/keeran.ai/tree/main/reverse-video) - Copy any reel's editing style from its link: measures cuts, pacing, transitions, grade, captions and the beat into a STYLE.md, then edits your footage the same way.
+- [hormozi-vsl](https://github.com/kjagsadvisors/keeran.ai/tree/main/hormozi-vsl) - Write and render a video sales letter for any offer using Alex Hormozi's VSL structure, scripted from your own intake answers.
 
 
 ## 🏥 Health & Life Sciences
