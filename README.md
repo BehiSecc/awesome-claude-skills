@@ -109,6 +109,7 @@
 - [mssql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mssql) - Safe read-only SQL queries against Microsoft SQL Server databases.
 - [kaggle-skill](https://github.com/shepsci/kaggle-skill) - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection.
 - [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - Query Octav's crypto portfolio API: wallet balances, transaction history, DeFi protocol positions, and token analytics across 20+ chains.
+- [StalkChain Holder Tracker](https://github.com/StalkC/stalkchain-plugin/tree/main/skills/holder-tracker) - Save and compare token holder snapshots to see changes in tracked positions and concentration. Requires StalkChain sign-in. Live snapshots use credits.
 - [elicitation](https://github.com/tasteray/skills/tree/main/elicitation) - Psychological profiling through natural conversation using narrative identity and Motivational Interviewing techniques.
 - [recommendations](https://github.com/tasteray/skills/tree/main/recommendations) - Personalized recommendations across movies, restaurants, products, travel, and jobs via the TasteRay API.
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics.
