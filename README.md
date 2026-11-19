@@ -126,6 +126,8 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [fantasy-nba-games-grid](https://github.com/dh-soft/fantasy-nba-games-grid) - Weekly fantasy NBA grid: game days per player, back-to-backs and light days for streaming. Uses your own free BALLDONTLIE API key.
+- [fantasy-nfl-bye-grid](https://github.com/dh-soft/fantasy-nfl-bye-grid) - Fantasy NFL bye weeks and opponents for the rest of the season, with the weeks a roster position runs short. Uses your own free BALLDONTLIE API key.
 
 
 ## 🔬 Scientific & Research Tools
