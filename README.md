@@ -38,6 +38,7 @@
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
 - [humanpen-skill](https://github.com/humanpen/humanpen-skill) - Revise AI-generated text in Word documents and PowerPoint presentations.
 - [docx-cli](https://github.com/kklimuk/docx-cli/tree/main/skills/docx-cli) - Edit Word documents with tracked changes, comments, tables, and formatting.
+- [Equalang Translation](https://github.com/equalang/equalang-skill) - Translate documents, slides, spreadsheets and e-books with layout preservation where supported; transcribe recordings. Requires an Equalang API key and credits.
 
 
 
