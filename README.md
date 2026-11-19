@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [Web Builder](https://github.com/skillux-hub/web-builder) - Build complete, verified websites from a written brief in Claude Code, Cursor, or Codex: 11 website types x 26 functional modules, Skillux template selection with entitlement checks, and a project record that separates planned, scaffolded, and verified work. Free and open-source (MIT).
 
 
 ## 📊 Data & Analysis
