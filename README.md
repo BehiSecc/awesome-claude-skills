@@ -99,6 +99,8 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [uberdesigner-studio](https://github.com/bogdan239/uberdesigner-studio) - Map a website into parts and edit each one live in a localhost panel, or have Claude change only that part.
+- [uberdesigner-skills](https://github.com/seanaiux/uberdesigner-skills) - Deploy a site on Cloudflare Workers + Supabase + R2, or replay its build as a 60 fps video.
 
 
 ## 📊 Data & Analysis
