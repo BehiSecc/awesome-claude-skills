@@ -287,6 +287,8 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [edeka-shopping](https://github.com/StardawnAI/german-grocery-plugins/tree/main/plugins/edeka/skills/edeka-shopping) - Find EDEKA offers, fill a basket from plain words, check the earliest pickup slot, and order after confirmation (Germany, pickup).
+- [rewe-shopping](https://github.com/StardawnAI/german-grocery-plugins/tree/main/plugins/rewe/skills/rewe-shopping) - Find REWE offers, fill a basket from plain words, check the earliest pickup slot, and order after confirmation (Germany, pickup).
 
 ## 📰 Articles & Blog Posts
 
