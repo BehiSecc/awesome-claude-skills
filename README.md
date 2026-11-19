@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [claude-paid-media-skills](https://github.com/SHAHINOOOO/claude-paid-media-skills) - 12 paid media skills for ad account audits, wasted spend, pacing, tracking QA, creative fatigue, cross-platform transfers, and weekly reports.
 
 
 ## 🤝 Contribution
