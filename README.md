@@ -30,6 +30,7 @@
 
 
 ## 📄 Document Skills  
+- [decks-docs-graphics](https://github.com/dini-2000/decks-docs-graphics) - Slide decks, print-ready PDF documents and graphics in 60 themes or a custom brand; decks export to PDF and editable PowerPoint.
 - [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.  
 - [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) - Extract text, tables, metadata, merge & annotate PDFs.  
 - [polaris-datainsight-doc-extract](https://github.com/jacob-g-park/polaris-datainsight-doc-extract) - Extract structured data from Office documents (DOCX, PPTX, XLSX, HWP, HWPX) using the Polaris AI DataInsight Doc Extract API.
