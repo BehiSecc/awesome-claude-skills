@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [exam-prep-skills](https://github.com/keienhrri-bit/exam-prep-skills) - Exam-prep skills for Claude Code and Codex: a tutor that has you try first, photo-to-report grading with rubric scoring and an independent regrade, checkpoint reviews and PDF reports.
 
 
 ## 🎬 Media & Content
