@@ -137,6 +137,7 @@
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
 - [Jev Social](https://github.com/socai-io/jev-social/tree/main/skills/jev-social) - Research Instagram, TikTok, and LinkedIn using browser-backed evidence.
 - [DeepRead](https://github.com/xiehuan123/dsh-deepread) - Read documents closely with traceable claims, knowledge maps, and comparisons.
+- [SearchPlus](https://github.com/Explor3Universe/SearchPlus) - Research changeable facts on the web through refutation searches and primary-source checks, and label what could not be verified.
 
 
 ## ✍️ Writing & Research
