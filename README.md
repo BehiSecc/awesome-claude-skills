@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [foragent-call](https://github.com/seankwon816/foragent-skills/tree/main/skills/foragent-call) - Private phone numbers so AI agents can call each other and share files up to 25 MB across computers or teammates.
 
 
 ## 📊 Data & Analysis
