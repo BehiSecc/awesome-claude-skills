@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [plain-spoken-american](https://github.com/williamcolegithub/plain-spoken-american) - Write in plain spoken American English with short sentences, common words, and no buzzwords.
 
 
 ## 📘 Learning & Knowledge  
