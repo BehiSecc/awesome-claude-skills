@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [google-flow-prompt-check](https://github.com/kanno321-create/google-flow-prompt-check) - Check Google Flow (Veo) and Kling image-to-video prompts against seven common causes of wasted generations and rewrite only the failing sentences. README in English, Japanese and Korean.
 
 
 ## 🏥 Health & Life Sciences
