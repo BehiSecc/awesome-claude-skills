@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [EarlyLore: Product Research & Design DNA](https://github.com/earlylore/earlylore-mcp/tree/main/skills/earlylore-product-architect) - Research 440K+ software products, 249-niche pricing benchmarks, traffic evidence, idea evaluations, and computed hero Design DNA CSS tokens through EarlyLore MCP. Requires an EarlyLore account. [EarlyLore](https://earlylore.com) · [MCP docs](https://earlylore.com/mcp).
 
 
 ## 🔬 Scientific & Research Tools
