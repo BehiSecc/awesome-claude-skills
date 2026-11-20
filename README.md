@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [archify](https://github.com/tt-a1i/archify) - Turns any idea, everyday plan, domain question, Mermaid draft, or codebase into a polished, validated standalone interactive HTML diagram (10 diagram types) or a 4-style one-page explainer — light/dark themes, path tracing, browser collision checks, and extensible HTML.
 
 
 ## 📊 Data & Analysis
