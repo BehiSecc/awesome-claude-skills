@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [troie-claude-skills](https://github.com/troiestudio/claude-skills) - French business writing skills: review replies, job ads under French labour law, property listings with mandatory mentions, plus an SEO page audit.
 
 
 ## 📘 Learning & Knowledge  
