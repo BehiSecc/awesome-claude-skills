@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [baton](https://github.com/StanimirTenev/baton) - Task logbooks for Claude Code: one Markdown LOGBOOK.md per task, kept by hooks so the next session reads what the last one did and decided. Local, MIT.
 
 
 ## 🛡 Security & Web Testing
@@ -256,6 +257,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
+- [pqc-scan](https://github.com/StanimirTenev/qrp-mcp/tree/main/plugin/skills/pqc-scan) - Inventory quantum-vulnerable cryptography (RSA, ECDSA, DH) in a codebase with the offline qrp-mcp scanner; writes a CycloneDX CBOM and reports what it did not read.
 
 
 
