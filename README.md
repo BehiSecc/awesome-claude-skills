@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [claude-seo-skills](https://github.com/social-script/claude-seo-skills) - SEO content and web copy skills built from Search Console data across 150 pages: plan, write, rewrite and audit pages that rank and get cited by AI answers.
 
 
 ## 🤝 Contribution
