@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [bot-safety-rules-starter](https://github.com/skillsforbots/grok-bot-skills/tree/main/skills/bot-safety-rules-starter) - Standing no-send and no-spend rules for agents, plus a structured handoff note between bots.
 
 ## 📰 Articles & Blog Posts
 
