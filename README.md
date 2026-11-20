@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [fpa-flux-review](https://github.com/ericwangzhi6-boop/fpa-flux-review-claude-skill) - Month-end review for finance teams: flags account changes that need explaining and likely errors (missed costs, double entries, wrong signs), and builds an Excel tracker.
 
 
 ## 🔬 Scientific & Research Tools
