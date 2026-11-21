@@ -206,6 +206,7 @@
 - [awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) - Plan storyboards and create Seedance video prompts with agent skills.
 - [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/arcmira) - Search YouTube and podcast transcripts for quotes, mentions, and sponsors.
 - [genai-mesh-gradient](https://github.com/9929y/genai-mesh-gradient) - Create editable mesh gradients for websites, presentations, and brand visuals.
+- [i2v-models](https://github.com/i2v-ai/i2v-skills/tree/main/i2v-models) - Generate images and videos from agent-ready prompts: discover 12 image and 16 video models, get a USD quote, and run the generation with a spending ceiling.
 - [design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) - Build and verify parametric 3D models in Blender for export.
 - [product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) - Create animated product launch videos from a website URL.
 - [papercut-explainer](https://github.com/0xS4N4TG/papercut-explainer) - Turn links into narrated cut-paper explainer videos using Remotion.
