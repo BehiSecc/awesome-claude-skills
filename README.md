@@ -242,7 +242,8 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
-- [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [court-skill](https://github.com/alexyc9381/court-skill)
+- [OpenPM](https://github.com/SilasSolivagus/OpenPM) - Deterministic 7-skill pipeline for product managers that compiles rough feature ideas into 95% monochrome wireframes, orthogonal SVG flowcharts, offline single-file HTML review workbenches with `@[Component]` chips, and side-by-side Confluence/DOCX specs. - Test an idea with prosecutor, defense, juror, and judge agents.
 
 
 ## 🛡 Security & Web Testing
