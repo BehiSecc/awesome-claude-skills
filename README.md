@@ -213,6 +213,8 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [gta6-stream-clipper](https://github.com/jutsuhq/gta6-stream-clipper) - Turn GTA 6 stream VODs into 9:16 TikTok, Shorts and Reels clips with facecam split, word-by-word captions and Rockstar, platform and campaign rule checks.
+
 
 
 ## 🏥 Health & Life Sciences
