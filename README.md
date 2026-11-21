@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [add-flareup](https://github.com/bigryanpark/add-flareup) - Get unstuck when ADD or ADHD blocks starting, staying on, or finishing a task. Asks 1 to 3 tap-to-answer questions, then hands you one physical next step.
 
 ## 📰 Articles & Blog Posts
 
