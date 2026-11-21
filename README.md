@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [synthetic-consumer-research](https://github.com/AryamanSi17/synthetic-consumer-research/tree/main/skills/synthetic-consumer-research) - Run synthetic consumer surveys with LLM personas and score purchase intent with Semantic Similarity Rating (arXiv 2510.08338).
 
 
 ## 🔬 Scientific & Research Tools
