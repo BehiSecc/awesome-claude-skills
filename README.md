@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [kontext-review](https://github.com/marcopolodesign/kontext-skills/tree/main/skills/kontext-review) - Review a page for the patterns that make it look AI-made, with exact fixes and an Approve or Block verdict.
 
 
 ## 📊 Data & Analysis
