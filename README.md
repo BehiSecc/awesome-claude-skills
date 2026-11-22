@@ -333,6 +333,7 @@
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
 
+- [dayan-enterprise-ai-skills](https://github.com/Kosmoray/dayan-enterprise-ai-skills) - Collection of 66 production-tested enterprise AI agent skills covering anti-AI-slop editing, executive single-file HTML dashboards, rubric-scored technical proposals, 4-angle contract review, and guardrail RAG architecture.
 
 ## 🤝 Contribution
 
