@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [claude-code-parallel-sessions](https://github.com/lmweblab/claude-code-parallel-sessions) - Keeps parallel Claude sessions on one project from overwriting each other's work, with a shared change log that also tracks what is uploaded to the server. No git needed.
 
 
 ## 🛡 Security & Web Testing
