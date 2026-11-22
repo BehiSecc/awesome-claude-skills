@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [sharpen](https://github.com/melthond/sharpen) - Claude Code plugin that, when turned on, rewrites each eligible prompt into a specific one using the conversation, the codebase and the installed skills, agents and MCP tools, and shows it for approval before any work starts.
 
 
 ## 📊 Data & Analysis
