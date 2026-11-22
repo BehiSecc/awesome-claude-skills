@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [german-b1-tutor](https://github.com/knazz/claude-skills/tree/main/german-b1-tutor) - Personal German tutor from A2 to a passed B1 exam (Goethe, telc, DTZ, ÖSD). Teaches in the learner's native language, keeps a spaced-repetition error log, and builds interactive practice pages.
 
 
 ## 🎬 Media & Content
