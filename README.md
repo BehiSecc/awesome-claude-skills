@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [routerobin-embed](https://github.com/karamanbk/routerobin-skills/tree/main/skills/routerobin-embed) - Add a RouteRobin booking calendar or lead routing form inline to a website (HTML, Next.js, React, Astro, Webflow, Framer) and wire up the booking event.
 
 ## 📰 Articles & Blog Posts
 
