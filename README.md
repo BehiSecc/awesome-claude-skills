@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [kite](https://github.com/kitedotnew/kite-agent-plugins/tree/main/plugins/kite/skills/kite) - Design banners, social posts, logos and app screens as editable layers in a shared Kite file via its hosted MCP server.
 
 
 ## 🏥 Health & Life Sciences
