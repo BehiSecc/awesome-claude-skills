@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [business-health-check](https://tools.ayskilllab.com/) - Compute small-business KPIs locally and draft a 30-day plan in Traditional Chinese (paid, US$4.99, not open source).
 
 
 ## 🔬 Scientific & Research Tools
