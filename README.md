@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [instagram-edits-agent-skills](https://github.com/TaricaTarica/instagram-edits-agent-skills) - Edit Instagram Reels in Instagram Edits for Mac via its MCP server: cut silences, captions, hooks, audio, color and export.
 
 
 ## 🏥 Health & Life Sciences
