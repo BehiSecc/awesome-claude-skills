@@ -214,6 +214,7 @@
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
 
+- [starveil-comic-studio](https://github.com/gdfsdjj145/starveil-comic-skill) - Turn Claude Code, Cursor & Antigravity into a DaVinci-style comic & webtoon studio via `SKILL.md` + Streamable HTTP MCP (`https://starveilai.com/api/mcp`) with 0-credit photo OC lock, multi-page continuity, drag-to-box speech-bubble editing, and 6-language translation.
 
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
