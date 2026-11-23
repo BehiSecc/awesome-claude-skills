@@ -203,6 +203,7 @@
 - [anidoodle](https://github.com/alexgreensh/anidoodle) - Create hand-drawn illustrations, animations, stickers, and short films as code.
 - [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) - Fetch YouTube transcripts and search videos, channels, and playlists.
 - [OrkasVideoStudio video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/blob/7387d99d468e0cce22508854ba8bca04e79657e1/packages/skills/video-router/SKILL.md) - Route video briefs to generation, composition, editing, or mixed workflows.
+- [free-image-to-video](https://github.com/davepoon/buildwithclaude/blob/main/plugins/all-skills/skills/free-image-to-video/SKILL.md) - Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark ([freeimagetovideo.ai](https://freeimagetovideo.ai/)).
 - [awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) - Plan storyboards and create Seedance video prompts with agent skills.
 - [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/arcmira) - Search YouTube and podcast transcripts for quotes, mentions, and sponsors.
 - [genai-mesh-gradient](https://github.com/9929y/genai-mesh-gradient) - Create editable mesh gradients for websites, presentations, and brand visuals.
