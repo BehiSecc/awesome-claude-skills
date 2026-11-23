@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [eng-team](https://github.com/moiz7-dev/eng-team) - Unofficial community project: a low-cost multi-agent engineering team for Claude Code (Manager, Designer, Developer and QA subagents) with a QA gate and safe defaults. MIT.
 
 
 ## 📊 Data & Analysis
