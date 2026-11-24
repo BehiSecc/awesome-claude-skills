@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [migrant-pl](https://github.com/denis-solodov/migrant-pl) - Research Polish migration law using official sources and draft documents in Polish, with multilingual explanations.
 
 
 ## 📘 Learning & Knowledge  
