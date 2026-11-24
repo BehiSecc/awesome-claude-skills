@@ -38,6 +38,7 @@
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
 - [humanpen-skill](https://github.com/humanpen/humanpen-skill) - Revise AI-generated text in Word documents and PowerPoint presentations.
 - [docx-cli](https://github.com/kklimuk/docx-cli/tree/main/skills/docx-cli) - Edit Word documents with tracked changes, comments, tables, and formatting.
+- [yuanmou-ppt-skill](https://github.com/YuanMouJun/yuanmou-ppt-skill) - Zero-dependency native OOXML PowerPoint (.pptx) engine & skill for 1:1 visual template cloning, lossless .pptx deck surgery, embedded Excel-backed native charts, and 5-gate visual QA.
 
 
 
