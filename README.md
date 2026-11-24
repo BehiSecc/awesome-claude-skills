@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [movaui-skills](https://github.com/beautifulboy9527/movaui-skills) - Open-source Agent Skills for motion-first web engineering (project stack adapter, post-baseline editor, ASCII animation spec validator) and a zero-auth remote Cloud Catalog MCP.
 
 
 ## 📊 Data & Analysis
