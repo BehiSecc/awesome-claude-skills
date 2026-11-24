@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [ai-search-skills](https://github.com/citedby-eu/ai-search-skills) - Seven skills for AI-search visibility: AI-crawler access in robots.txt and at the server, llms.txt, JSON-LD, citation probe, citation gap and brand-answer audit. Stdlib Python, MIT.
 
 ## 📰 Articles & Blog Posts
 
