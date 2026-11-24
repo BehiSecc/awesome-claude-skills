@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [Parallel AI for Google Ads](https://github.com/parallel-ai-inc/google-ads-skills) - 13 free Google Ads Agent Skills for account audits, search terms, budget pacing, Performance Max, campaign builds, client reports, and Google's read-only Google Ads MCP server, powered by deterministic local Python 3 scripts.
 
 
 ## 🤝 Contribution
