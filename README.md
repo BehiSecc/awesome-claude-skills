@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [alphasift](https://github.com/ZhuLinsen/alphasift/tree/main/.github/skills/alphasift) - Multi-market quantitative stock screening, zero-snooping Walk-Forward candlestick pattern replay, and zero-dependency STDIO MCP server (11 tools, 3 resources) across 7 equity markets.
 
 
 ## 🔬 Scientific & Research Tools
