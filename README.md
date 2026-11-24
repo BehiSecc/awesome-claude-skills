@@ -211,6 +211,8 @@
 - [papercut-explainer](https://github.com/0xS4N4TG/papercut-explainer) - Turn links into narrated cut-paper explainer videos using Remotion.
 - [ecommerce-video-skills](https://github.com/xianyu110/ecommerce-video-skills) - Ecommerce video skills for hooks, storyboards, voice-overs, and subtitles.
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
+- [camera-prompt-quickcheck](https://github.com/287523023qq-hue/camera-prompt-quickcheck) - Deterministic zero-API Python pre-flight linter auditing AI video prompts (Runway, Kling, Sora, Veo) against six camera physics rules (C01-C06), with a live browser playground.
+- [cinematic-shot-prompting](https://github.com/287523023qq-hue/cinematic-shot-prompting) - 7-slot cinematic camera motion contracts for AI video generation (merged upstream in `claude-skills` v2.14.15, PR #1132).
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
 
