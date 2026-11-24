@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [van-skills](https://github.com/waysvan077/van-skills) - Curated library of 394 ready-to-use agent skills (video, development, security, crypto, marketing, and more); every skill passed a SkillSpector security audit before inclusion.
 
 
 ## 🤝 Contribution
