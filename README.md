@@ -277,6 +277,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [ChatFate](https://chatfate.life/skills/chatfate/SKILL.md) - True Solar Time Sanhe Zi Wei Dou Shu 12-palace charts, Solar-Term Four Pillars BaZi / Korean Saju, dual relationship synastry, and 22-Arcana Destiny Matrix skill with past-event verification.
 - [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) - Read, search, and manage Telegram conversations through the tlgr CLI.
 - [unbrowse](https://github.com/unbrowse-ai/unbrowse/tree/main/skill) - Browse websites, reuse site tools, and call their APIs through Unbrowse.
 - [webcmd-browser](https://github.com/agentrhq/webcmd/tree/main/skills/webcmd-browser) - Inspect pages and interact with websites in a live browser using webcmd.
