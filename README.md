@@ -99,6 +99,8 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [tui-design](https://github.com/gfargo/tui-design-skill) - Design and review clean, professional terminal UIs and CLIs, with references for Bubble Tea, Ratatui, Textual and Ink.
+- [vhs-cli-demos](https://github.com/gfargo/skills/tree/main/plugins/terminal/skills/vhs-cli-demos) - Generate deterministic screenshots and demo GIFs of command-line and terminal applications with Charm VHS.
 
 
 ## 📊 Data & Analysis
@@ -213,6 +215,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [pixelkiln](https://github.com/gfargo/pixelkiln) - Manifest-driven pixel-art asset pipeline for game development, with human review, provenance and recovery.
 
 
 ## 🏥 Health & Life Sciences
@@ -256,6 +259,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
+- [doorman](https://github.com/gfargo/doorman) - Manage Vercel, Cloudflare, Fastly and Google Cloud Armor WAF firewall rules as code.
 
 
 
@@ -287,6 +291,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [strut](https://github.com/gfargo/strut) - Operate Docker Compose stacks on VPS infrastructure with the strut CLI: deploys, backups, drift detection, key rotation and migration.
 
 ## 📰 Articles & Blog Posts
 
