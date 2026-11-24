@@ -244,6 +244,7 @@
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
 
+- [acq-two-seat-trial](https://github.com/damri-labs/acq-handoff-capsule/tree/main/.agents/skills/acq-two-seat-trial) - Operator-requested synthetic ping/pong between two agent sessions through the ACQ relay, with explicit network/privacy agreement and cleanup. Agent Skills format; copy the folder to .claude/skills to use it in Claude Code. Python 3.9+ and HTTPS required; real-client execution untested.
 
 ## 🛡 Security & Web Testing
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
