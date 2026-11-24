@@ -243,6 +243,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [beast-mode](https://github.com/VibesDIY/beast-mode) - Follow-through for parallel Claude Code work: every work stream ends in a merged PR or a clear hand-off ([announcement](https://good.vibes.diy/blog/beast-mode-skill-for-claude-code)).
 
 
 ## 🛡 Security & Web Testing
