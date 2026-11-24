@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [Inbox Solved](https://github.com/garrettgosselink-eng/inbox-solved) - Cleans up a Gmail inbox through Claude's Gmail connector: sorts mail into labels, archives newsletters, promotions and receipts, never deletes or sends, and shows the plan before changing anything.
 
 ## 📰 Articles & Blog Posts
 
