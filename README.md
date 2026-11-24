@@ -310,6 +310,7 @@
 - [claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - Marketing skills for SEO audits, landing page review, competitor analysis, ad copy, and lead qualification.
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Developer GTM skills for launch planning, positioning, and outbound workflows.
 - [great_cto](https://github.com/avelikiy/great_cto) - Claude Code SDLC plugin with specialist agents, commands, compliance workflows, and reusable learnings.
+- [GoVisit Agent Skills Toolkit](https://github.com/inhotel-io/govisit-toolkit) - 24 portable skills for calling GoVisit's hosted, read-only travel tools, including place and destination search, visit facts, and structured page content. This repository is the skills and integration toolkit, not the MCP server implementation.
 - [linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - LinkedIn marketing skill collection for posts, comments, audits, profile optimization, and content planning.
 - [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - Structured reasoning methodology skills for logic, decisions, creativity, ethics, writing, and strategy.
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
