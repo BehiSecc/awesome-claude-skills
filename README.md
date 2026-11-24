@@ -219,6 +219,7 @@
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
 - [Satori](https://github.com/MetcalfSolutions/Satori) - Support reflective dialogue about stress, relationships, and life decisions.
+- [toddler-sleep-coach](https://github.com/chris2k20/toddler-sleep-coach) - Plans a toddler's nap and bedtime from the times parents report, logs each day and grades its own forecasts against actual sleep onset, so wake windows come from the child's own data instead of age charts. English and German, never diagnoses.
 
 
 ## 🤝 Collaboration & Project Management
