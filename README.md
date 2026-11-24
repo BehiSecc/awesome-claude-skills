@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [video-transcripts](https://github.com/pomexplica/pomlabs/tree/main/skills/video-transcripts) - Get transcripts of YouTube, Instagram, TikTok, and Facebook videos, with timestamps, SRT/VTT subtitles, and translation, through Apify.
 
 
 ## 🏥 Health & Life Sciences
