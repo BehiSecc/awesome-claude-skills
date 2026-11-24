@@ -137,6 +137,7 @@
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
 - [Jev Social](https://github.com/socai-io/jev-social/tree/main/skills/jev-social) - Research Instagram, TikTok, and LinkedIn using browser-backed evidence.
 - [DeepRead](https://github.com/xiehuan123/dsh-deepread) - Read documents closely with traceable claims, knowledge maps, and comparisons.
+- [thermoelectric-sizing](https://github.com/aysel-elsh/claude-skills/tree/main/skills/thermoelectric-sizing) - Size thermoelectric generators and Peltier coolers from real datasheets: module count, wiring, power, and heat-sink limits.
 
 
 ## ✍️ Writing & Research
