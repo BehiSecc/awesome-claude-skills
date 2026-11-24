@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [overleaf-collaboration](https://github.com/yangzichao/mcp-server-overleaf/tree/main/plugins/overleaf/skills/overleaf-collaboration) - Review edits, respond to coauthor comments, and work through Git push conflicts in Overleaf.
 
 
 ## 📘 Learning & Knowledge  
