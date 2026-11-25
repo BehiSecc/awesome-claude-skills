@@ -315,6 +315,7 @@
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills) - SEO skill collection for audits, briefs, article writing, E-E-A-T, topic clusters, and link building.
 - [toprank](https://github.com/nowork-studio/toprank) - SEO and Google Ads skills for audits, metadata, schema, bids, and CMS fixes.
 - [agent-starter](https://github.com/sneg55/agent-starter) - Skills, hooks, and templates for bootstrapping AI-agent-friendly projects.
+- [claude-code-kit](https://github.com/Gunner91/claude-code-kit) - 10 skills, 10 hooks and 8 subagents for Claude Code, plus CLAUDE.md templates, MCP examples and setup guides in English, Ukrainian and Russian.
 - [kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) - Traditional Chinese-first collection of 22 reusable agent skills with bilingual documentation.
 - [goose-skills](https://github.com/gooseworks-ai/goose-skills) - 125 growth and GTM skills for ads, content, lead generation, outreach, research, and SEO.
 - [PM Skills](https://github.com/mohitagw15856/pm-claude-skills) - 1,100+ professional skills across 35 professions, including PRDs, postmortems, and negotiation.
