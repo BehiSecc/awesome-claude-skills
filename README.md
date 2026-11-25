@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [sphyrex-vox-skill](https://github.com/OnurrUgur/sphyrex-vox-skill) - Deterministic Python engine (`vox_kit`) + multi-agent skill for producing 24 FPS Vox-style paper-collage and Natural Earth 1:50m engraved map documentaries (9:16 & 16:9, -14 LUFS) at $0 API cost.
 
 
 ## 🏥 Health & Life Sciences
