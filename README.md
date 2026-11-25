@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [ai-video-skills](https://github.com/klakix-ai/ai-video-skills) - Ten skills for AI video production: camera angles, character consistency, Seedance/Kling/Veo prompting, realism, lip sync, pacing, viral formats, phone screen compositing and 3D previs, with tested Python scripts.
 
 
 ## 🏥 Health & Life Sciences
