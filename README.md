@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [slipwing](https://github.com/narmi924/slipwing) - Operate Windows desktop apps and the browser, including the signed-in Chrome, in the background without taking the mouse. Windows only.
 
 ## 📰 Articles & Blog Posts
 
