@@ -260,6 +260,7 @@
 
 
 ## 🔧 Utility & Automation  
+- [FairValid email-verification](https://github.com/moonlitnayeem/fairvalid-ai/tree/main/skills/email-verification) - Verify email lists and check job results through FairValid’s hosted MCP; requires a FairValid account and shared credits.
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
