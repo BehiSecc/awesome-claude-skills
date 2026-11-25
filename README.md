@@ -334,6 +334,7 @@
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
 
 
+- [SkillNest](https://skillnest.dev) - Searchable web directory of 580+ Claude Code skills with copy-paste install commands, category and tag pages, side-by-side comparisons, and "best of" guides. Open-source scraper, re-syncs from GitHub weekly.
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
