@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [atris-x402](https://github.com/atrislabs/clawhub-skills/tree/main/atris-x402) - Zero-signup agent APIs (OpenAI-compatible LLM, AEO visibility audit, web design extraction, PDF parsing, YouTube search) with a free `$0` tryout, read-only MCP endpoint, and pay-per-request x402 Base USDC billing.
 
 ## 📰 Articles & Blog Posts
 
