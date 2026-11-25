@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [AI Chili](https://github.com/AI-Chili/aichili/tree/main/skills/aichili) - Generate cinematic AI videos and lip-synced talking avatars, inspect live model capabilities, and run $0 dry-run credit quotes via CLI or MCP (`@aichili/mcp` and `https://aichili.ai/mcp`).
 
 
 ## 🏥 Health & Life Sciences
