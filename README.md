@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [Deploy on MindPal](https://mindpal.space/deploy-on-mindpal) - Try any public skill in the browser, then share it as an AI tool people open from a link, without Claude or an AI subscription.
 
 ## 📰 Articles & Blog Posts
 
