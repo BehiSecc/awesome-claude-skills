@@ -201,6 +201,7 @@
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
 - [video-to-music](https://github.com/sonilo-ai/skills/tree/main/video-to-music) - Compose original soundtracks for finished videos with Sonilo.
 - [anidoodle](https://github.com/alexgreensh/anidoodle) - Create hand-drawn illustrations, animations, stickers, and short films as code.
+- [Levea AI Video Editor](https://github.com/brajendrak00068/agentic-ai-video-production) - 12 modular video editing skills and a 37-tool MCP server for viral clips, 280+ animated caption templates, 9:16 active-speaker reframe, silence removal, B-roll, motion graphics, chroma key, and cloud MP4 export.
 - [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) - Fetch YouTube transcripts and search videos, channels, and playlists.
 - [OrkasVideoStudio video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/blob/7387d99d468e0cce22508854ba8bca04e79657e1/packages/skills/video-router/SKILL.md) - Route video briefs to generation, composition, editing, or mixed workflows.
 - [awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) - Plan storyboards and create Seedance video prompts with agent skills.
