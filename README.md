@@ -101,6 +101,8 @@
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
 
 
+- [x402socks](https://github.com/X402Socks/skill/tree/main/skills/x402socks) - Agent skill for buying short-lived proxy egress for authorized targets with USDC on Base through x402: quotes the live catalog, requires operator-signed approval of the exact payment terms, accepts only one matching live 402 option, completes the payment, routes over TLS HTTP CONNECT on 3129 with credentials kept internal, and verifies the egress origin.
+
 ## 📊 Data & Analysis
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
