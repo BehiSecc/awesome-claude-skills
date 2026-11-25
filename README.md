@@ -58,6 +58,8 @@
 - [jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules) - Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and feature implementation on GitHub repos.
 - [hashicorp-agent-skills](https://github.com/hashicorp/agent-skills) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation.
 - [agnix](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates SKILL.md, CLAUDE.md, hooks, MCP configs, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
+- [siteagent-elementor-studio](https://github.com/Digitizers/siteagent-elementor-studio) - Claude Code kit for building WordPress sites in Elementor via Elementor MCP: skill, setup wizard and installers.
+- [wordpress-api-pro](https://github.com/Digitizers/wordpress-api-pro/tree/main/wordpress-api-pro) - Manage WordPress sites from Claude via REST API: posts, media, Elementor, WooCommerce, ACF and Rank Math, multi-site.
 - [email-html-mjml](https://github.com/framix-team/skill-email-html-mjml) - Generate responsive HTML email templates using MJML 4.x — cross-client compatible HTML with compilation, validation, width math, and component architecture.
 - [agent-cards-skill](https://github.com/agent-cards/skill) - Manage prepaid virtual Visa cards for AI agents. Create cards, check balances, view credentials, close cards, and get support via MCP tools.
 - [Design Auditor](https://github.com/Ashutos1997/claude-design-auditor-skill) — Audits designs against 17 professional rules: typography, WCAG, spacing, iconography, navigation, tokens + more. Scores out of 100. Supports English & Korean.
@@ -287,6 +289,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [cloudways-mcp](https://github.com/Digitizers/cloudways-mcp/tree/main/.claude/skills/cloudways-mcp) - Claude Code skill for managing Cloudways hosting (servers, apps, backups, cache, monitoring) through MCP.
 
 ## 📰 Articles & Blog Posts
 
