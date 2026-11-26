@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [QuantSet Financial & Quant Research Skills](https://github.com/quantset/skills) - 7 financial research skills (`dcf-valuation`, `comps-analysis`, `investment-memo`, `earnings-playbook`, `forensic-red-flags`, `portfolio-xray`, `quantset`) querying 90,000+ symbols & 52,000+ stocks across 67 countries, 36,000+ companies with financial statements, 127M+ SEC EDGAR XBRL facts, and 4,899 ETF look-throughs (`mw_demo` free sandbox + 250 free credits).
 
 
 ## 🔬 Scientific & Research Tools
