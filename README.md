@@ -213,7 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
-
+- [revelator-toolkit](https://github.com/yinrong/presonus-revelator-toolkit/tree/main/skills/revelator-toolkit) - Diagnose and fix PreSonus Revelator USB audio mode issues on Windows/Android (`PID_0D08` <-> `PID_0D09`), tune Fat Channel vocal presets, and run local acoustic analysis.
 
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
