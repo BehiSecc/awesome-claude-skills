@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [apple-dev-docs](https://github.com/BingoWon/apple-rag-mcp/tree/main/skills/apple-dev-docs) - Search 376,000+ official Apple Developer documentation pages and 1,880+ WWDC transcripts, browse SwiftUI/UIKit topics, and fetch canonical source pages via MCP or CLI.
 
 
 ## 📊 Data & Analysis
