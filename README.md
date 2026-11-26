@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [aiux-skills](https://github.com/imsaif/aiux-skills) - 38 AI UX pattern skills that teach your agent when a pattern applies and how to build it, from human-in-the-loop to confidence visualization.
 
 
 ## 🤝 Contribution
