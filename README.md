@@ -330,6 +330,7 @@
 - [claude-toolbox skills](https://github.com/serpro69/claude-toolbox/tree/master/klaude-plugin/skills) - Claude Code skills for planning, implementation, documentation, and code review.
 - [Headcount](https://github.com/cbrock84/headcount) - Business role skills for strategy, finance, operations, security, and more.
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
+- [mivtra-craft](https://github.com/mivtra/craft) - Arabic-first skills for RTL desktop (WPF) and web apps with light/dark themes, plus Arabic social-media content.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
 
