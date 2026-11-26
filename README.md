@@ -213,7 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
-- [Ziztu](https://github.com/0xnirlin/ziztu) - Four skills and the MCP setup for Ziztu, an AI video studio: plan and script faceless YouTube videos, viral reels and micro dramas, then make them on Ziztu.
+- [Ziztu](https://github.com/0xnirlin/ziztu) - Five skills and MCP servers for Ziztu: clip YouTube, Twitch and Kick streams into captioned vertical Shorts (https://getziztu.com/clipper), plus faceless YouTube, viral reels, micro dramas and cinematic depth.
 
 
 ## 🏥 Health & Life Sciences
