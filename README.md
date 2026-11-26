@@ -127,6 +127,7 @@
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
 
+- [taxrail-crypto-tax](https://github.com/SamuelAguiar12/taxrail/tree/main/skills/taxrail-crypto-tax) - Pre-execution US (IRS 1099-DA, Form 8949, HIFO/SpecID, TLH) and Brazil (Lei 14.754, R$35k rule, Lucro Real) crypto & DeFi tax optimization via MCP and x402 Base USDC. [TaxRail](https://taxrail.online) · [OpenAPI](https://api.taxrail.online/openapi.json).
 
 ## 🔬 Scientific & Research Tools
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - 125+ scientific skills for bioinformatics, cheminformatics, clinical research, and machine learning.
