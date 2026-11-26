@@ -137,7 +137,7 @@
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
 - [Jev Social](https://github.com/socai-io/jev-social/tree/main/skills/jev-social) - Research Instagram, TikTok, and LinkedIn using browser-backed evidence.
 - [DeepRead](https://github.com/xiehuan123/dsh-deepread) - Read documents closely with traceable claims, knowledge maps, and comparisons.
-
+- [ai-science-tracker](https://github.com/marcello-pichini/ai-science-tracker/tree/main/plugins/ai-science-tracker/skills/ai-science-tracker) - Answer "what's new in AI for science" from a curated catalog of AI-enabled discoveries and AI-found vulnerabilities, with original sources and few tokens.
 
 ## ✍️ Writing & Research
 - [article-extractor](https://github.com/michalparkola/tapestry-skills/tree/main/article-extractor) - Extract full article text and metadata from web pages.
