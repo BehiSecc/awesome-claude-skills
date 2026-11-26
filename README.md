@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [setsuzei](https://github.com/ozko00/setsuzei/tree/main/skills/setsuzei) - Estimate Japanese income and resident tax savings for freelancers (furusato nozei, iDeCo, blue-return deduction) with a tested CLI.
 
 
 ## 🔬 Scientific & Research Tools
