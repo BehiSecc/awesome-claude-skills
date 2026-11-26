@@ -99,7 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
-
+- [serial-agent-toolkit](https://github.com/Electronic-Team/serial-agent-toolkit) - Capture serial port traffic, build virtual COM port sandboxes, and reach remote serial devices with Serial Port Monitor, Virtual Serial Port Driver and Serial to Ethernet Connector.
 
 ## 📊 Data & Analysis
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
