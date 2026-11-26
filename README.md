@@ -99,6 +99,7 @@
 - [Dory](https://github.com/tjqscott/dory) - Maintain project memory with a linked wiki, findings, and handoffs.
 - [code-review-skill](https://github.com/kyy-logs/code-review-skill/tree/main/skills/code-review) - Review code changes for defects, test quality, and merge readiness.
 - [android-ui-check](https://github.com/ateymoori/oh-my-android/tree/main/skills/android-ui-check) - Inspect and test Android interfaces on emulators or devices.
+- [llm-cost-audit](https://github.com/florijan12/llm-cost-audit) - Audits a codebase's LLM API calls for wasted tokens (caching, model routing, batching, output limits) and estimates each fix's monthly saving.
 
 
 ## 📊 Data & Analysis
