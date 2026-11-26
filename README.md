@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [literary-critic](https://github.com/nuncaeslupus/literary-critic) - Index a novel manuscript, run an editorial analysis checklist, and track findings across revision drafts.
 
 
 ## 📘 Learning & Knowledge  
@@ -332,6 +333,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [claude-arsenal](https://github.com/nuncaeslupus/claude-arsenal) - Plugin marketplace with spec-driven design and execution skills, a gated task queue, and a skill authoring rubric.
 
 
 ## 🤝 Contribution
