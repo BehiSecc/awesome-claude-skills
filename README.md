@@ -126,6 +126,7 @@
 - [0xArchive Backtest](https://github.com/0xArchiveIO/0xarchive-quant/tree/main/skills/backtest) - Develop trading strategies and backtest them against Hyperliquid market data.
 - [krexa](https://github.com/Krexa-xyz/skills/tree/main/skills/krexa) - Research, backtest, and deploy trading strategies through Krexa.
 - [apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper) - Collect Reddit posts, comments, profiles, and communities through Apify.
+- [autotroph-verified-data](https://github.com/char5742/autotroph-mcp-catalog/tree/main/skills/autotroph-verified-data) - Query schema-verified SEC EDGAR 10-K/10-Q XBRL financials, EU TED tenders, USAspending/SAM.gov federal contracts, USPTO patents, and US Federal Register rules via MCP with deterministic integrity proofs.
 
 
 ## 🔬 Scientific & Research Tools
