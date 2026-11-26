@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [Antigravity Skills](https://antigravityskills.com/skills) - Independent directory of SKILL.md agent skills for Antigravity, Claude Code and Codex, with install guides; free to browse, downloads are paid after the first one.
 
 
 ## 🤝 Contribution
