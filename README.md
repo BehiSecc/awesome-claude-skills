@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [photo-pose-match](https://github.com/leisure-cat/ai-photo-poses/tree/main/skills/photo-pose-match) - Look at a user's photo, pick fitting portrait poses from 200 white models in 20 styles, and generate the shot (photo + white model).
 
 
 ## 🏥 Health & Life Sciences
