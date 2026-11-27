@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [directory-submission-skill](https://github.com/best-directories/directory-submission-skill) - Audit homepage launch readiness, filter 1,600+ startup and AI directories by Ahrefs DR and link type via SaaSCity's keyless MCP server, and check live directory backlinks.
 
 ## 📰 Articles & Blog Posts
 
