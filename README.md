@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [b2b-ai-mcp-skills](https://github.com/truonggiang0111/b2b-ai-mcp-skills) - 11 B2B market intelligence and RAG skills for direct-employer hiring signals, app store bug reviews, Google Ads creatives, creator emails, and Google News real-URL extraction via remote MCP.
 
 
 ## 🤝 Contribution
