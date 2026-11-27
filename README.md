@@ -287,6 +287,7 @@
 - [bro](https://github.com/luchasarie/bro-skill) - Re-explain dense answers or pasted text in plain language.
 - [fly-mode](https://github.com/alextitonis/fly.ai/tree/main/skills/fly-mode) - Respond as a fruit fly using a modeled fly brain connectome.
 - [placecall](https://github.com/voygr-tech/placecall) - Call US businesses for bookings, inquiries, and quotes through PlaceCall.
+- [awesome-claude-code-remote](https://github.com/0xMetalee/awesome-claude-code-remote) - macOS remote isolation & 24/7 unattended watchdog scripts (IP/ASN audit + caffeinate/tmux circuit breaker) for Claude Code.
 
 ## 📰 Articles & Blog Posts
 
