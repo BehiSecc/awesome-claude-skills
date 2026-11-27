@@ -216,7 +216,6 @@
 - [gta6-stream-clipper](https://github.com/jutsuhq/gta6-stream-clipper) - Turn GTA 6 stream VODs into 9:16 TikTok, Shorts and Reels clips with facecam split, word-by-word captions and Rockstar, platform and campaign rule checks.
 
 
-
 ## 🏥 Health & Life Sciences
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
