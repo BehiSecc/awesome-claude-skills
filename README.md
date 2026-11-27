@@ -256,6 +256,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
+- [check-skill-before-install](https://github.com/MrLaxmanKafle/exepal-skills/tree/main/skills/check-skill-before-install) - Scan a skill (ClawHub, GitHub or pasted SKILL.md) for malware set-up steps, credential theft and hidden instructions before installing it.
 
 
 
