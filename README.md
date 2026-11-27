@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [oursmeme-agent-skills](https://github.com/muranwirebaugh-cmyk/oursmeme-agent-skills) - Claude Code and Agent Skills bundle for launching and trading 0-fee BTC, ETH, and Gold perps on BNB Chain, using scoped on-chain subaccounts so agents never touch main wallet withdrawal rights.
 
 
 ## 🤝 Contribution
