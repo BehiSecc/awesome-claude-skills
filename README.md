@@ -213,7 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
-- [ReelStyles Free](https://github.com/reelstyles/reelstyles-free) - 9 free film style kits for AI agents (Claude Code, Codex, Cursor).
+- [reelstyles/reelstyles-free](https://github.com/reelstyles/reelstyles-free) - 9 free film style kits for AI agents (Claude Code, Codex, Cursor). Your agent animates the video in code and renders an MP4 on your computer.
 
 
 ## 🏥 Health & Life Sciences
