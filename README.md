@@ -304,6 +304,7 @@
 - [AlterLab-FC-Skills](https://github.com/AlterLab-IEU/AlterLab-FC-Skills) - 72 agentic skills for creative technology workflows across 11 domains.
 - [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
+- [awesome-game-skill](https://github.com/gdfsdjj145/awesome-game-skill) - 15 MIT-licensed game development skills (`SKILL.md`) for Claude Code, Codex, and Cursor covering combat juice, shaders, AI video-to-sprite pipelines, puzzle DFS solvers, and roguelike math, paired with live interactive browser labs at [gameskill.dev](https://gameskill.dev).
 - [Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk) - Open-source, provider-agnostic CLI for AI agents. 13 providers, built-in tools, skill marketplace.
 - [career-ops](https://github.com/santifer/career-ops) - Job-search skill collection for JD evaluation, ATS resumes, portal scans, interview prep, and negotiation.
 - [Claude Skills](https://github.com/borghei/Claude-Skills) - Large cross-domain Claude skill collection for engineering, compliance, marketing, legal, finance, and more.
