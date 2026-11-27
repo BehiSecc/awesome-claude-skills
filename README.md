@@ -173,6 +173,7 @@
 - [master-skill (大师.skill)](https://github.com/swaylq/master-skill) - Turn an industry's mental models and workflows into reusable agent skills.
 - [claudemy](https://github.com/assafkip/claudemy) - Create short audio courses with research, lesson cards, and practice exercises.
 - [understanding-ladder](https://github.com/ChangWenC/understanding-ladder) - Choose text, diagrams, interactive visuals, or video to explain concepts.
+- [bazi-textbook](https://github.com/bazilearner/bazi-textbook) - Textbook-style BaZi (Four Pillars) analysis: casts the chart, scores day-master strength, selects the useful god and walks the luck cycles, printing each step's formula and citing the classical source from a local offline table; renders a Chinese PDF report.
 
 
 ## 🎬 Media & Content
