@@ -102,6 +102,7 @@
 
 
 ## 📊 Data & Analysis
+- [pulse-crowd](https://github.com/SamuelCoreLabs/pulse-crowd) - Adaptive virtual crowd and in-app UX funnel simulator (1,000–25,000+ personas, zero-dep Python 3 stdlib) for dropshipping, e-commerce, apps, SaaS & launches.
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
