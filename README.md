@@ -332,6 +332,7 @@
 - [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) - Chinese-language Claude Code skills for development and other workflows.
 - [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - Research skills for literature reviews, analysis, writing, citations, and peer review.
 - [capgo-skills](https://github.com/Cap-go/capgo-skills) - Capacitor skills for upgrades, plugins, mobile testing, security, and deployment.
+- [ASOScan/aso-skills](https://github.com/ASOScan/aso-skills) - 9 skills that bring ASOScan, a complete App Store Optimization platform for the App Store and Google Play (also a web dashboard and a ChatGPT app), into Claude: keyword research, daily ranks, competitor keywords, a listing audit and review insights for your own apps.
 
 
 ## 🤝 Contribution
