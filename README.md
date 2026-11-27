@@ -183,6 +183,7 @@
 - [elevenlabs](https://github.com/sanjay3290/ai-skills/tree/main/skills/elevenlabs) - Text-to-speech narration and two-host podcast generation from documents using ElevenLabs API.
 - [google-tts](https://github.com/sanjay3290/ai-skills/tree/main/skills/google-tts) - Text-to-speech narration and podcast generation using Google Cloud TTS.
 - [NoizAI/skills](https://github.com/NoizAI/skills) - Human-like TTS workflows with local/cloud backends, style presets, and app delivery scripts.
+- [eyrove-prompt](https://github.com/Eyrove/eyrove-prompt-extension) - Turn any image on the web into an editable, eight-dimension prompt, plus the original prompt when metadata exists; 100,000+ prompts for GPT Image 2.5, Midjourney and Flux.
 - [claude-epub-skill](https://github.com/smerchek/claude-epub-skill) - Convert markdown documents, chat summaries, or research reports into a downloadable epub file that can be sent to Kindle.
 - [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.) 
 - [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: generate images (Flux), text-to-speech, transcribe YouTube/audio, OCR, video generation, upscale, and remove backgrounds via deAPI. Works with Cursor, Windsurf & Continue.dev.
