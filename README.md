@@ -256,6 +256,8 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
 - [reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Analyze binaries and applications using the REA reverse-engineering skill.
+- [priorart](https://github.com/KhomDev/priorart/tree/main/skills/priorart) - Check an audit or bug-bounty finding against saved prior audits, known issues and scope before submitting; quotes the evidence, never a verdict.
+- [realism-gate](https://github.com/KhomDev/realism-gate/tree/main/skills/realism-gate) - Gate an exploit PoC and a finding's claims before submitting an audit or bug-bounty report (Foundry, Solana, Move); runs the realism-gate CLI and stops on a contradicted claim.
 
 
 
