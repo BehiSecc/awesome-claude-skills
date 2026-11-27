@@ -159,6 +159,7 @@
 - [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) - Plan, write, and audit email campaigns with deliverability and compliance guidance.
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Track new AI models, products, and repositories across online sources.
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check backlinks and directories for broken links and spam risks.
+- [ukr-humanize](https://github.com/MaxKarasha/ukr-dev-kit/tree/main/skills/ukr-humanize) - Remove AI-writing tells from Ukrainian text: channel-aware chat markup, connector dashes, template sections; scanner calibrated on 2026 model output and 26 rewrite patterns.
 
 
 ## 📘 Learning & Knowledge  
@@ -243,6 +244,7 @@
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
 - [court-skill](https://github.com/alexyc9381/court-skill) - Test an idea with prosecutor, defense, juror, and judge agents.
+- [pm-kit-ua](https://github.com/MaxKarasha/pm-kit-ua) - Product manager skills in Ukrainian: backlog triage with a decision log, RICE/ICE/Kano/WSJF scoring that refuses to invent missing data, Now/Next/Later roadmaps from ClickUp, Jira or GitLab.
 
 
 ## 🛡 Security & Web Testing
