@@ -246,7 +246,7 @@
 
 
 ## 🛡 Security & Web Testing
-- [Insomnia Security Plugin & Skill](https://github.com/vulnz/insomnia-mcp) - Claude Code / Cursor / Antigravity security plugin & MCP server delivering 160 SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, and 21,100+ 1-Day CVE verification tools (`https://mcp.insom.ai/mcp`, 50 free credits).
+- [Insomnia Security Plugin & Skill](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - Claude Code / Cursor / Antigravity security plugin & MCP server delivering 160 SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, and 21,100+ 1-Day CVE verification tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 - [VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - VibeSec helps Claude write secure code and prevent common vulnerabilities.
 - [ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities.
 - [owasp-security](https://github.com/agamm/claude-code-owasp) - OWASP Top 10:2025, ASVS 5.0, and Agentic AI security (2026) with code review checklists, secure patterns, and language-specific quirks for 20+ languages.
