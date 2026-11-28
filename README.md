@@ -137,6 +137,7 @@
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
 - [Jev Social](https://github.com/socai-io/jev-social/tree/main/skills/jev-social) - Research Instagram, TikTok, and LinkedIn using browser-backed evidence.
 - [DeepRead](https://github.com/xiehuan123/dsh-deepread) - Read documents closely with traceable claims, knowledge maps, and comparisons.
+- **[Edgepedia](https://github.com/EdgePlat/edgepedia-mcp/tree/main/skills/edgepedia)** - Search and read 519,000+ cited encyclopedia articles across 31 languages via Edgepedia's keyless JSON API and hosted MCP server.
 
 
 ## ✍️ Writing & Research
