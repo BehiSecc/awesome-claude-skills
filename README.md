@@ -38,7 +38,7 @@
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
 - [humanpen-skill](https://github.com/humanpen/humanpen-skill) - Revise AI-generated text in Word documents and PowerPoint presentations.
 - [docx-cli](https://github.com/kklimuk/docx-cli/tree/main/skills/docx-cli) - Edit Word documents with tracked changes, comments, tables, and formatting.
-
+- [inkmap](https://github.com/zhiyuanvision-lang/InkMap/tree/main/skills/inkmap) - Open and edit local Markdown (`.md`) files as an interactive two-way mind map, visual Mermaid flowchart editor, and clipboard screenshot workspace (`<doc>.assets/`).
 
 
 ## 🛠 Development & Code Tools
