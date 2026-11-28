@@ -213,6 +213,7 @@
 - [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) - Ecommerce image skills for product photos, infographics, and Amazon listings.
 - [blender-kiln](https://github.com/elithril/blender-kiln) - Create and refine game-ready 3D assets in Blender.
 - [Kinetograph](https://github.com/0xS4N4TG/kinetograph/tree/main/packages/cli/skills/kinetograph) - Create and render motion graphics and videos with Kinetograph.
+- [tiktok-slideshows](https://github.com/tomoyaf/tiktok-slideshow-skill) - Plan TikTok and Instagram slideshows that market an app, using hook shapes and slide recipes from a study of 131 slideshows.
 
 
 ## 🏥 Health & Life Sciences
